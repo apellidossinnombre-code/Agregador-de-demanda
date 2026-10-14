@@ -1,10 +1,10 @@
 {
- "updatedAt": 1791974531208,
+ "updatedAt": 1791991931576,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "date": "2026-11-30T00:00:00Z",
+   "date": "2026-11-23T00:00:00Z",
    "status": "TBD",
    "vehicle": "Ariane 64 Block 2",
    "provider": "Arianespace",
