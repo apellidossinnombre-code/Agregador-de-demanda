@@ -25,11 +25,15 @@ function write(file, obj, itemsKey) {
 
 (async () => {
   try {
-    const d = await getJson(`${LL2}/launches/upcoming/?limit=100&mode=detailed&hide_recent_previous=true`, KEY ? { Authorization: 'Token ' + KEY } : {});
+    const d = await getJson(`${LL2}/${/\/2\.[3-9]/.test(LL2) ? 'launches' : 'launch'}/upcoming/?limit=100&mode=detailed&hide_recent_previous=true`, KEY ? { Authorization: 'Token ' + KEY } : {});
     const ov = read(OVR, {});
     const all = (d.results || []).map((l) => normalize(l, ov));
     write('launches.json', { updatedAt: Date.now(), launches: all.filter((l) => l.vehEU || l.payEU) }, 'launches');
-  } catch (e) { console.error('[LL2]', e.message); }
+  } catch (e) {
+    console.error('[LL2]', e.message);
+    // Si nunca ha habido datos válidos, la ejecución sale en rojo para que el fallo sea visible.
+    if (!read(path.join(OUT, 'launches.json'), {}).updatedAt) process.exitCode = 1;
+  }
   try {
     const d = await getJson(`${SNAPI}/articles/?limit=50&ordering=-published_at`);
     const all = (d.results || []).map((a) => ({ id: a.id, title: a.title, url: a.url, image: a.image_url, site: a.news_site, summary: a.summary, publishedAt: a.published_at, eu: NEWS_EU_RE.test(a.title + ' ' + a.summary) }));
