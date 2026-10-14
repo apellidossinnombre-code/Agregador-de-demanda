@@ -1,1 +1,125 @@
-{"updatedAt":null,"news":[]}
+{
+ "updatedAt": 1791973379495,
+ "news": [
+  {
+   "id": 40369,
+   "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
+   "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "The Starship second stage of SpaceX’s Integrated Flight Test-13 is back at Starbase, TX after surprisingly surviving splashdown in the Indian Ocean in July. To date, it is the only […]",
+   "publishedAt": "2026-10-14T00:40:42Z",
+   "eu": false
+  },
+  {
+   "id": 40368,
+   "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
+   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\r\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
+   "publishedAt": "2026-10-13T22:09:39Z",
+   "eu": false
+  },
+  {
+   "id": 40367,
+   "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
+   "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
+   "site": "NASA",
+   "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+   "publishedAt": "2026-10-13T15:02:21Z",
+   "eu": false
+  },
+  {
+   "id": 40366,
+   "title": "SpaceX launches NASA science and cargo to the International Space Station",
+   "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+   "site": "Spaceflight Now",
+   "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
+   "publishedAt": "2026-10-13T14:07:50Z",
+   "eu": false
+  },
+  {
+   "id": 40364,
+   "title": "Mars moon lander set to launch on 19 October",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+   "site": "ESA",
+   "summary": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth.",
+   "publishedAt": "2026-10-13T12:00:00Z",
+   "eu": false
+  },
+  {
+   "id": 40363,
+   "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+   "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
+   "site": "NASA",
+   "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
+   "publishedAt": "2026-10-13T11:12:18Z",
+   "eu": false
+  },
+  {
+   "id": 40361,
+   "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
+   "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
+   "site": "European Spaceflight",
+   "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
+   "publishedAt": "2026-10-13T06:32:20Z",
+   "eu": true
+  },
+  {
+   "id": 40358,
+   "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+   "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
+   "publishedAt": "2026-10-13T01:19:30Z",
+   "eu": false
+  },
+  {
+   "id": 40357,
+   "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
+   "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
+   "publishedAt": "2026-10-12T22:21:40Z",
+   "eu": false
+  },
+  {
+   "id": 40356,
+   "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
+   "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-scaled.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\r\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com.",
+   "publishedAt": "2026-10-12T21:08:32Z",
+   "eu": false
+  },
+  {
+   "id": 40355,
+   "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+   "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+   "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+   "site": "NASA",
+   "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
+   "publishedAt": "2026-10-12T17:45:27Z",
+   "eu": false
+  },
+  {
+   "id": 40343,
+   "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
+   "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\r\nThe post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com.",
+   "publishedAt": "2026-10-11T14:29:52Z",
+   "eu": false
+  }
+ ]
+}
