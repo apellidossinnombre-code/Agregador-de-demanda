@@ -1,0 +1,37 @@
+name: Actualizar datos
+on:
+  schedule:
+    - cron: '4-59/10 * * * *'   # cada 10 min (minutos 4,14,24…); GitHub puede retrasarlo
+  workflow_dispatch:            # botón "Run workflow" para lanzarlo a mano
+permissions:
+  contents: write
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Consultar APIs y generar JSON
+        env:
+          LL2_API_KEY: ${{ secrets.LL2_API_KEY }}
+        run: node scripts/update-data.js
+      - name: Guardar cambios
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Actualizar datos"
+          # Los JSON se regeneran enteros: si hay conflicto, se conserva la versión recién generada.
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          echo "No se pudo subir el commit"; exit 1
