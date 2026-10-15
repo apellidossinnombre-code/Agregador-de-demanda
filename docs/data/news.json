@@ -1,13 +1,33 @@
 {
- "updatedAt": 1792060009383,
+ "updatedAt": 1792077540484,
  "news": [
+  {
+   "id": 40398,
+   "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+   "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
+   "site": "NASA",
+   "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
+   "publishedAt": "2026-10-15T14:57:21Z",
+   "eu": true
+  },
+  {
+   "id": 40394,
+   "title": "Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix",
+   "url": "https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Arianespace-Targets-23-Nov-Ariane-6-Return-Following-Reported-Turbopump-Fix.webp",
+   "site": "European Spaceflight",
+   "summary": "Arianespace has announced that the next Ariane 6 launch will take place no earlier than 23 November, marking the rocket’s return to flight after ground testing reportedly revealed an issue with one of its turbopumps. The flight will carry 36 Amazon Leo satellites aboard an Ariane 64, the rocket’s four-booster configuration. It will be the […]\r\nThe post Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix appeared first on European Spaceflight.",
+   "publishedAt": "2026-10-15T10:50:18Z",
+   "eu": true
+  },
   {
    "id": 40388,
    "title": "Artemis III SLS teams prepare short stack for pad tanking test",
    "url": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060.jpg",
    "site": "NASASpaceflight",
-   "summary": "With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…\nThe post Artemis III SLS teams prepare short stack for pad tanking test appeared first on NASASpaceFlight.com.",
+   "summary": "With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…\r\nThe post Artemis III SLS teams prepare short stack for pad tanking test appeared first on NASASpaceFlight.com.",
    "publishedAt": "2026-10-14T22:36:14Z",
    "eu": false
   },
