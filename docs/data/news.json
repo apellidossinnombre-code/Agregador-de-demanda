@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792050428392,
+ "updatedAt": 1792060009383,
  "news": [
   {
    "id": 40388,
@@ -159,16 +159,6 @@
    "site": "NASA",
    "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
    "publishedAt": "2026-10-12T17:45:27Z",
-   "eu": false
-  },
-  {
-   "id": 40343,
-   "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
-   "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818.jpg",
-   "site": "NASASpaceflight",
-   "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\r\nThe post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com.",
-   "publishedAt": "2026-10-11T14:29:52Z",
    "eu": false
   }
  ]
