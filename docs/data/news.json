@@ -1,6 +1,16 @@
 {
- "updatedAt": 1792091808907,
+ "updatedAt": 1792103447742,
  "news": [
+  {
+   "id": 40405,
+   "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
+   "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 4:57 p.m. PDT (7:57 p.m. EDT / 2357 UTC). ",
+   "publishedAt": "2026-10-15T19:11:45Z",
+   "eu": false
+  },
   {
    "id": 40398,
    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
@@ -159,26 +169,6 @@
    "site": "Spaceflight Now",
    "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
    "publishedAt": "2026-10-12T22:21:40Z",
-   "eu": false
-  },
-  {
-   "id": 40356,
-   "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
-   "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-scaled.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\r\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com.",
-   "publishedAt": "2026-10-12T21:08:32Z",
-   "eu": false
-  },
-  {
-   "id": 40355,
-   "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-   "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
-   "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-   "site": "NASA",
-   "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
-   "publishedAt": "2026-10-12T17:45:27Z",
    "eu": false
   }
  ]
