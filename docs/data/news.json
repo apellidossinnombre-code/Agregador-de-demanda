@@ -1,6 +1,26 @@
 {
- "updatedAt": 1792111325436,
+ "updatedAt": 1792127270778,
  "news": [
+  {
+   "id": 40409,
+   "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
+   "url": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\nThe post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com.",
+   "publishedAt": "2026-10-16T03:49:06Z",
+   "eu": false
+  },
+  {
+   "id": 40408,
+   "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+   "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Mars-Phobos-Deimos-NASA-300x154.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "The Japan Aerospace Exploration Agency (JAXA) is getting ready to launch its Martian Moons eXploration mission early next week. The spacecraft will collect samples of Phobos, one of the moons […]",
+   "publishedAt": "2026-10-16T00:14:30Z",
+   "eu": false
+  },
   {
    "id": 40405,
    "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
@@ -150,26 +170,6 @@
    "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
    "publishedAt": "2026-10-13T06:32:20Z",
    "eu": true
-  },
-  {
-   "id": 40358,
-   "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
-   "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
-   "site": "Spaceflight Now",
-   "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
-   "publishedAt": "2026-10-13T01:19:30Z",
-   "eu": false
-  },
-  {
-   "id": 40357,
-   "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
-   "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
-   "site": "Spaceflight Now",
-   "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
-   "publishedAt": "2026-10-12T22:21:40Z",
-   "eu": false
   }
  ]
 }
