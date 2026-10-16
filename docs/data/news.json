@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792127270778,
+ "updatedAt": 1792144244806,
  "news": [
   {
    "id": 40409,
@@ -160,16 +160,6 @@
    "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
    "publishedAt": "2026-10-13T11:12:18Z",
    "eu": false
-  },
-  {
-   "id": 40361,
-   "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
-   "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
-   "site": "European Spaceflight",
-   "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
-   "publishedAt": "2026-10-13T06:32:20Z",
-   "eu": true
   }
  ]
 }
