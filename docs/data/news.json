@@ -1,13 +1,33 @@
 {
- "updatedAt": 1792144244806,
+ "updatedAt": 1792160736919,
  "news": [
+  {
+   "id": 40418,
+   "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
+   "url": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
+   "site": "Spaceflight Now",
+   "summary": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges. ",
+   "publishedAt": "2026-10-16T13:17:28Z",
+   "eu": false
+  },
+  {
+   "id": 40413,
+   "title": "Blue Origin is going all in on the New Glenn rocket",
+   "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png",
+   "site": "Arstechnica",
+   "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
+   "publishedAt": "2026-10-16T10:00:54Z",
+   "eu": false
+  },
   {
    "id": 40409,
    "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
    "url": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/",
    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168.jpg",
    "site": "NASASpaceflight",
-   "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\nThe post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com.",
+   "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\r\nThe post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com.",
    "publishedAt": "2026-10-16T03:49:06Z",
    "eu": false
   },
@@ -27,7 +47,7 @@
    "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
    "image": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
    "site": "Spaceflight Now",
-   "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 4:57 p.m. PDT (7:57 p.m. EDT / 2357 UTC). ",
+   "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 4:57 p.m. PDT (7:57 p.m. EDT / 2357 UTC).",
    "publishedAt": "2026-10-15T19:11:45Z",
    "eu": false
   },
@@ -129,36 +149,6 @@
    "site": "NASA",
    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
    "publishedAt": "2026-10-13T15:02:21Z",
-   "eu": false
-  },
-  {
-   "id": 40366,
-   "title": "SpaceX launches NASA science and cargo to the International Space Station",
-   "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
-   "site": "Spaceflight Now",
-   "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
-   "publishedAt": "2026-10-13T14:07:50Z",
-   "eu": false
-  },
-  {
-   "id": 40364,
-   "title": "Mars moon lander set to launch on 19 October",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
-   "site": "ESA",
-   "summary": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth.",
-   "publishedAt": "2026-10-13T12:00:00Z",
-   "eu": false
-  },
-  {
-   "id": 40363,
-   "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-   "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
-   "site": "NASA",
-   "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
-   "publishedAt": "2026-10-13T11:12:18Z",
    "eu": false
   }
  ]
