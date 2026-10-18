@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792287066070,
+ "updatedAt": 1792305190442,
  "news": [
   {
    "id": 40420,
@@ -130,16 +130,6 @@
    "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\r\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
    "publishedAt": "2026-10-13T22:09:39Z",
    "eu": false
-  },
-  {
-   "id": 40381,
-   "title": "Comparing Off-World Rover Driving Distances",
-   "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26814/PIA26814.png",
-   "site": "NASA",
-   "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two are distances driven as of Oct. 11, 2026. As of that date, […]",
-   "publishedAt": "2026-10-13T17:56:08Z",
-   "eu": true
   }
  ]
 }
