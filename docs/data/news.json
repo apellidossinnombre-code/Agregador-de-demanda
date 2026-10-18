@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792352543002,
+ "updatedAt": 1792360582403,
  "news": [
   {
    "id": 40426,
@@ -130,16 +130,6 @@
    "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
    "publishedAt": "2026-10-14T13:32:25Z",
    "eu": true
-  },
-  {
-   "id": 40369,
-   "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
-   "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "The Starship second stage of SpaceX’s Integrated Flight Test-13 is back at Starbase, TX after surprisingly surviving splashdown in the Indian Ocean in July. To date, it is the only […]",
-   "publishedAt": "2026-10-14T00:40:42Z",
-   "eu": false
   }
  ]
 }
