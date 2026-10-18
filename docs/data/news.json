@@ -1,6 +1,26 @@
 {
- "updatedAt": 1792335079070,
+ "updatedAt": 1792345367815,
  "news": [
+  {
+   "id": 40426,
+   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+   "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261017_Bandwagon-5_payloads.jpeg",
+   "site": "Spaceflight Now",
+   "summary": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a one-hour window that opens at 6:30 a.m. EDT (1030 UTC). ",
+   "publishedAt": "2026-10-18T16:32:02Z",
+   "eu": true
+  },
+  {
+   "id": 40425,
+   "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+   "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605.jpg",
+   "site": "NASASpaceflight",
+   "summary": "SpaceX is advancing toward its next two Starship missions as the company looks to close…\nThe post SpaceX working through Starship Flight 15 and 16 milestones appeared first on NASASpaceFlight.com.",
+   "publishedAt": "2026-10-18T16:31:04Z",
+   "eu": false
+  },
   {
    "id": 40420,
    "title": "I Am Artemis: Allison Mjoen",
@@ -119,16 +139,6 @@
    "site": "SpacePolicyOnline.com",
    "summary": "The Starship second stage of SpaceX’s Integrated Flight Test-13 is back at Starbase, TX after surprisingly surviving splashdown in the Indian Ocean in July. To date, it is the only […]",
    "publishedAt": "2026-10-14T00:40:42Z",
-   "eu": false
-  },
-  {
-   "id": 40368,
-   "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\r\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
-   "publishedAt": "2026-10-13T22:09:39Z",
    "eu": false
   }
  ]
