@@ -1,6 +1,16 @@
 {
- "updatedAt": 1792360582403,
+ "updatedAt": 1792368468057,
  "news": [
+  {
+   "id": 40428,
+   "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
+   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/8194EC01-F52C-4218-BDD9-A460FAF2AB63.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…\nThe post Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida appeared first on NASASpaceFlight.com.",
+   "publishedAt": "2026-10-18T22:29:48Z",
+   "eu": false
+  },
   {
    "id": 40426,
    "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
