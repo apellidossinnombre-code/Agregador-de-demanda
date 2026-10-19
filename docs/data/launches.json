@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792405195925,
+ "updatedAt": 1792429409479,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -604,32 +604,6 @@
    "payEU": true,
    "euReason": [
     "carga: Intelsat"
-   ]
-  },
-  {
-   "id": "912a8aee-8fc2-47b4-81a5-040fa0e0a36f",
-   "name": "Vega-C | IRIDE 1",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Vega-C",
-   "provider": "Avio S.p.A",
-   "providerCountry": "ITA",
-   "payload": "IRIDE 1",
-   "missionType": "Earth Science",
-   "orbit": "Sun-Synchronous Orbit",
-   "description": "First dedicated launch for the European Space Agency's IRIDE Earth observation constellation.",
-   "pad": "Ariane Launch Area 1 (ELV)",
-   "location": "Guiana Space Centre, French Guiana",
-   "webcastLive": false,
-   "lat": 5.236,
-   "lon": -52.775,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
-   "vehEU": true,
-   "payEU": false,
-   "euReason": [
-    "lanzador: operador Avio S.p.A"
    ]
   }
  ]
