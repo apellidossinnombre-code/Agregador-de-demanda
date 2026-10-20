@@ -1,6 +1,16 @@
 {
- "updatedAt": 1792529664474,
+ "updatedAt": 1792540089993,
  "news": [
+  {
+   "id": 40499,
+   "title": "Retransmisión en directo: SpaceX lanzará 27 satélites Starlink a bordo del cohete Falcon 9 desde la Base Espacial de Vandenberg",
+   "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+   "site": "Spaceflight Now",
+   "summary": "El lanzamiento en California tiene lugar pocas horas después de que la empresa haya presentado sus resultados del segundo trimestre como sociedad cotizada en bolsa. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:10 h PDT (19:10 h EDT / 23:10 UTC). ",
+   "publishedAt": "2026-10-20T21:18:11Z",
+   "eu": false
+  },
   {
    "id": 40496,
    "title": "Avance de los lanzamientos: el H3, el Falcon 9, el Electron y otros cohetes despegarán durante una semana repleta de actividad",
