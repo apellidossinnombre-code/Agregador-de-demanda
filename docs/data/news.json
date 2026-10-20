@@ -1,6 +1,16 @@
 {
- "updatedAt": 1792517667658,
+ "updatedAt": 1792529664474,
  "news": [
+  {
+   "id": 40496,
+   "title": "Avance de los lanzamientos: el H3, el Falcon 9, el Electron y otros cohetes despegarán durante una semana repleta de actividad",
+   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Esta semana está previsto el lanzamiento de nueve cohetes desde California, Florida, Nueva Zelanda, Japón y…\nLa entrada «Avance de lanzamientos: H3, Falcon 9, Electron y otros se lanzarán durante una semana muy ajetreada» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-10-20T17:22:03Z",
+   "eu": false
+  },
   {
    "id": 40481,
    "title": "La misión MMX de la JAXA, de camino a Marte para traer muestras de Fobos",
@@ -139,16 +149,6 @@
    "site": "Arstechnica",
    "summary": "La infraestructura está diseñada para dar cabida a varios vuelos a la semana a finales de esta década.",
    "publishedAt": "2026-10-16T10:00:54Z",
-   "eu": false
-  },
-  {
-   "id": 40409,
-   "title": "Los problemas con la fibra de carbono obligan a Rocket Lab a retrasar el estreno del «Neutron» hasta, como muy pronto, 2027",
-   "url": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168.jpg",
-   "site": "NASASpaceflight",
-   "summary": "Rocket Lab ha vuelto a retrasar su lanzador Neutron tras unos problemas en la fabricación de la fibra de carbono…\nLa entrada «Los problemas con la fibra de carbono obligan a Rocket Lab a retrasar el estreno del Neutron hasta, como muy pronto, 2027» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-16T03:49:06Z",
    "eu": false
   }
  ]
