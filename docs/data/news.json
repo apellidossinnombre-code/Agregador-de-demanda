@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792480716547,
+ "updatedAt": 1792517667658,
  "news": [
   {
    "id": 40481,
@@ -149,26 +149,6 @@
    "site": "NASASpaceflight",
    "summary": "Rocket Lab ha vuelto a retrasar su lanzador Neutron tras unos problemas en la fabricación de la fibra de carbono…\nLa entrada «Los problemas con la fibra de carbono obligan a Rocket Lab a retrasar el estreno del Neutron hasta, como muy pronto, 2027» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-16T03:49:06Z",
-   "eu": false
-  },
-  {
-   "id": 40408,
-   "title": "La misión MMX de la JAXA a Marte se prepara para su lanzamiento con dos instrumentos de la NASA",
-   "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Mars-Phobos-Deimos-NASA-300x154.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "La Agencia Japonesa de Exploración Aeroespacial (JAXA) se está preparando para lanzar su misión «Martian Moons eXploration» a principios de la próxima semana. La nave espacial recogerá muestras de Fobos, una de las lunas […]",
-   "publishedAt": "2026-10-16T00:14:30Z",
-   "eu": false
-  },
-  {
-   "id": 40405,
-   "title": "Retransmisión en directo: SpaceX lanzará una carga útil clasificada para la Fuerza Espacial de EE. UU.",
-   "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg, en California, está previsto para el jueves 15 de octubre a las 16:57 h PDT (19:57 h EDT / 23:57 UTC).",
-   "publishedAt": "2026-10-15T19:11:45Z",
    "eu": false
   }
  ]
