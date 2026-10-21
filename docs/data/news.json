@@ -1,6 +1,36 @@
 {
- "updatedAt": 1792607793324,
+ "updatedAt": 1792619917624,
  "news": [
+  {
+   "id": 40519,
+   "title": "La NASA lleva a cabo una prueba del motor RS-25 en apoyo de las futuras misiones Artemis",
+   "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+   "site": "NASA",
+   "summary": "La NASA probó el motor RS-25 n.º 10001 el 21 de octubre en el banco de pruebas Fred Haise del Centro Espacial Stennis de la NASA, cerca de Bay St. Louis, Misisipi. Los equipos de pruebas pusieron en marcha el motor en fase de desarrollo durante casi ocho minutos y medio (500 segundos), el mismo tiempo que los motores RS-25 permanecen en funcionamiento durante el lanzamiento del cohete SLS (Sistema de Lanzamiento Espacial) de la NASA. Durante […]",
+   "publishedAt": "2026-10-21T20:51:50Z",
+   "eu": false
+  },
+  {
+   "id": 40518,
+   "title": "China prepara su primera nave de reabastecimiento comercial, el primer vuelo de repetición de un propulsor y el próximo intento de aterrizaje",
+   "url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC.webp",
+   "site": "NASASpaceflight",
+   "summary": "A medida que el ritmo de lanzamientos sigue aumentando, China avanza cada vez más hacia los cohetes reutilizables, ya que…\nLa entrada «China prepara su primera nave comercial de reabastecimiento, el primer vuelo de reutilización de un propulsor y el próximo intento de aterrizaje» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-10-21T20:25:50Z",
+   "eu": false
+  },
+  {
+   "id": 40517,
+   "title": "El JPL de la NASA mira hacia los próximos 90 años de innovación y exploración",
+   "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
+   "site": "NASA",
+   "summary": "Sondas interestelares. Drones lunares. Helicópteros en Marte. Cuando un grupo de estudiantes de posgrado y aficionados del Caltech comenzó a realizar pruebas de propulsión a cohete en Arroyo Seco, en Pasadena, el 31 de octubre de 1936, no tenían ni idea de que su trabajo marcaría el inicio del Laboratorio de Propulsión a Chorro. Noventa años después, el laboratorio, ahora gestionado por el Caltech para la NASA, no es […]",
+   "publishedAt": "2026-10-21T18:35:56Z",
+   "eu": false
+  },
   {
    "id": 40516,
    "title": "SpaceX intentará alcanzar una frecuencia de lanzamientos semanales de la Starship a principios de 2027",
@@ -109,16 +139,6 @@
    "site": "NASASpaceflight",
    "summary": "PLD Space ha entrado en una nueva fase de cara al primer vuelo de demostración de su…\nLa entrada «PLD Space comienza las pruebas a nivel de sistema del Miura 5 mientras los tres primeros vehículos van tomando forma» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-19T13:35:12Z",
-   "eu": true
-  },
-  {
-   "id": 40442,
-   "title": "Una década «mar-avillosa»: celebramos los diez años de TGO",
-   "url": "https://www.esa.int/Enabling_Support/Operations/A_Mars-velous_decade_Celebrating_ten_years_of_TGO",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/tgo_s_ten_year_mars_arrival_anniversary/27584180-1-eng-GB/TGO_s_ten_year_Mars_arrival_anniversary_card_full.jpg",
-   "site": "ESA",
-   "summary": "Diez años después de llegar a Marte, el ExoMars Trace Gas Orbiter (TGO) de la ESA ha superado con creces sus ambiciones iniciales. Desde el estudio de la atmósfera marciana hasta convertirse en un enlace de comunicaciones fundamental con la superficie, la historia de la misión es también una historia de adaptabilidad, resiliencia y de las personas que hay detrás de ella.",
-   "publishedAt": "2026-10-19T13:08:00Z",
    "eu": true
   }
  ]
