@@ -103,5 +103,58 @@
    "https://thespacedevs.com/llapi"
   ],
   "at": 1792575442895
+ },
+ "2f31a7f0-968a-448d-b447-333bf0341078": {
+  "key": "bc45469d3b12",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva Rivada 4 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Networks es una empresa de tecnología de las comunicaciones con sede en Estados Unidos y oficinas en Estados Unidos e Irlanda.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
+   "https://en.wikipedia.org/wiki/Rivada_Networks"
+  ],
+  "at": 1792576184660
+ },
+ "fa895702-687b-4ba3-95fb-9462a2c9844b": {
+  "key": "6f86394206a6",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva Rivada 5 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Port Graham Solutions, también conocida como RPGS, es una pequeña empresa certificada por la SBA.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
+   "https://en.wikipedia.org/wiki/Rivada_Port_Graham_Solutions"
+  ],
+  "at": 1792576186339
+ },
+ "46d6822b-82aa-452c-aa34-80b6f052de84": {
+  "key": "57af415de317",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva Rivada 6 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. El Falcon 9 Block 5 es un vehículo de lanzamiento de dos etapas, de empuje medio y parcialmente reutilizable, diseñado y fabricado en Estados Unidos por SpaceX.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Falcon_9_Block_5"
+  ],
+  "at": 1792576186644
+ },
+ "1fa3741c-3339-4954-a026-2cd9d36161c0": {
+  "key": "281f9ba2e077",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva Rivada 7 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792576186906
+ },
+ "7d77bd89-af23-4a5a-b632-de0034003a64": {
+  "key": "b7270b33c33f",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva Rivada 8 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792576187261
+ },
+ "5ce7e9b6-b471-4a88-891f-2a6f21cb369f": {
+  "key": "c323e882e9b7",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva Rivada 9 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792576187613
  }
 }

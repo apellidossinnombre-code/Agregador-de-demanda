@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792575442895,
+ "updatedAt": 1792576187613,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -40,7 +40,7 @@
    "euReason": [
     "lanzador: operador Arianespace"
    ],
-   "resumen": "Ariane 64 Block 2, de Arianespace, lleva Amazon Leo (LE-04) a Low Earth Orbit desde Guiana Space Centre, French Guiana. Amazon Leo, anteriormente conocido como Proyecto Kuiper, es una megaconstelación de satélites en órbita terrestre baja que ofrecerá acceso a Internet de banda ancha; esta constelación estará gestionada por Kuiper Systems LLC, una filial de Amazon. Amazon Leo es una filial de Amazon creada en 2019 para desplegar una gran constelación de In",
+   "resumen": "Ariane 64 Block 2, de Arianespace, lleva Amazon Leo (LE-04) a Low Earth Orbit desde Guiana Space Centre, French Guiana. Amazon Leo, anteriormente conocido como Proyecto Kuiper, es una megaconstelación de satélites en órbita terrestre baja que ofrecerá acceso a Internet de banda ancha; esta constelación estará gestionada por Kuiper Systems LLC, una filial de Amazon.",
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi",
@@ -719,6 +719,13 @@
    "payEU": true,
    "euReason": [
     "carga: Rivada Space Networks"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 4 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Networks es una empresa de tecnología de las comunicaciones con sede en Estados Unidos y oficinas en Estados Unidos e Irlanda.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
+    "https://en.wikipedia.org/wiki/Rivada_Networks"
    ]
   },
   {
@@ -775,6 +782,13 @@
    "payEU": true,
    "euReason": [
     "carga: Rivada Space Networks"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 5 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Port Graham Solutions, también conocida como RPGS, es una pequeña empresa certificada por la SBA.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
+    "https://en.wikipedia.org/wiki/Rivada_Port_Graham_Solutions"
    ]
   },
   {
@@ -831,6 +845,12 @@
    "payEU": true,
    "euReason": [
     "carga: Rivada Space Networks"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 6 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. El Falcon 9 Block 5 es un vehículo de lanzamiento de dos etapas, de empuje medio y parcialmente reutilizable, diseñado y fabricado en Estados Unidos por SpaceX.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Falcon_9_Block_5"
    ]
   },
   {
@@ -887,6 +907,11 @@
    "payEU": true,
    "euReason": [
     "carga: Rivada Space Networks"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 7 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
@@ -943,6 +968,11 @@
    "payEU": true,
    "euReason": [
     "carga: Rivada Space Networks"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 8 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
@@ -999,6 +1029,11 @@
    "payEU": true,
    "euReason": [
     "carga: Rivada Space Networks"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 9 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
