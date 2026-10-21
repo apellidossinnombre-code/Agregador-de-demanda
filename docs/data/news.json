@@ -1,6 +1,26 @@
 {
- "updatedAt": 1792591831309,
+ "updatedAt": 1792607793324,
  "news": [
+  {
+   "id": 40516,
+   "title": "SpaceX intentará alcanzar una frecuencia de lanzamientos semanales de la Starship a principios de 2027",
+   "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ.jpg",
+   "site": "Arstechnica",
+   "summary": "«Hemos mantenido un diálogo muy constructivo con la FAA».",
+   "publishedAt": "2026-10-21T16:46:19Z",
+   "eu": false
+  },
+  {
+   "id": 40510,
+   "title": "Airbus entrega la primera bahía de popa Vulcain de peso ligero para el Ariane 6 Bloque 2",
+   "url": "https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Airbus-Ships-First-Lightweight-Vulcain-Aft-Bay-for-Ariane-6-Block-2.webp",
+   "site": "European Spaceflight",
+   "summary": "Airbus Países Bajos ha entregado la primera bahía trasera Vulcain de peso ligero para el Ariane 6, como parte de las mejoras del Bloque 2 del cohete. Sin embargo, la reducción total de peso parece ser más modesta de lo previsto inicialmente. En una publicación de LinkedIn del 21 de octubre, el presidente de Airbus Países Bajos, Rob Postma, anunció que la estructura mejorada, denominada «Flight Model 16» (FM16), […]\nLa publicación «Airbus entrega la primera sección trasera ligera del motor Vulcain para el Ariane 6 Bloque 2» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-10-21T14:34:27Z",
+   "eu": true
+  },
   {
    "id": 40508,
    "title": "El instrumento CASALS de la NASA subsana las lagunas en los mapas tridimensionales de la superficie terrestre",
@@ -100,46 +120,6 @@
    "summary": "Diez años después de llegar a Marte, el ExoMars Trace Gas Orbiter (TGO) de la ESA ha superado con creces sus ambiciones iniciales. Desde el estudio de la atmósfera marciana hasta convertirse en un enlace de comunicaciones fundamental con la superficie, la historia de la misión es también una historia de adaptabilidad, resiliencia y de las personas que hay detrás de ella.",
    "publishedAt": "2026-10-19T13:08:00Z",
    "eu": true
-  },
-  {
-   "id": 40433,
-   "title": "Ciencia y tecnología para la Luna",
-   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/moonset_1_of_6/27385453-2-eng-GB/Moonset_1_of_6_card_full.jpg",
-   "site": "ESA",
-   "summary": "Volver a la Luna es algo más que llegar a su superficie. Antes de poder vivir y trabajar allí a largo plazo, debemos aprender a desenvolvernos de forma segura y sostenible en el entorno lunar, conocer sus recursos y desarrollar las tecnologías de las que dependerán los futuros exploradores. ",
-   "publishedAt": "2026-10-19T09:12:00Z",
-   "eu": true
-  },
-  {
-   "id": 40428,
-   "title": "El Falcon 9 se prepara para lanzar la misión de transporte compartido Bandwagon-5 desde Florida",
-   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/8194EC01-F52C-4218-BDD9-A460FAF2AB63.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "Tras el éxito de la misión Transporter 18 a principios de mes, SpaceX…\nLa entrada «El Falcon 9 se prepara para lanzar la misión compartida Bandwagon-5 desde Florida» apareció primero en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-18T22:29:48Z",
-   "eu": false
-  },
-  {
-   "id": 40426,
-   "title": "Cobertura en directo: SpaceX lanzará la cápsula de reentrada Starfall y 31 cargas útiles de clientes en la misión de transporte compartido Bandwagon-5",
-   "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261017_Bandwagon-5_payloads.jpeg",
-   "site": "Spaceflight Now",
-   "summary": "Este será el segundo lanzamiento de la cápsula de reentrada no tripulada de SpaceX, Starfall. El despegue desde la plataforma 40 de la Estación de la Fuerza Espacial de Cabo Cañaveral está previsto durante una ventana de una hora que comienza a las 6:30 h EDT (10:30 UTC).",
-   "publishedAt": "2026-10-18T16:32:02Z",
-   "eu": true
-  },
-  {
-   "id": 40425,
-   "title": "SpaceX avanza en los hitos de los vuelos 15 y 16 de Starship",
-   "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605.jpg",
-   "site": "NASASpaceflight",
-   "summary": "SpaceX avanza hacia sus dos próximas misiones de la Starship, mientras la empresa se dispone a cerrar…\nLa entrada «SpaceX trabaja en los hitos de los vuelos 15 y 16 de la Starship» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-18T16:31:04Z",
-   "eu": false
   }
  ]
 }
