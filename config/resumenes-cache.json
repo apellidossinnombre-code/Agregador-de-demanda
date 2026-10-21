@@ -156,5 +156,57 @@
    "https://thespacedevs.com/llapi"
   ],
   "at": 1792576187613
+ },
+ "a8c191e1-b231-4b2e-aefd-5e8ad55c7a82": {
+  "key": "ef1428c3bd0a",
+  "text": "Miura 5, de Payload Aerospace S.L., lleva Maiden Flight a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer vuelo del lanzador Miura 5. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Miura_5",
+   "https://en.wikipedia.org/wiki/Maiden_flight"
+  ],
+  "at": 1792591826974
+ },
+ "1b11f81e-cdbf-49aa-a7ce-aa79f609046c": {
+  "key": "6695d8a552ce",
+  "text": "Orbex Prime, de Orbex, lleva Maiden Flight a Unknown desde SaxaVord Spaceport. Vuelo inaugural del cohete «Prime» de Orbex desde el puerto espacial de Sutherland. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://en.wikipedia.org/wiki/Orbex",
+   "https://en.wikipedia.org/wiki/Maiden_flight"
+  ],
+  "at": 1792591827862
+ },
+ "91b13c6c-4525-496d-997b-3521bb6a4cd8": {
+  "key": "8f22fa6bd2f5",
+  "text": "RFA One, de Rocket Factory Augsburg, lleva Maiden Flight a Sun-Synchronous Orbit desde SaxaVord Spaceport. Primer vuelo del lanzador RFA One.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792591828270
+ },
+ "b565ab64-1642-4cef-a13f-f3dad53518e7": {
+  "key": "b61e425c64b8",
+  "text": "Spectrum, de Isar Aerospace, lleva Cassini a Low Earth Orbit desde Andøya Spaceport. Tres pequeños satélites que transportan cargas útiles para empresas de toda Europa, en el marco de los programas IOD (demostración en órbita) e IOV (verificación en órbita) de la ESA y la Unión Europea.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792591828836
+ },
+ "2e37a196-f5f8-4496-96ae-63f4b6b27912": {
+  "key": "98fbe1933729",
+  "text": "Terran R, de Relativity Space, lleva Intelsat-1 a Unknown desde Cape Canaveral SFS, FL, USA. Esta es la primera misión que forma parte de un acuerdo plurianual y de múltiples lanzamientos firmado entre Intelsat y Relativity Space en 2023.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792591829343
+ },
+ "912a8aee-8fc2-47b4-81a5-040fa0e0a36f": {
+  "key": "b6234a325a1d",
+  "text": "Vega-C, de Avio S.p.A, lleva IRIDE 1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer lanzamiento específico para la constelación de observación de la Tierra IRIDE de la Agencia Espacial Europea.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792591829945
  }
 }

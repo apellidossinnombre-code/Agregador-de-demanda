@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792576187613,
+ "updatedAt": 1792591829946,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -1075,6 +1075,13 @@
    "euReason": [
     "lanzador: operador Payload Aerospace S.L.",
     "carga: Payload Aerospace S.L."
+   ],
+   "resumen": "Miura 5, de Payload Aerospace S.L., lleva Maiden Flight a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer vuelo del lanzador Miura 5. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Miura_5",
+    "https://en.wikipedia.org/wiki/Maiden_flight"
    ]
   },
   {
@@ -1116,6 +1123,13 @@
    "euReason": [
     "lanzador: operador Orbex",
     "carga: Orbex"
+   ],
+   "resumen": "Orbex Prime, de Orbex, lleva Maiden Flight a Unknown desde SaxaVord Spaceport. Vuelo inaugural del cohete «Prime» de Orbex desde el puerto espacial de Sutherland. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://en.wikipedia.org/wiki/Orbex",
+    "https://en.wikipedia.org/wiki/Maiden_flight"
    ]
   },
   {
@@ -1157,6 +1171,11 @@
    "euReason": [
     "lanzador: operador Rocket Factory Augsburg",
     "carga: Rocket Factory Augsburg"
+   ],
+   "resumen": "RFA One, de Rocket Factory Augsburg, lleva Maiden Flight a Sun-Synchronous Orbit desde SaxaVord Spaceport. Primer vuelo del lanzador RFA One.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
@@ -1198,6 +1217,11 @@
    "euReason": [
     "lanzador: operador Isar Aerospace",
     "carga: ISISPACE"
+   ],
+   "resumen": "Spectrum, de Isar Aerospace, lleva Cassini a Low Earth Orbit desde Andøya Spaceport. Tres pequeños satélites que transportan cargas útiles para empresas de toda Europa, en el marco de los programas IOD (demostración en órbita) e IOV (verificación en órbita) de la ESA y la Unión Europea.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
@@ -1238,6 +1262,11 @@
    "payEU": true,
    "euReason": [
     "carga: Intelsat"
+   ],
+   "resumen": "Terran R, de Relativity Space, lleva Intelsat-1 a Unknown desde Cape Canaveral SFS, FL, USA. Esta es la primera misión que forma parte de un acuerdo plurianual y de múltiples lanzamientos firmado entre Intelsat y Relativity Space en 2023.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
@@ -1278,6 +1307,11 @@
    "payEU": false,
    "euReason": [
     "lanzador: operador Avio S.p.A"
+   ],
+   "resumen": "Vega-C, de Avio S.p.A, lleva IRIDE 1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer lanzamiento específico para la constelación de observación de la Tierra IRIDE de la Agencia Espacial Europea.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   }
  ]
