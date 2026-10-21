@@ -1,0 +1,54 @@
+{
+ "7bdc412b-c965-4517-a131-f57a01189803": {
+  "key": "29a24d887a34",
+  "text": "Ariane 64 Block 2, de Arianespace, lleva Amazon Leo (LE-04) a Low Earth Orbit desde Guiana Space Centre, French Guiana. Amazon Leo, anteriormente conocido como Proyecto Kuiper, es una megaconstelación de satélites en órbita terrestre baja que ofrecerá acceso a Internet de banda ancha; esta constelación estará gestionada por Kuiper Systems LLC, una filial de Amazon. Amazon Leo es una filial de Amazon creada en 2019 para desplegar una gran constelación de In",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://en.wikipedia.org/wiki/Ariane_6",
+   "https://es.wikipedia.org/wiki/Amazon_Leo"
+  ],
+  "at": 1792572677445
+ },
+ "22e117bf-041c-49d5-9d09-7b180036e143": {
+  "key": "d3307c89af24",
+  "text": "Ariane 62, de Arianespace, lleva Metop-SG B1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Segundo satélite meteorológico de la segunda generación de la serie Metop de EUMETSAT. MetOp-SG es una serie de seis satélites meteorológicos desarrollados por la Agencia Espacial Europea y EUMETSAT, cuyo lanzamiento está previsto entre 2025 y 2039.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Ariane_6",
+   "https://en.wikipedia.org/wiki/MetOp-SG"
+  ],
+  "at": 1792572678376
+ },
+ "60f4ba6c-4201-4727-94aa-0015a5a0023f": {
+  "key": "9d9ca3bc02a7",
+  "text": "Spectrum, de Isar Aerospace, lleva 1 x Pelican satellite a Sun-Synchronous Orbit desde Andøya Spaceport. La carga útil está compuesta por un único satélite de imágenes de alta resolución «Pelican» para Planet Labs Alemania.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792572679025
+ },
+ "b48e32c5-3776-4684-a956-5ea4df032e90": {
+  "key": "02c18f771fde",
+  "text": "Spectrum, de Isar Aerospace, lleva ΣYNDEO-3 a Low Earth Orbit desde Andøya Spaceport. ΣYNDEO-3 es un satélite construido por Redwire Corporation para el Programa de Demostración y Validación en Órbita (IOD/IOV) de la Unión Europea y la Agencia Espacial Europea (ESA), que transportará diez cargas útiles de demostración tecnológica diferentes procedentes de instituciones de España, Francia, Alemania, Italia, Luxemburgo y la Comisión Europea.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792572679541
+ },
+ "3b94ad50-3505-496e-8a95-b0bc4c0dadc6": {
+  "key": "c2d29ea1caa8",
+  "text": "Themis Demonstrator, de European Space Agency, lleva T1H-1 a Suborbital desde Esrange Space Center. Primera prueba de vuelo de corta distancia de un prototipo de Themis, con una altitud prevista de hasta 100 m.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792572679949
+ },
+ "dff42a2e-f047-48d7-b260-3888d3a4fe33": {
+  "key": "3a0993d1515d",
+  "text": "Spectrum, de Isar Aerospace, lleva AT-Astra and Others (Spectrum Flight 3) a Sun-Synchronous Orbit desde Andøya Spaceport. Tercer vuelo de prueba del vehículo de lanzamiento Isar Spectrum.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1792572680284
+ }
+}
