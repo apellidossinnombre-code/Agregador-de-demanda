@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#01040a">
+<title>Centro de control de lanzamientos europeos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&family=JetBrains+Mono:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<script>(function(){var t=null;try{t=localStorage.getItem("aee-tema")}catch(e){}if(t!=="light"&&t!=="dark")t="dark";document.documentElement.dataset.theme=t;
+addEventListener("DOMContentLoaded",function(){var b=document.getElementById("tm"),m=document.querySelector("meta[name=theme-color]");function ap(x){document.documentElement.dataset.theme=x;b.textContent=x=="light"?"\u263E":"\u2600";b.setAttribute("aria-label",x=="light"?"Cambiar a modo oscuro":"Cambiar a modo claro");if(m)m.content=x=="light"?"#0a2f6e":"#01040a"}
+ap(t);b.onclick=function(){t=t=="light"?"dark":"light";ap(t);try{localStorage.setItem("aee-tema",t)}catch(e){}}})})();</script>
+<style>
+:root{--bg:#01040a;--sf:#07122a;--sf2:#0c1c3d;--tx:#e9effc;--mu:#8ea3c9;--ln:#142a52;--co:#4f93ff;--te:#3fd6bb;--am:#ffb84d;--rd:#ff6b6b;
+font-family:var(--fb);box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box}html{scroll-padding-top:calc(60px + env(safe-area-inset-top,0px))}
+body{margin:0;background:var(--bg);color:var(--tx);line-height:1.5}
+h1,h2,h3,.dt strong,.cd strong,.stt b,.bar b{font-family:var(--fh)}
+a{color:inherit;text-decoration:none}a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--co);outline-offset:2px}
+.w{max-width:1100px;margin:0 auto;padding:0 20px}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:rgba(0,0,0,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--ln)}
+.bar .w{display:flex;align-items:center;gap:22px;height:56px}.bar b{font-size:17px;display:flex;gap:9px;align-items:center}.bar svg{width:26px;height:26px;color:var(--co)}
+.bar nav{display:flex;gap:18px;font-size:15px;color:var(--mu)}.bar nav a.on,.bar nav a:hover{color:var(--tx)}.bar .sp{flex:1}.bar small{color:var(--mu);font-size:12.5px}
+.hero{position:relative;overflow:hidden;color:#fff;min-height:440px;display:flex;align-items:flex-end;background:linear-gradient(180deg,#01040a,#08245f)}
+.hero .stars{position:absolute;top:0;left:0;width:2px;height:2px;border-radius:50%}
+.hero .horizon{position:absolute;left:50%;bottom:-120%;width:170%;aspect-ratio:1;transform:translateX(-50%);border-radius:50%;background:radial-gradient(circle,#030d26 62%,#0a2a6b);box-shadow:0 -3px 70px #5b8cffaa,inset 0 30px 80px #2f6bff66}
+.hero .bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.55}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.9),rgba(0,0,0,.2) 70%),linear-gradient(0deg,var(--bg),transparent 45%)}
+.hero .in{position:relative;z-index:2;width:100%;max-width:1100px;margin:0 auto;padding:64px 20px 34px}
+.hero h1{margin:10px 0 6px;font-size:clamp(28px,5.2vw,54px);line-height:1.08;max-width:20ch;text-wrap:balance}.hero p{margin:0 0 22px;font-size:17px;opacity:.88}
+.live{display:inline-flex;gap:8px;align-items:center;font-size:14px}.live::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--rd)}
+.cd{display:flex;gap:10px;flex-wrap:wrap}.cd div{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.2);border-radius:12px;padding:10px 16px;min-width:76px;text-align:center}
+.cd strong{display:block;font-size:34px;font-variant-numeric:tabular-nums;line-height:1.1}.cd em{font-style:normal;font-size:12px;opacity:.75}
+.meta{margin-top:18px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.btn{display:inline-block;background:var(--co);color:var(--onco);font-weight:600;padding:8px 16px;border-radius:99px;border:0;font:inherit;font-weight:600;cursor:pointer}
+@media(prefers-reduced-motion:no-preference){.hero .in{animation:up .7s both}@keyframes up{from{opacity:0;transform:translateY(14px)}}}
+.tg{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;padding:2px 10px;border-radius:99px;border:1px solid var(--ln);margin:0 4px 4px 0}
+.hero .tg{border-color:rgba(255,255,255,.35)}.tg::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--c,var(--mu))}
+.v{--c:var(--co)}.p{--c:var(--te)}.n{opacity:.6}
+.stt{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:26px auto;text-align:center}@media(max-width:700px){.stt{grid-template-columns:1fr 1fr}}
+.stt div{background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:14px 16px}.stt b{display:block;font-size:28px}.stt span{color:var(--mu);font-size:13px}
+.ask{background:var(--sf);border:1px solid var(--ln);border-radius:16px;padding:18px;margin-bottom:34px}
+.ask h2{margin:0 0 4px;font-size:18px}.ask .sub{margin:0 0 12px}
+.ask form{display:flex;gap:8px}.ask input{flex:1;min-width:0;background:var(--bg);border:1px solid var(--ln);border-radius:99px;color:var(--tx);padding:9px 16px;font:inherit}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.chips button{background:transparent;border:1px solid var(--ln);color:var(--mu);border-radius:99px;padding:4px 12px;font:inherit;font-size:13px;cursor:pointer}.chips button:hover{color:var(--tx);border-color:var(--co)}
+#ans{margin-top:12px}#ans p{margin:0 0 4px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:36px}@media(max-width:780px){.cols{grid-template-columns:1fr}}
+.sh{display:flex;align-items:center;gap:10px;margin-bottom:4px}.sh h2{margin:0;font-size:21px}.sh i{width:12px;height:12px;border-radius:50%;background:var(--c)}.sh a,.sh span{margin-left:auto;font-size:13px;color:var(--mu)}.sh a:hover{color:var(--co)}
+.sub{margin:0 0 6px;color:var(--mu);font-size:14px}
+.it{display:grid;grid-template-columns:84px 1fr 60px;gap:14px;padding:14px 0;border-bottom:1px solid var(--ln);align-items:start}.it:hover h3{color:var(--co)}
+.th{position:relative;overflow:hidden;width:84px;height:84px;border-radius:12px;display:grid;place-items:center;color:#ffffffaa;background:linear-gradient(135deg,hsl(var(--h) 65% 38%),hsl(calc(var(--h) + 45) 70% 18%))}
+.th svg{width:34px;height:34px}.th img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.it h3{margin:0;font-size:16px;line-height:1.25}.it p{margin:2px 0 8px;color:var(--mu);font-size:14px}
+.dt{text-align:center;color:var(--mu);font-size:12px;line-height:1.2}.dt strong{display:block;font-size:26px;color:var(--tx)}
+.news{margin-top:44px}.ng{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;margin-top:12px}
+.ng .th{width:100%;height:auto;aspect-ratio:16/9}.ng h3{margin:10px 0 4px;font-size:16px;line-height:1.3}.ng small{color:var(--mu)}
+.ctl{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0 8px}.ctl input{flex:1;min-width:200px;background:var(--sf);border:1px solid var(--ln);border-radius:99px;color:var(--tx);padding:9px 16px;font:inherit}
+.ctl button{background:var(--sf);border:1px solid var(--ln);color:var(--mu);border-radius:99px;padding:8px 14px;font:inherit;cursor:pointer}.ctl button.on{color:var(--onco);background:var(--co);border-color:var(--co)}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:26px 0}.facts div{background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:12px 16px}
+.facts dt{color:var(--mu);font-size:13px}.facts dd{margin:2px 0 0;font-weight:600}
+.back{display:inline-block;margin:20px 0 0;color:var(--mu)}.back:hover{color:var(--tx)}
+.txt{max-width:70ch;color:var(--tx2)}.why li{color:var(--mu);margin:2px 0}
+footer{border-top:1px solid var(--ln);margin-top:50px;padding:22px 0 34px;color:var(--mu);font-size:12.5px}
+.bar nav{overflow-x:auto;white-space:nowrap;scrollbar-width:none;flex:1 1 auto;min-width:0;padding-right:8px}.bar nav>*{flex:none}.bar .w{gap:16px}
+.map{height:480px;border-radius:14px;overflow:hidden;border:1px solid var(--ln);background:#030a1a}.leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.85) contrast(.9)}.leaflet-container{background:#030a1a;font:inherit}
+.vid{aspect-ratio:16/9;border-radius:14px;overflow:hidden;background:#000;margin:14px 0}.vid iframe{width:100%;height:100%;border:0}
+.ctl select{background:var(--sf);border:1px solid var(--ln);border-radius:99px;color:var(--tx);padding:9px 16px;font:inherit;max-width:100%}.ctl input{min-width:130px}
+.bar nav button{background:none;border:0;color:var(--mu);font:inherit;cursor:pointer;padding:0}.bar nav button.on,.bar nav button:hover{color:var(--tx)}
+.dd{position:fixed;top:calc(56px + env(safe-area-inset-top,0px));left:0;right:0;z-index:6;background:var(--sf);border-bottom:1px solid var(--ln)}.dd .w{display:flex;gap:8px;flex-wrap:wrap;padding:12px 20px}
+.pl{display:inline-block;border:1px solid var(--ln);border-radius:99px;padding:6px 14px;font-size:14px;color:var(--mu);background:var(--sf)}.pl:hover{color:var(--tx)}.pl.on{background:var(--co);border-color:var(--co);color:var(--onco)}
+.ig{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;margin-top:16px}.ic{background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:16px}.ic h3{margin:0}.ic .s{color:var(--mu);font-size:13.5px}.ic p{margin:8px 0}
+.ic dl{margin:10px 0 0;display:grid;grid-template-columns:auto 1fr;gap:4px 14px;font-size:13.5px}.ic dt{color:var(--mu)}.ic dd{margin:0}
+.gl dt{font-weight:600;margin-top:14px}.gl dd{margin:2px 0 0;color:var(--tx2);max-width:70ch}.ph{list-style:none;padding:0;max-width:800px}.ph li{display:grid;grid-template-columns:130px 1fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--ln)}
+.ph2{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;margin-bottom:10px}.ic img.lg{height:44px;width:auto;max-width:140px;object-fit:contain;background:#fff;border-radius:8px;padding:4px;margin-bottom:8px}.lk a{margin-right:14px;color:var(--co);font-size:13.5px}
+.ibar{background:var(--bg);border-bottom:0;padding:30px 0 18px}.ibar h1{margin:0 0 4px;font-size:clamp(26px,4vw,38px)}.ibar p{margin:0 0 16px;color:#b9c6e8}.ibar .ctl{margin:0}
+.ic{padding:0;border-radius:18px;overflow:hidden;transition:border-color .2s,transform .2s}.ic:hover{border-color:var(--co);transform:translateY(-2px)}
+.mh{position:relative;height:150px;display:grid;place-items:center;color:#ffffff88;background:linear-gradient(135deg,hsl(var(--h) 65% 38%),hsl(calc(var(--h) + 45) 70% 16%))}.mh svg{width:52px;height:52px}.mh img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.mh::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(11,15,26,.85),transparent 55%)}
+.st{position:absolute;z-index:1;top:10px;left:10px;font-size:12px;padding:3px 10px;border-radius:99px;background:rgba(0,0,0,.55);color:#cdd6ee;backdrop-filter:blur(6px)}.st.on{color:var(--te)}.st.re{left:auto;right:10px;color:var(--co)}
+.bd{padding:16px}.bd h3{margin:0;font-size:18px}
+.kp{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.kp div{background:var(--bg);border:1px solid var(--ln);border-radius:12px;padding:8px 12px}.kp b{display:block;font-family:var(--fh);font-size:17px}.kp span{color:var(--mu);font-size:12.5px}
+.sb{display:flex;height:6px;border-radius:3px;overflow:hidden;background:var(--ln);margin-top:4px}.sl{color:var(--mu);font-size:12.5px;margin:4px 0 8px}
+.ds{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer;color:var(--tx2)}.ds.open{-webkit-line-clamp:unset;display:block}
+.ah{display:flex;gap:12px;align-items:center}.lg{position:relative;flex:none;width:56px;height:56px;border-radius:12px;overflow:hidden;display:grid;place-items:center;background:linear-gradient(135deg,hsl(var(--h) 65% 38%),hsl(calc(var(--h) + 45) 70% 18%))}.lg em{font-style:normal;font-weight:700;font-size:15px;color:#fff}.lg img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;padding:5px}
+.tp{display:inline-block;font-size:12.5px;padding:2px 10px;border-radius:99px;background:color-mix(in srgb,var(--c) 18%,transparent);color:var(--c)}
+.cp{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 8px}.cp span{font-size:12.5px;border:1px solid var(--ln);border-radius:99px;padding:1px 9px;color:#cdd6ee}
+.bx{background:var(--sf);border:1px solid var(--ln);border-radius:16px;padding:16px}.bx h3{margin:0 0 8px;font-size:16px}.br{display:grid;grid-template-columns:150px 1fr 34px;gap:10px;align-items:center;margin:6px 0;font-size:14px}.br span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.br i{height:8px;border-radius:4px;background:var(--co);display:block}.br b{text-align:right}
+.sg{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}@media(max-width:780px){.sg{grid-template-columns:1fr}}
+.cgw{overflow-x:auto}.cg{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;min-width:640px}.cg .hd{color:var(--mu);font-size:13px;text-align:center}.cl{min-height:92px;background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:6px;font-size:12.5px;color:var(--mu)}.cl.today{border-color:var(--co)}.cl a{display:block;margin-top:4px;padding:2px 6px;border-radius:6px;background:color-mix(in srgb,var(--co) 22%,transparent);color:var(--tx);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tl{list-style:none;padding:0;max-width:640px}.tl li{display:grid;grid-template-columns:110px 1fr;gap:12px;padding:7px 0;border-bottom:1px solid var(--ln)}.tl b{font-family:var(--fh);font-size:14px;color:var(--co)}
+.fv{cursor:pointer;color:var(--mu);font-size:18px;line-height:1}.fv.on{color:var(--am)}
+.vid{position:relative}.tvb{display:none}.vid:fullscreen{border-radius:0;margin:0;aspect-ratio:auto;background:#000}.vid:fullscreen .tvb{display:flex;position:absolute;left:0;right:0;bottom:0;justify-content:space-between;align-items:flex-end;gap:20px;padding:22px 30px;background:linear-gradient(0deg,rgba(0,0,0,.85),transparent);font-family:var(--fh);font-size:clamp(18px,3vw,34px);pointer-events:none}
+.tw{overflow-x:auto;margin-top:14px}.tb{width:100%;border-collapse:collapse;font-size:13.5px}.tb th,.tb td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--ln);white-space:nowrap}.tb th{color:var(--mu);font-weight:600}.tb td:first-child{color:var(--mu)}
+@media print{header.bar,.dd,footer,.noprint,.ibar{display:none!important}:root{--bg:#fff;--sf:#fff;--tx:#111;--mu:#444;--ln:#ccc;--co:#1a4fd6;--te:#0a7d69}body{background:#fff;color:#111;-webkit-print-color-adjust:exact;print-color-adjust:exact}.bx,.stt div{break-inside:avoid}.tb th{background:#eee}h2{break-after:avoid}.tb tr{break-inside:avoid}.tb td,.tb th{white-space:normal}}
+:root{--fh:Orbitron,"Segoe UI",system-ui,sans-serif;--fm:"JetBrains Mono",ui-monospace,Consolas,monospace;--fb:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;color-scheme:dark;--tx2:#cdd6ee;--onco:#001033}
+html[data-theme=light]{color-scheme:light;--bg:#f7f9fb;--sf:#fff;--sf2:#eef3f6;--tx:#0a2146;--mu:#566275;--ln:#dde6ec;--co:#0a4fb4;--te:#0a7d69;--am:#9a5b00;--rd:#c62828;--tx2:#1d3256;--onco:#fff}
+html[data-theme=light] .hero{color:var(--tx);background:radial-gradient(40% 60% at 20% 30%,rgba(125,205,250,.5),transparent 70%),radial-gradient(40% 60% at 80% 20%,rgba(130,170,255,.4),transparent 70%),linear-gradient(180deg,#f3faff,#dcf0fc 60%,#e6eefc);background-size:160% 160%,160% 160%,auto}
+html[data-theme=light] .hero .stars{display:none}
+html[data-theme=light] .hero .horizon{display:none}
+html[data-theme=light] .hero::after{background:linear-gradient(90deg,rgba(255,255,255,.5),rgba(255,255,255,0) 70%),linear-gradient(0deg,var(--bg),transparent 35%)}
+html[data-theme=light] .hero:has(.bg)::after{background:linear-gradient(90deg,rgba(255,255,255,.92),rgba(255,255,255,.2) 70%),linear-gradient(0deg,var(--bg),transparent 45%)}
+html[data-theme=light] .cd div{background:rgba(255,255,255,.8);border-color:var(--ln)}
+html[data-theme=light] .hero .tg{border-color:var(--ln)}
+html[data-theme=light] .bar{background:rgba(10,47,110,.97);border-bottom-color:#0a2f6e;--tx:#fff;--mu:#dbe7fb;--co:#fff;--sf:rgba(255,255,255,.14);--ln:rgba(255,255,255,.35)}
+html[data-theme=light] .ibar{background:var(--bg);border-bottom:0}
+html[data-theme=light] .ibar p{color:var(--mu)}
+html[data-theme=light] .map,html[data-theme=light] .leaflet-container{background:#dfe6f5}html[data-theme=light] .leaflet-tile-pane{filter:none}
+body{font-size:17px}.tm{flex:none;background:var(--sf);border:1px solid var(--ln);color:var(--tx);border-radius:99px;width:36px;height:36px;font-size:17px;line-height:1;display:grid;place-items:center;cursor:pointer;padding:0}.tm:hover{border-color:var(--co)}
+h1,h2,h3,.dt strong,.cd strong,.stt b,.bar b{font-weight:500;letter-spacing:.01em}
+.hero h1{font-size:clamp(24px,4.2vw,46px);font-weight:400;line-height:1.15;max-width:24ch}.bar b{font-size:13px}
+.stt span,.cd em,.tg,.facts dt,.pl,.ctl button,.bar small,.live,.rsm{font-family:var(--fm)}
+.stt span,.cd em,.live,.facts dt{text-transform:uppercase;letter-spacing:.1em;font-size:11.5px}.tg,.pl,.ctl button{font-size:12px;letter-spacing:.04em}
+.hero .rs{font-size:17px;max-width:62ch;margin:0 0 8px;opacity:.95}.hero .rsm{font-size:11.5px;opacity:.7;margin:0 0 20px}.rsm a{text-decoration:underline}
+html[data-theme=light] .bar{border-bottom:3px solid #0e72b8}
+html[data-theme=light] .cd strong{color:#0e72b8}
+html[data-theme=light] .stt div,html[data-theme=light] .facts div,html[data-theme=light] .ic,html[data-theme=light] .it,html[data-theme=light] .ng a,html[data-theme=light] .ask{box-shadow:0 1px 2px rgba(20,60,100,.06),0 8px 20px rgba(20,60,100,.07)}
+html[data-theme=light] .it:hover,html[data-theme=light] .ic:hover,html[data-theme=light] .ng a:hover{border-color:#0e72b8}
+@media(prefers-reduced-motion:no-preference){
+html[data-theme=light] .hero{animation:aur 18s ease-in-out infinite alternate}
+html[data-theme=light] .it,html[data-theme=light] .ic,html[data-theme=light] .ng a{transition:transform .2s,box-shadow .2s,border-color .2s}
+html[data-theme=light] .it:hover,html[data-theme=light] .ic:hover,html[data-theme=light] .ng a:hover{transform:translateY(-3px);box-shadow:0 2px 4px rgba(20,60,100,.08),0 14px 28px rgba(56,168,236,.2)}
+@keyframes aur{from{background-position:0% 0%,100% 0%,0 0}to{background-position:100% 100%,0% 100%,0 0}}
+}
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+</head>
+<body>
+<header class="bar"><div class="w">
+<b><svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="14" cy="14" r="4.5" fill="currentColor"/><ellipse cx="14" cy="14" rx="12" ry="5" transform="rotate(-25 14 14)"/></svg>Lanzamientos europeos</b>
+<nav><a href="#/">Inicio</a><a href="#/lanzamientos">Lanzamientos</a><a href="#/mapa">Mapa</a><a href="#/en-vivo">En vivo</a><a href="#/seguimiento">Seguimiento</a><a href="#/mis-lanzamientos">Mis lanzamientos</a><button id="ib2" aria-expanded="false" aria-controls="dd2">Herramientas ▾</button><button id="ib" aria-expanded="false" aria-controls="dd">Información ▾</button><a href="#/noticias">Noticias</a><a href="#/avisos">Avisos</a></nav><span class="sp"></span><small id="notice">Cargando…</small><button id="tm" class="tm" type="button" title="Cambiar entre modo claro y oscuro" aria-label="Cambiar a modo claro">☀</button>
+</div></header>
+<div class="dd" id="dd" hidden><div class="w"></div></div>
+<div class="dd" id="dd2" hidden><div class="w"></div></div>
+<div id="app"></div>
+<footer><div class="w">Agencia Espacial Española, herramienta interna. Las imágenes pertenecen a sus autores y fuentes. <a href="#/calidad" style="color:var(--co)">Calidad de los datos</a></div></footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/satellite.js@5.0.0/dist/satellite.min.js"></script>
+<script>
+const $=(s,e=document)=>e.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const https=u=>/^https:\/\//.test(u||"")?esc(u):"";
+const hue=s=>[...String(s||"x")].reduce((a,c)=>(a*31+c.charCodeAt(0))%360,7);
+const ROCKET='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"><path d="M12 2c3 2.5 4.5 6 4.5 10l-2 3h-5l-2-3c0-4 1.5-7.5 4.5-10zM9.5 15l-3 3 1 3 3-2M14.5 15l3 3-1 3-3-2"/><circle cx="12" cy="9.5" r="1.6" fill="currentColor"/></svg>';
+const thumb=(img,h)=>`<div class="th" style="--h:${h}">${ROCKET}${https(img)?`<img src="${https(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}</div>`;
+const utc=iso=>iso?new Date(iso).toLocaleString("es-ES",{dateStyle:"full",timeStyle:"short",timeZone:"UTC"})+" UTC":"Fecha por determinar";
+const loc=iso=>{if(!iso)return"Fecha por determinar";const d=new Date(iso),g=x=>d.toLocaleString("es-ES",{timeZone:"Europe/Madrid",...x}),y=g({year:"numeric"})!=new Date().toLocaleString("es-ES",{timeZone:"Europe/Madrid",year:"numeric"});return`el ${g({weekday:"long"})} ${g({day:"numeric"})} de ${g({month:"long"})}${y?" de "+g({year:"numeric"}):""} a las ${g({hour:"2-digit",minute:"2-digit",hourCycle:"h23"})} (hora peninsular)`};
+const rsm=l=>l.resumen?`<p class="rs">${esc(l.resumen)}</p>${l.resumenAuto?"":'<p class="rsm">Redactado por el equipo.</p>'}`:"";
+const rel=iso=>{const d=Math.ceil((new Date(iso)-Date.now())/864e5);return d<=0?"hoy":d==1?"mañana":"en "+d+" días"};
+const ST={Go:["Confirmado","te"],TBC:["Por confirmar","am"],TBD:["Fecha por determinar","mu"],Hold:["En espera","am"],Success:["Éxito","te"],Failure:["Fallo","rd"],"Partial Failure":["Fallo parcial","am"],"In Flight":["En vuelo","co"]};
+const VOC=[[/Low Earth Orbit/g,"Órbita terrestre baja"],[/Sun-Synchronous Orbit/g,"Órbita heliosíncrona"],[/Geostationary Transfer Orbit/g,"Órbita de transferencia geoestacionaria"],[/Geostationary Orbit/g,"Órbita geoestacionaria"],[/Medium Earth Orbit/g,"Órbita terrestre media"],[/Polar Orbit/g,"Órbita polar"],[/Highly Elliptical Orbit/g,"Órbita muy elíptica"],[/Lunar Orbit/g,"Órbita lunar"],[/Heliocentric Orbit/g,"Órbita heliocéntrica"],[/Suborbital/g,"Suborbital"],
+[/Earth Science/g,"Ciencias de la Tierra"],[/Communications/g,"Comunicaciones"],[/Navigation/g,"Navegación"],[/Planetary Science/g,"Ciencias planetarias"],[/Astrophysics/g,"Astrofísica"],[/Technology Development/g,"Desarrollo tecnológico"],[/Test Flight/g,"Vuelo de prueba"],[/Government\/Top Secret/g,"Gubernamental o reservada"],[/Human Exploration/g,"Exploración tripulada"],[/Resupply/g,"Reabastecimiento"],[/Dedicated Rideshare/g,"Lanzamiento compartido dedicado"],[/Robotic Exploration/g,"Exploración robótica"],[/Heliophysics/g,"Heliofísica"],[/Tourism/g,"Turismo"],
+[/Space Launch Complex/g,"Complejo de lanzamiento espacial"],[/Launch Complex/g,"Complejo de lanzamiento"],[/Launch Area/g,"Área de lanzamiento"],[/Launch Pad/g,"Plataforma de lanzamiento"],[/Space Center/g,"Centro espacial"],[/Space Centre/g,"Centro espacial"],[/Spaceport/g,"Puerto espacial"],[/Air Force Base/g,"Base de la Fuerza Aérea"],[/Unknown Pad/g,"Plataforma sin determinar"],[/Unknown Payload/g,"Carga sin determinar"],
+[/French Guiana/g,"Guayana Francesa"],[/Spain/g,"España"],[/Norway/g,"Noruega"],[/USA/g,"EE. UU."],[/New Zealand/g,"Nueva Zelanda"],[/Russia/g,"Rusia"],[/Japan/g,"Japón"],[/Kazakhstan/g,"Kazajistán"],[/United Kingdom/g,"Reino Unido"],[/Scotland/g,"Escocia"],[/Germany/g,"Alemania"],[/Italy/g,"Italia"],[/Sweden/g,"Suecia"],[/Australia/g,"Australia"]];
+const T=s=>VOC.reduce((a,[r,t])=>a.replace(r,t),String(s||""));
+const stat=s=>ST[s]?`<span style="color:var(--${ST[s][1]})">${ST[s][0]}</span>`:esc(s);
+const tags=l=>`<span class="tg ${l.vehEU?"v":"n"}">${l.vehEU?"Lanzador europeo":"Lanzador no europeo"}</span><span class="tg ${l.payEU?"p":"n"}">${l.payEU?"Carga europea":"Carga no europea"}</span>`;
+const row=l=>{const d=new Date(l.date);return `<a class="it" href="#/lanzamiento/${encodeURIComponent(l.id)}">${thumb(l.image,hue(l.provider||l.vehicle))}<div><h3>${esc(l.name)}</h3><p>${esc(l.vehicle)}${l.payload?", "+esc(l.payload):""}<br>${esc(T(l.location||l.pad))}</p>${tags(l)}${l.status?`<span class="tg">${stat(l.status)}</span>`:""}</div><div class="dt"><strong>${d.getDate()}</strong>${d.toLocaleString("es-ES",{month:"short"})}<br>${rel(l.date)}<br>${star(l.id)}</div></a>`};
+(()=>{})();
+let S={L:[],N:[],updatedAt:null,stale:false},ALL=[],next=null;
+const stars=()=>{let s=7,o=[];const r=()=>(s=(s*16807)%2147483647)/2147483647;for(let i=0;i<90;i++)o.push(`${(r()*100).toFixed(1)}vw ${Math.floor(r()*520)}px 0 ${r()>.8?1:0}px rgba(255,255,255,${(.3+r()*.7).toFixed(2)})`);return o.join(",")};
+function hero(l,detail){
+ if(!l)return `<section class="hero"><div class="horizon"></div><div class="in"><h1>Sin lanzamientos europeos programados</h1><p>Los datos se actualizan automáticamente.</p></div></section>`;
+ next=l;
+ return `<section class="hero">${https(l.image)?`<img class="bg" src="${https(l.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:'<div class="horizon"></div>'}<div class="stars" style="box-shadow:${stars()}"></div><div class="in"><span class="live">${detail?"Lanzamiento":"Próximo lanzamiento europeo"}</span><h1>${esc(l.name)}</h1><p>${esc(l.vehicle)}${l.payload?", "+esc(l.payload):""}. ${esc(T(l.location||l.pad))}</p>${rsm(l)}<div class="cd" id="cd"></div><div class="meta">${tags(l)}<span class="tg" title="${esc(utc(l.date))}">${loc(l.date)}</span>${l.status?`<span class="tg">${stat(l.status)}</span>`:""}${detail?"":`<a class="btn" href="#/lanzamiento/${encodeURIComponent(l.id)}">Ver detalles</a>`}</div></div></section>`}
+function tick(){const el=$("#cd");if(!el||!next||!next.date)return;const s=Math.max(0,Math.floor((new Date(next.date)-Date.now())/1000));
+ el.innerHTML=[[Math.floor(s/86400),"días"],[Math.floor(s%86400/3600),"horas"],[Math.floor(s%3600/60),"min"],[s%60,"seg"]].map(([n,u])=>`<div><strong>${String(n).padStart(2,"0")}</strong><em>${u}</em></div>`).join("")}
+function ask(q){const t=q.toLowerCase(),now=Date.now();let r,m;
+ if(/semana|7 d/.test(t)){r=ALL.filter(l=>new Date(l.date)-now<7*864e5);m=r.length?`Hay ${r.length} lanzamientos europeos en los próximos 7 días:`:"No hay lanzamientos europeos previstos en los próximos 7 días."}
+ else if(/pr[oó]xim|siguiente|cu[aá]ndo|next/.test(t)){r=ALL.slice(0,1);m=r.length?"El próximo lanzamiento europeo es:":"No hay lanzamientos europeos programados."}
+ else if(/carga|misi[oó]n/.test(t)){r=ALL.filter(l=>l.payEU).slice(0,5);m="Próximas misiones con carga europea:"}
+ else if(/lanzador|cohete/.test(t)){r=ALL.filter(l=>l.vehEU).slice(0,5);m="Próximos lanzamientos con lanzador europeo:"}
+ else{const w=t.split(/[^a-záéíóúñ0-9]+/).filter(x=>x.length>2);r=ALL.filter(l=>w.some(x=>(l.name+" "+l.vehicle+" "+l.payload+" "+l.provider).toLowerCase().includes(x))).slice(0,5);m=r.length?"Esto es lo que he encontrado:":"No he encontrado nada con esa búsqueda. Prueba con el nombre de un cohete o una misión."}
+ return `<p>${m}</p>`+r.map(l=>`<p><a href="#/lanzamiento/${encodeURIComponent(l.id)}" style="color:var(--co)">${esc(l.name)}</a>, ${loc(l.date)}</p>`).join("")}
+function home(){
+ const A=ALL.filter(l=>l.vehEU),B=ALL.filter(l=>l.payEU),m30=ALL.filter(l=>new Date(l.date)-Date.now()<30*864e5).length;
+ const emp='<p class="sub">Sin datos</p>';
+ return hero(ALL[0])+`<main class="w">
+<div class="stt"><div><b>${ALL.length}</b><span>lanzamientos europeos próximos</span></div><div><b>${A.length}</b><span>con lanzador europeo</span></div><div><b>${B.length}</b><span>con carga europea</span></div><div><b>${m30}</b><span>en los próximos 30 días</span></div></div>
+<section class="ask"><h2>Pregunta sobre los lanzamientos</h2><p class="sub">Consulta los datos cargados en esta página. No es una IA generativa.</p><form id="af"><input id="aq" placeholder="¿Qué lanzamiento europeo es el próximo?" aria-label="Pregunta"><button class="btn">Preguntar</button></form>
+<div class="chips"><button>¿Cuál es el próximo lanzamiento?</button><button>¿Qué se lanza esta semana?</button><button>¿Qué misiones europeas hay?</button><button>Ariane 6</button></div><div id="ans"></div></section>
+<div class="cols"><section><div class="sh"><i style="--c:var(--co)"></i><h2>Lanzadores europeos</h2><a href="#/lanzamientos">Ver todos</a></div><p class="sub">Con carga europea o no</p>${A.slice(0,6).map(row).join("")||emp}</section>
+<section><div class="sh"><i style="--c:var(--te)"></i><h2>Misiones europeas</h2><a href="#/lanzamientos">Ver todas</a></div><p class="sub">Con lanzador europeo o no</p>${B.slice(0,6).map(row).join("")||emp}</section></div>
+<section class="ask" style="margin:34px 0 0"><h2>Recibe un aviso antes de cada lanzamiento</h2><p class="sub">Te escribimos cuando un lanzamiento europeo esté a menos de 15 días.</p><a class="btn" href="#/avisos">Solicitar avisos</a></section>
+<section class="news"><div class="sh"><h2>Noticias de lanzadores</h2><a href="#/noticias">Ver todas</a></div><div class="ng">${S.N.slice(0,6).map(n=>`<a href="${https(n.url)||"#"}" target="_blank" rel="noopener noreferrer">${thumb(n.image,hue(n.site))}<h3>${esc(n.title)}</h3><small>${esc(n.site)}${n.publishedAt?", "+new Date(n.publishedAt).toLocaleDateString("es-ES"):""}</small></a>`).join("")||emp}</div></section></main>`}
+let F={q:"",f:"all"};
+const flt=()=>ALL.filter(l=>(F.f=="all"||(F.f=="v"&&l.vehEU)||(F.f=="p"&&l.payEU)||(F.f=="go"&&l.status=="Go"))&&(!F.q||(l.name+" "+l.vehicle+" "+l.payload+" "+l.provider+" "+l.location).toLowerCase().includes(F.q.toLowerCase())));
+function list(){const b=[["all","Todos"],["v","Lanzador europeo"],["p","Carga europea"],["go","Confirmados"]];
+ return `<main class="w"><h1 style="margin:28px 0 0">Todos los lanzamientos</h1><div class="ctl"><input id="sq" placeholder="Buscar por cohete, misión u operador" value="${esc(F.q)}" aria-label="Buscar">${b.map(([k,t])=>`<button data-f="${k}" class="${F.f==k?"on":""}">${t}</button>`).join("")}<button id="ex">Exportar CSV</button></div><div id="lr">${flt().map(row).join("")||'<p class="sub">Ningún lanzamiento coincide con el filtro.</p>'}</div></main>`}
+function detail(id){const l=ALL.find(x=>String(x.id)==id)||S.L.find(x=>String(x.id)==id);
+ if(!l)return `<main class="w"><a class="back" href="#/lanzamientos">Volver a los lanzamientos</a><h1>No se encuentra el lanzamiento</h1></main>`;
+ const f=(k,v)=>v?`<div><dt>${k}</dt><dd>${v}</dd></div>`:"";
+ return hero(l,true)+`<main class="w"><a class="back" href="#/lanzamientos">Volver a los lanzamientos</a><dl class="facts">${f("Lanzador",esc(l.vehicle))}${f("Operador",esc(l.provider))}${f("Carga",esc(l.payload))}${f("Tipo de misión",esc(T(l.missionType)))}${f("Órbita",esc(T(l.orbit)))}${f("Plataforma",esc(T(l.pad)))}${f("Base",esc(T(l.location)))}${f("Hora UTC",utc(l.date))}${f("Hora local",loc(l.date))}${f("Hora en la base",'<span id="tzb">Calculando…</span>')}${l.windowEnd?f("Ventana de lanzamiento",utc(l.date)+" hasta "+utc(l.windowEnd)):""}</dl>${extra(l)}
+${l.description?`<h2>Sobre la misión</h2><p class="txt">${esc(l.description)}</p>`:""}
+${(l.webcasts||[]).length?`<h2>Retransmisión</h2><p>${l.webcasts.map(w=>`<a class="btn" style="margin-right:8px" href="${https(w.url)}" target="_blank" rel="noopener noreferrer">${esc(w.title||"Ver en directo")}</a>`).join("")}</p>`:""}
+${(l.links||[]).length?`<h2>Más información</h2><p>${l.links.map(w=>`<a style="color:var(--co);margin-right:14px" href="${https(w.url)}" target="_blank" rel="noopener noreferrer">${esc(w.title||w.url.replace(/^https:\/\/(www\.)?/,"").split("/")[0])}</a>`).join("")}</p>`:""}
+${VAL(l)?'<h2>Plataforma de lanzamiento</h2><div class="map" id="map" style="height:320px"></div>':""}
+<h2>Por qué se considera europeo</h2><ul class="why">${(l.euReason||[]).map(x=>`<li>${esc(x)}</li>`).join("")||"<li>Sin datos de clasificación</li>"}</ul></main>`}
+const VAL=l=>l&&typeof l.lat=="number"&&typeof l.lon=="number";
+let MAP=null,TM=null,LV=null,LOC=null;
+function drawMap(id,pts,o={}){const el=document.getElementById(id);if(!el)return{iss(){}};
+ if(window.L){try{MAP&&MAP.remove()}catch(e){}MAP=L.map(el).setView(o.c||[25,10],o.z||2);
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:12,attribution:"© OpenStreetMap"}).addTo(MAP);
+  pts.forEach(p=>L.circleMarker([p.lat,p.lon],{radius:7,color:"#6f9bff",fillOpacity:.8}).addTo(MAP).bindPopup(p.html));
+  let m;const mk={};return{sats:a=>{a.forEach(s=>{const k=mk[s.id];if(k)k.setLatLng([s.lat,s.lon]);else mk[s.id]=L.circleMarker([s.lat,s.lon],{radius:4,color:s.c,fillOpacity:.9}).addTo(MAP).bindTooltip(s.name)})},iss:(a,b)=>{m?m.setLatLng([a,b]):m=L.circleMarker([a,b],{radius:8,color:"#ff6b6b",fillOpacity:.9}).addTo(MAP).bindTooltip("ISS")}}}
+ const g=[];for(let x=0;x<=360;x+=30)g.push(`<line x1="${x}" y1="0" x2="${x}" y2="180"/>`);for(let y=0;y<=180;y+=30)g.push(`<line x1="0" y1="${y}" x2="360" y2="${y}"/>`);
+ el.innerHTML=`<svg viewBox="0 0 360 180" style="width:100%;height:100%" stroke="#1c2740" stroke-width=".3">${g.join("")}${pts.map(p=>`<circle cx="${p.lon+180}" cy="${90-p.lat}" r="2.2" fill="#6f9bff"><title>${esc(p.t)}</title></circle>`).join("")}<circle class="isspt" r="2.6" fill="#ff6b6b" cx="-9" cy="-9"><title>ISS</title></circle></svg>`;
+ return{sats:a=>{const sv=el.querySelector("svg"),NS="http://www.w3.org/2000/svg";a.forEach(s=>{let c=el.querySelector('[data-s="'+s.id+'"]');if(!c){c=document.createElementNS(NS,"circle");c.setAttribute("r","2");c.setAttribute("fill",s.c);c.setAttribute("data-s",s.id);const t=document.createElementNS(NS,"title");t.textContent=s.name;c.appendChild(t);sv.appendChild(c)}c.setAttribute("cx",s.lon+180);c.setAttribute("cy",90-s.lat)})},iss:(a,b)=>{const c=el.querySelector(".isspt");c.setAttribute("cx",b+180);c.setAttribute("cy",90-a)}}}
+const pads=()=>{const m={};ALL.filter(VAL).forEach(l=>{const k=l.lat+","+l.lon;(m[k]=m[k]||{lat:l.lat,lon:l.lon,n:l.location||l.pad,L:[]}).L.push(l)});
+ return Object.values(m).map(p=>({lat:p.lat,lon:p.lon,t:p.n+" ("+p.L.length+")",html:`<b>${esc(p.n)}</b><br>`+p.L.slice(0,4).map(l=>`<a href="#/lanzamiento/${encodeURIComponent(l.id)}">${esc(l.name)}</a>`).join("<br>")}))};
+const H1=t=>`<h1 style="margin:28px 0 6px">${t}</h1>`;
+const mapa=()=>`<main class="w">${H1("Mapa de bases de lanzamiento")}<p class="sub">Plataformas con lanzamientos europeos próximos. Pulsa un punto para ver sus lanzamientos.</p><div class="map" id="map"></div></main>`;
+const scol=c=>/^España/.test(c)?"#ffb84d":/^Estación/.test(c)?"#3fd6bb":"#6f9bff";
+let SF="all";
+function seg(){const d=ensure("satelites"),H=`<main class="w">${H1("Seguimiento de satélites")}`;
+ if(!d)return H+'<p class="sub">Cargando…</p></main>';
+ if(d.error||!d.updatedAt||!d.items.length)return H+'<p class="sub">Todavía no hay datos orbitales. La tarea de GitHub los genera cada pocas horas.</p></main>';
+ if(!window.satellite)return H+'<p class="sub">No se pudo cargar la librería de cálculo orbital.</p></main>';
+ const cats=[...new Set(d.items.map(s=>s.categoria))];
+ return H+`<p class="sub" style="max-width:80ch">Posición calculada en tiempo real a partir de los elementos orbitales publicados, actualizados el ${new Date(d.updatedAt).toLocaleString("es-ES")}. Cuanto más antiguos son los elementos, menos exacta es la posición.</p><div class="ctl"><button data-sf="all" class="${SF=="all"?"on":""}">Todos (${d.items.length})</button>${cats.map(c=>`<button data-sf="${esc(c)}" class="${SF==c?"on":""}">${esc(c)}</button>`).join("")}</div><div class="map" id="map"></div><div class="tw"><table class="tb" id="st"></table></div></main>`}
+function satTick(M){const d=DATA.satelites,el=$("#st");if(!d||!el||!window.satellite)return;const now=new Date(),g=satellite.gstime(now),out=[];
+ for(const s of d.items){if(SF!="all"&&s.categoria!=SF)continue;try{const r=s._r||(s._r=satellite.twoline2satrec(s.l1,s.l2)),pv=satellite.propagate(r,now);if(!pv.position)continue;const p=satellite.eciToGeodetic(pv.position,g);
+  out.push({id:s.id,name:s.name,cat:s.categoria,lat:satellite.degreesLat(p.latitude),lon:satellite.degreesLong(p.longitude),alt:p.height,v:Math.hypot(pv.velocity.x,pv.velocity.y,pv.velocity.z),age:(now-new Date(s.epoch))/36e5,c:scol(s.categoria)})}catch(e){}}
+ M.sats(out);el.innerHTML="<tr><th>Satélite</th><th>NORAD</th><th>Categoría</th><th>Latitud</th><th>Longitud</th><th>Altitud</th><th>Velocidad</th><th>Antigüedad de los datos</th></tr>"+out.map(s=>`<tr><td>${esc(s.name)}</td><td>${esc(s.id)}</td><td>${esc(s.cat)}</td><td>${s.lat.toFixed(2).replace(".",",")}°</td><td>${s.lon.toFixed(2).replace(".",",")}°</td><td>${Math.round(s.alt).toLocaleString("es-ES")} km</td><td>${s.v.toFixed(2).replace(".",",")} km/s</td><td>${Math.round(s.age)} h</td></tr>`).join("")}
+const yt=u=>{const m=/(?:youtube\.com\/(?:watch\?v=|live\/|embed\/)|youtu\.be\/)([\w-]{11})/.exec(u||"");return m&&m[1]};
+function vivo(){const w=ALL.filter(l=>(l.webcasts||[]).length),s=w.find(l=>String(l.id)==LV)||w[0];
+ if(!s)return `<main class="w">${H1("En vivo")}<p class="sub">Todavía no hay retransmisiones publicadas para los próximos lanzamientos europeos. Suelen aparecer pocos días antes del despegue.</p></main>`;
+ const u=s.webcasts[0].url,id=yt(u);
+ return `<main class="w">${H1("En vivo")}<div class="ctl">${w.map(l=>`<button data-v="${esc(l.id)}" class="${l===s?"on":""}">${esc(l.name)}</button>`).join("")}</div>${id?`<div class="vid" id="tvw"><iframe src="https://www.youtube.com/embed/${id}" allow="fullscreen" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin" title="Retransmisión"></iframe><div class="tvb"><b>${esc(s.name)}</b><span id="tvc"></span></div></div>`:""}<p>${id?'<button class="btn" id="tv">Modo TV</button> ':""}<a class="pl" href="${https(u)}" target="_blank" rel="noopener noreferrer">Abrir retransmisión</a> <a style="color:var(--co);margin-left:12px" href="#/lanzamiento/${encodeURIComponent(s.id)}">Ver detalles del lanzamiento</a></p></main>`}
+const rad=x=>x*Math.PI/180;
+function view(l,la,lo){const R=6371,p1=rad(la),p2=rad(l.lat),dl=rad(l.lon-lo),c=Math.acos(Math.min(1,Math.sin(p1)*Math.sin(p2)+Math.cos(p1)*Math.cos(p2)*Math.cos(dl)));
+ const el=Math.atan2(Math.cos(c)-R/(R+150),Math.sin(c))*180/Math.PI,b=(Math.atan2(Math.sin(dl)*Math.cos(p2),Math.cos(p1)*Math.sin(p2)-Math.sin(p1)*Math.cos(p2)*Math.cos(dl))*180/Math.PI+360)%360;
+ return{d:c*R,el,b,dir:["norte","noreste","este","sureste","sur","suroeste","oeste","noroeste"][Math.round(b/45)%8]}}
+const herr=()=>`<main class="w">${H1("Dónde y cuándo ver un lanzamiento")}<p class="sub">Elige un lanzamiento e indica tu ubicación. Calcula distancia, dirección y altura sobre el horizonte de un cohete a 150 km de altitud. Es una referencia geométrica: no sustituye a una trayectoria real ni tiene en cuenta la luz ni las nubes.</p><div class="ctl"><select id="ts" aria-label="Lanzamiento">${ALL.filter(VAL).map(l=>`<option value="${esc(l.id)}">${esc(l.name)}</option>`).join("")}</select><input id="la" placeholder="Latitud" inputmode="decimal" value="${LOC?LOC[0]:""}" aria-label="Latitud"><input id="lo" placeholder="Longitud" inputmode="decimal" value="${LOC?LOC[1]:""}" aria-label="Longitud"><button id="gp">Usar mi ubicación</button><button id="go" class="on">Calcular</button></div><dl class="facts" id="res"></dl></main>`;
+function initHerr(){const calc=()=>{const l=ALL.find(x=>String(x.id)==$("#ts").value),la=parseFloat($("#la").value),lo=parseFloat($("#lo").value);
+ if(!l||!isFinite(la)||!isFinite(lo)||Math.abs(la)>90||Math.abs(lo)>180){$("#res").innerHTML='<div><dt>Ubicación</dt><dd>Introduce una latitud y una longitud válidas</dd></div>';return}
+ LOC=[la,lo];const v=view(l,la,lo),t=v.el>12?["Visible","te"]:v.el>5?["Probable","te"]:v.el>0?["Posible","am"]:["No visible","rd"];
+ $("#res").innerHTML=`<div><dt>Visibilidad geométrica</dt><dd style="color:var(--${t[1]})">${t[0]}</dd></div><div><dt>Distancia a la plataforma</dt><dd>${Math.round(v.d).toLocaleString("es-ES")} km</dd></div><div><dt>Dirección</dt><dd>${Math.round(v.b)}° (${v.dir})</dd></div><div><dt>Altura sobre el horizonte</dt><dd>${v.el>0?v.el.toFixed(1)+"°":"bajo el horizonte"}</dd></div><div><dt>Hora local</dt><dd>${loc(l.date)}</dd></div>`};
+ $("#go").onclick=calc;$("#gp").onclick=()=>navigator.geolocation&&navigator.geolocation.getCurrentPosition(p=>{$("#la").value=p.coords.latitude.toFixed(3);$("#lo").value=p.coords.longitude.toFixed(3);calc()},()=>{$("#res").innerHTML='<div><dt>Ubicación</dt><dd>No se pudo obtener; escríbela a mano</dd></div>'});
+ if(LOC)calc()}
+const noti=()=>`<main class="w">${H1("Noticias de lanzadores")}<div class="ng">${S.N.map(n=>`<a href="${https(n.url)||"#"}" target="_blank" rel="noopener noreferrer">${thumb(n.image,hue(n.site))}<h3>${esc(n.title)}</h3><small>${esc(n.site)}${n.publishedAt?", "+new Date(n.publishedAt).toLocaleDateString("es-ES"):""}</small></a>`).join("")||'<p class="sub">Sin noticias</p>'}</div></main>`;
+const AVISOS_URL="";// Pega aquí el enlace al formulario de Microsoft Forms
+const avisos=()=>`<main class="w">${H1("Avisos de lanzamientos")}<p class="sub" style="max-width:70ch">Recibe un correo cuando un lanzamiento europeo esté a menos de 15 días. Cada aviso incluye la fecha, el lanzador, la carga y un enlace a su ficha. Para darte de baja, usa el mismo formulario y elige la opción de baja.</p>${https(AVISOS_URL)?`<p><a class="btn" href="${https(AVISOS_URL)}" target="_blank" rel="noopener noreferrer">Solicitar avisos</a></p>`:'<p class="sub">El formulario de suscripción todavía no está configurado.</p>'}</main>`;
+let INFO=null;
+const SUBS=[["cohetes","Cohetes"],["entidades","Agencias, operadores y empresas"],["otras","Educativas y otras"],["orbitas","Órbitas"],["glosario","Glosario"],["lanzamiento","Cómo es un lanzamiento"]];
+const subOf=s=>({operadores:"entidades",agencias:"entidades",empresas:"entidades"})[s]||(SUBS.some(x=>x[0]==s)?s:"cohetes");
+const FILE={cohetes:"cohetes",entidades:"agencias",otras:"agencias"};
+const TYG={agencias:["Government","Multinational"],empresas:["Commercial","Private"]};
+const TY={Government:"Gubernamental",Multinational:"Multinacional",Commercial:"Comercial",Private:"Privada",Educational:"Educativa",Unknown:"Sin clasificar"};
+let DATA={},LD={},IF={q:"",s:"eu",a:false,v:false,t:"",n:60};
+const verif=x=>x.manual||/^https:/.test(x.info||"")||/^https:/.test(x.wiki||"");
+const vb=x=>x.manual?'<span class="tp" style="--c:var(--co)">Entrada manual</span>':verif(x)?'<span class="tp" style="--c:var(--te)">Con enlace de verificación</span>':'<span class="tp" style="--c:var(--am)">Sin enlace de verificación</span>';
+const euw=x=>x.euWhy?` <span class="tp" style="--c:var(--co)">${x.euWhy=="nombre"?"Europeo por su nombre":"Europeo por país: "+esc(cn([x.euWhy]))}</span>`:"";
+const A3=Object.fromEntries("AUT:AT BEL:BE BGR:BG HRV:HR CYP:CY CZE:CZ DNK:DK EST:EE FIN:FI FRA:FR DEU:DE GRC:GR HUN:HU IRL:IE ITA:IT LVA:LV LTU:LT LUX:LU MLT:MT NLD:NL NOR:NO POL:PL PRT:PT ROU:RO SVK:SK SVN:SI ESP:ES SWE:SE CHE:CH GBR:GB ISL:IS LIE:LI UKR:UA TUR:TR USA:US RUS:RU CHN:CN JPN:JP IND:IN CAN:CA AUS:AU NZL:NZ KOR:KR PRK:KP IRN:IR ISR:IL BRA:BR ARG:AR MEX:MX KAZ:KZ ARE:AE SAU:SA TWN:TW IDN:ID MYS:MY SGP:SG THA:TH VNM:VN PAK:PK EGY:EG ZAF:ZA NGA:NG CHL:CL COL:CO PER:PE URY:UY".split(" ").map(s=>s.split(":")));
+const RN=new Intl.DisplayNames(["es"],{type:"region"});
+const cn=c=>(c||[]).map(x=>x=="EUR"||x=="EU"?"Europa":A3[x]?RN.of(A3[x]):x).join(", ");
+const dl=f=>{f=f.filter(x=>x[1]!=null&&x[1]!=="");return f.length?`<dl>${f.map(([a,b])=>`<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join("")}</dl>`:""};
+const lk=a=>{const l=[[a.info,"Web oficial"],[a.wiki,"Wikipedia"]].filter(x=>https(x[0]));return l.length?`<p class="lk">${l.map(([u,t])=>`<a href="${https(u)}" target="_blank" rel="noopener noreferrer">${t}</a>`).join("")}</p>`:""};
+const kp=t=>{t=t.filter(x=>x[0]!=null&&x[0]!=="");return t.length?`<div class="kp">${t.map(([v,l])=>`<div><b>${esc(v)}</b><span>${l}</span></div>`).join("")}</div>`:""};
+const sb=x=>{const o=x.ok||0,f=x.fail||0,p=x.pending||0,t=o+f+p;return t?`<div class="sb"><i style="width:${o/t*100}%;background:var(--te)"></i><i style="width:${f/t*100}%;background:var(--rd)"></i><i style="width:${p/t*100}%;background:var(--co)"></i></div><div class="sl">${t} lanzamientos: ${o} con éxito, ${f} fallidos, ${p} pendientes</div>`:""};
+const chips=s=>{const a=String(s||"").split(/,\s*/).filter(Boolean);return a.length?`<div class="cp">${a.slice(0,8).map(x=>`<span>${esc(x)}</span>`).join("")}${a.length>8?`<span>+${a.length-8}</span>`:""}</div>`:""};
+const ds=t=>t?`<p class="ds" title="Pulsa para ver el texto completo">${esc(t)}</p>`:"";
+const nz=(v,u)=>v==null?null:v.toLocaleString("es-ES")+" "+u;
+const cC=c=>`<article class="ic"><div class="mh" style="--h:${hue(c.manufacturer&&c.manufacturer.name)}">${ROCKET}${https(c.img)?`<img src="${https(c.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}${c.active==null?"":`<span class="st ${c.active?"on":""}">${c.active?"Activo":"Retirado o inactivo"}</span>`}${c.reusable===true?'<span class="st re">Reutilizable</span>':""}</div><div class="bd"><h3>${esc(c.fullName||c.name)}</h3><div class="s">${esc([c.manufacturer&&c.manufacturer.name,cn(c.manufacturer&&c.manufacturer.country),c.family].filter(Boolean).join(". "))}</div><p>${vb(c)}${euw(c)}</p>${kp([[nz(c.length,"m"),"Altura"],[nz(c.leo,"kg"),"Órbita baja"],[nz(c.gto,"kg"),"GTO"],[c.maiden&&c.maiden.slice(0,4),"Primer vuelo"]])}${sb(c)}${ds(c.description)}${dl([["Diámetro",nz(c.diameter,"m")],["Etapas",c.stages],["Masa al lanzamiento",nz(c.mass,"t")],["Empuje al despegue",nz(c.thrust,"kN")]])}${lk(c)}<p><a class="pl" href="#/lanzamientos" data-q="${esc(c.name)}">Ver lanzamientos próximos</a> <button class="pl" data-cmp="${esc(c.id)}">Comparar</button></p></div></article>`;
+const TC={Government:"--co",Multinational:"--co",Commercial:"--te",Private:"--te",Educational:"--am",Unknown:"--mu"};
+const ini=n=>String(n).split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("").toUpperCase();
+const cA=a=>`<article class="ic"><div class="bd"><div class="ah"><div class="lg" style="--h:${hue(a.name)}"><em>${esc(a.abbrev&&a.abbrev.length<=5?a.abbrev:ini(a.name))}</em>${https(a.logo)?`<img src="${https(a.logo)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}</div><div><h3>${esc(a.name)}</h3><div class="s">${esc(cn(a.country))}</div></div></div><p><span class="tp" style="--c:var(${TC[a.type]||"--mu"})">${esc(TY[a.type]||a.type)}</span> ${vb(a)}${euw(a)}</p>${kp([[a.total?String(a.total):null,"Lanzamientos"],[a.founded,"Fundación"]])}${sb(a)}${ds(a.description)}${a.launchers?`<div class="s">Lanzadores</div>${chips(a.launchers)}`:""}${a.spacecraft?`<div class="s">Naves</div>${chips(a.spacecraft)}`:""}${dl([["Responsable",a.administrator]])}${lk(a)}${a.total?`<p><a class="pl" href="#/lanzamientos" data-q="${esc(a.name)}">Ver lanzamientos próximos</a></p>`:""}</div></article>`;
+const rows=k=>{const d=DATA[FILE[k]];if(!d)return null;let r=d.items||[];
+ if(k=="entidades"){r=r.filter(a=>["Government","Multinational","Commercial","Private"].includes(a.type));const T=IF.t;if(T=="g")r=r.filter(a=>["Government","Multinational"].includes(a.type));else if(T=="c")r=r.filter(a=>["Commercial","Private"].includes(a.type));else if(T=="o")r=r.filter(a=>a.launchers||a.total>0||a.operator)}else if(k=="otras")r=r.filter(a=>!["Government","Multinational","Commercial","Private"].includes(a.type));
+ if(IF.s=="eu")r=r.filter(x=>x.eu);if(IF.v)r=r.filter(verif);if(k=="cohetes"&&IF.a)r=r.filter(x=>x.active===true);
+ const q=IF.q.toLowerCase();if(q)r=r.filter(x=>(x.name+" "+(x.fullName||"")+" "+(x.abbrev||"")+" "+(x.family||"")+" "+((x.manufacturer&&x.manufacturer.name)||"")+" "+(x.description||"")).toLowerCase().includes(q));
+ return r.slice().sort((a,b)=>((b.active===true)-(a.active===true))||((b.total||0)-(a.total||0)))};
+function il(k){const d=DATA[FILE[k]];if(!d)return '<p class="sub">Cargando…</p>';if(d.error||!d.updatedAt)return '<p class="sub">Todavía no hay datos. La tarea de GitHub los genera una vez al día.</p>';
+ const r=rows(k);if(!r.length)return '<p class="sub">Ningún resultado con este filtro.</p>';
+ return `<p class="sub">${r.length} resultados</p><div class="ig">${r.slice(0,IF.n).map(k=="cohetes"?cC:cA).join("")}</div>${r.length>IF.n?'<p><button class="pl" id="im">Mostrar más</button></p>':""}`}
+function info(sub){const k=subOf(sub),D=INFO,dd=DATA[FILE[k]];
+ const top=`<section class="ibar"><div class="w"><h1>Información</h1><p>Cohetes, agencias, operadores y empresas del sector espacial.</p><div class="ctl">${SUBS.map(([s,t])=>`<a class="pl ${s==k?"on":""}" href="#/informacion/${s}">${t}</a>`).join("")}</div></div></section><main class="w">`;
+ if(FILE[k])return top+`<p class="sub" style="max-width:80ch">${dd&&dd.updatedAt?"Actualizado el "+new Date(dd.updatedAt).toLocaleDateString("es-ES")+". ":""}«Europeos» son los de un país de la ESA o la UE, el Reino Unido, Suiza, Noruega o Islandia, o una agencia europea.</p><div class="ctl" style="margin-top:14px"><input id="iq" placeholder="Buscar" value="${esc(IF.q)}" aria-label="Buscar"><button data-is="eu" class="${IF.s=="eu"?"on":""}">Europeos</button><button data-is="all" class="${IF.s=="all"?"on":""}">Todos</button>${k=="cohetes"?`<button id="ia" class="${IF.a?"on":""}">Solo activos</button>`:""}${k=="entidades"?[["","Todas"],["g","Agencias"],["c","Empresas"],["o","Operadores de lanzamiento"]].map(([v,t])=>`<button data-it="${v}" class="${IF.t==v?"on":""}">${t}</button>`).join(""):""}<button id="iv" class="${IF.v?"on":""}">Solo con enlace de verificación</button>${k=="cohetes"?'<a class="pl" href="#/comparador">Abrir comparador</a>':""}</div><div id="il">${il(k)}</div></main>`;
+ if(!D)return top+'<p class="sub">Cargando…</p></main>';
+ const b=k=="glosario"?`<dl class="gl">${(D.glosario||[]).map(([a,c])=>`<dt>${esc(a)}</dt><dd>${esc(c)}</dd>`).join("")}</dl>`
+  :k=="lanzamiento"?`<p class="sub">${esc(D.fasesNota)}</p><ol class="ph">${(D.fases||[]).map(([a,c,d])=>`<li><b>${esc(a)}</b><div><h3 style="margin:0">${esc(c)}</h3><p style="margin:4px 0 0;color:var(--mu)">${esc(d)}</p></div></li>`).join("")}</ol>`
+  :`<div class="ig">${(D.orbitas||[]).map(i=>`<article class="ic"><div class="bd"><h3>${esc(i.n)}</h3><div class="s">${esc(i.s)}</div><p>${esc(i.t)}</p>${dl(i.f||[])}</div></article>`).join("")}</div>`;
+ return top+`<p class="sub">${esc(D.nota)}</p>`+b+"</main>"}
+function initInfo(sub){const k=subOf(sub),f=FILE[k];
+ if(f&&!(f in DATA)&&!LD[f]){LD[f]=1;fetch("./data/"+f+".json",{cache:"no-cache"}).then(r=>r.json()).catch(()=>({items:[],error:true})).then(d=>{DATA[f]=d;if(location.hash.startsWith("#/informacion"))route()})}
+ const wire=()=>{document.querySelectorAll("[data-cmp]").forEach(b=>{const on=()=>CP.get().includes(String(b.dataset.cmp));b.textContent=on()?"Quitar del comparador":"Comparar";b.onclick=()=>{const a=CP.get(),i=String(b.dataset.cmp);CP.set(a.includes(i)?a.filter(x=>x!=i):[...a.slice(-3),i]);b.textContent=on()?"Quitar del comparador":"Comparar"}});document.querySelectorAll(".ds").forEach(e=>e.onclick=()=>e.classList.toggle("open"));document.querySelectorAll("[data-q]").forEach(a=>a.onclick=()=>{F.q=a.dataset.q;F.f="all"});const m=$("#im");if(m)m.onclick=()=>{IF.n+=60;$("#il").innerHTML=il(k);wire()}};
+ const q=$("#iq");if(q)q.oninput=e=>{IF.q=e.target.value;IF.n=60;$("#il").innerHTML=il(k);wire()};
+ document.querySelectorAll("[data-is]").forEach(b=>b.onclick=()=>{IF.s=b.dataset.is;IF.n=60;route()});const ia=$("#ia");if(ia)ia.onclick=()=>{IF.a=!IF.a;IF.n=60;route()};document.querySelectorAll("[data-it]").forEach(b=>b.onclick=()=>{IF.t=b.dataset.it;IF.n=60;route()});const iv=$("#iv");if(iv)iv.onclick=()=>{IF.v=!IF.v;IF.n=60;route()};
+ wire()}
+function loadInfo(){fetch("./data/info.json").then(r=>r.json()).catch(()=>({nota:"No se pudo cargar la información."})).then(d=>{INFO=d;if(location.hash.startsWith("#/informacion"))route()})}
+const TOOLS=[["#/calendario","Calendario"],["#/herramientas","Dónde ver un lanzamiento"],["#/estadisticas","Estadísticas de demanda"],["#/comparador","Comparador de cohetes"],["#/informe","Informe de demanda (PDF)"]];
+const DDS=[["dd","ib"],["dd2","ib2"]];
+function closeDD(){DDS.forEach(([d,b])=>{const e=$("#"+d);if(e){e.hidden=true;$("#"+b).setAttribute("aria-expanded","false")}})}
+function initDD(){$("#dd .w").innerHTML=SUBS.map(([s,t])=>`<a class="pl" href="#/informacion/${s}">${t}</a>`).join("");$("#dd2 .w").innerHTML=TOOLS.map(([u,t])=>`<a class="pl" href="${u}">${t}</a>`).join("");
+ DDS.forEach(([d,b])=>{$("#"+b).onclick=()=>{const e=$("#"+d),o=e.hidden;closeDD();e.hidden=!o;$("#"+b).setAttribute("aria-expanded",String(o))};$("#"+d).addEventListener("click",e=>{if(e.target.closest("a"))closeDD()})});
+ document.addEventListener("click",e=>{if(!e.target.closest("#dd,#ib,#dd2,#ib2"))closeDD()});document.addEventListener("keydown",e=>{if(e.key=="Escape")closeDD()})}
+const PT=s=>{const m=/^(-)?P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+(?:\.\d+)?)S)?$/.exec(s||"");if(!m)return null;const n=(+m[2]||0)*86400+(+m[3]||0)*3600+(+m[4]||0)*60+(+m[5]||0),p=x=>String(Math.floor(x)).padStart(2,"0");return `T${m[1]?"-":"+"}${n>=86400?Math.floor(n/86400)+" d ":""}${p(n%86400/3600)}:${p(n%3600/60)}:${p(n%60)}`};
+const rel2=l=>{const a=ALL.filter(x=>x.id!=l.id&&x.vehicle==l.vehicle).slice(0,4),b=ALL.filter(x=>x.id!=l.id&&x.pad&&x.pad==l.pad&&x.vehicle!=l.vehicle).slice(0,4);return(a.length?`<h2>Más lanzamientos con ${esc(l.vehicle)}</h2>${a.map(row).join("")}`:"")+(b.length?`<h2>Más lanzamientos desde esta plataforma</h2>${b.map(row).join("")}`:"")};
+function extra(l){const r=l.rocket,tl=(l.timeline||[]).map(x=>[PT(x.t),x.d]).filter(x=>x[0]);
+ return `<p><button class="btn" id="sh">Compartir</button> <button class="pl" id="fvb" data-fav="${esc(l.id)}">${isF(l.id)?"★ Guardado":"☆ Guardar"}</button> <button class="pl" id="ic">Añadir al calendario</button></p>`
+ +(r?`<h2>Ficha del lanzador</h2>${kp([[nz(r.length,"m"),"Altura"],[nz(r.diameter,"m"),"Diámetro"],[r.stages,"Etapas"],[r.reusable?"Sí":"No","Reutilizable"],[nz(r.leo,"kg"),"Capacidad a órbita baja"],[r.total!=null?`${r.ok} de ${r.total}`:null,"Lanzamientos con éxito"]])}`:"")
+ +boost(l)+(VAL(l)?`<h2>Previsión meteorológica</h2><div id="wx"><p class="sub">Cargando…</p></div>`:"")
+ +(tl.length?`<h2>Cronología</h2><ul class="tl">${tl.map(([a,b])=>`<li><b>${a}</b><span>${esc(b)}</span></li>`).join("")}</ul>`:"")+rel2(l)}
+async function wx(l){const el=$("#wx"),tz=$("#tzb");if(!VAL(l))return tz&&(tz.textContent="No disponible");const d=(new Date(l.date)-Date.now())/864e5;
+ try{const j=await(await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${l.lat}&longitude=${l.lon}&hourly=temperature_2m,precipitation,cloud_cover,wind_speed_10m,wind_gusts_10m&wind_speed_unit=ms&timezone=auto&forecast_days=${d>15?1:16}`)).json();
+  if(tz)tz.textContent=new Date(l.date).toLocaleString("es-ES",{dateStyle:"full",timeStyle:"short",timeZone:j.timezone})+" ("+j.timezone_abbreviation+")";
+  if(!el)return;if(d<-1||d>15){el.innerHTML='<p class="sub">La previsión estará disponible cuando falten menos de 16 días.</p>';return}
+  const i=j.hourly.time.indexOf(new Date(new Date(l.date).getTime()+j.utc_offset_seconds*1000).toISOString().slice(0,13)+":00"),g=k=>i<0||j.hourly[k][i]==null?null:j.hourly[k][i];
+  el.innerHTML=i<0?'<p class="sub">Sin previsión para esa hora.</p>':kp([[g("temperature_2m")+" °C","Temperatura"],[g("wind_speed_10m")+" m/s","Viento"],[g("wind_gusts_10m")+" m/s","Rachas"],[g("cloud_cover")+" %","Nubosidad"],[g("precipitation")+" mm","Precipitación"]])+'<p class="sub">Previsión orientativa para la hora del lanzamiento. Datos meteorológicos: <a style="color:var(--co)" href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">Open-Meteo.com</a>.</p>'
+ }catch(e){if(tz)tz.textContent="No disponible";if(el)el.innerHTML='<p class="sub">No se pudo cargar la previsión meteorológica.</p>'}}
+const dlf=(n,t,m)=>{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([t],{type:m}));a.download=n;document.body.appendChild(a);a.click();a.remove()};
+function icsDown(l){dlf("lanzamiento.ics",icsBuild([l],["-P1D","-PT1H"]),"text/calendar;charset=utf-8")}
+function initDetail(l){const sh=$("#sh");if(sh)sh.onclick=async()=>{try{if(navigator.share)await navigator.share({title:l.name,url:location.href});else{await navigator.clipboard.writeText(location.href);sh.textContent="Enlace copiado"}}catch(e){}};const ic=$("#ic");if(ic)ic.onclick=()=>icsDown(l);wx(l)}
+function csv(rows){const q=v=>'"'+String(v??"").replace(/"/g,'""')+'"',H=["Nombre","Fecha (UTC)","Estado","Lanzador","Operador","Carga","Tipo de misión","Órbita","Plataforma","Base","Lanzador europeo","Carga europea"];
+ dlf("lanzamientos-europeos.csv","\ufeff"+[H.map(q).join(";"),...rows.map(l=>[l.name,l.date,(ST[l.status]||[l.status])[0],l.vehicle,l.provider,l.payload,T(l.missionType),T(l.orbit),T(l.pad),T(l.location),l.vehEU?"Sí":"No",l.payEU?"Sí":"No"].map(q).join(";"))].join("\r\n"),"text/csv;charset=utf-8")}
+let CM=null;
+function cal(){const n=new Date();CM=CM||[n.getUTCFullYear(),n.getUTCMonth()];const[y,m]=CM,off=(new Date(Date.UTC(y,m,1)).getUTCDay()+6)%7,nd=new Date(Date.UTC(y,m+1,0)).getUTCDate(),by={};
+ ALL.forEach(l=>{const d=new Date(l.date);if(d.getUTCFullYear()==y&&d.getUTCMonth()==m)(by[d.getUTCDate()]=by[d.getUTCDate()]||[]).push(l)});
+ const cells=[...Array(off).fill("<div></div>"),...[...Array(nd)].map((_,i)=>{const d=i+1,a=by[d]||[],t=n.getUTCFullYear()==y&&n.getUTCMonth()==m&&n.getUTCDate()==d;return `<div class="cl ${t?"today":""}">${d}${a.slice(0,3).map(l=>`<a href="#/lanzamiento/${encodeURIComponent(l.id)}" title="${esc(l.name)}">${esc(l.vehicle||l.name)}</a>`).join("")}${a.length>3?`<span>+${a.length-3} más</span>`:""}</div>`})];
+ return `<main class="w">${H1("Calendario")}<div class="ctl"><button data-cm="-1">Mes anterior</button><button data-cm="0">Hoy</button><button data-cm="1">Mes siguiente</button><b style="align-self:center;text-transform:capitalize">${new Date(Date.UTC(y,m,1)).toLocaleString("es-ES",{month:"long",year:"numeric",timeZone:"UTC"})}</b></div><div class="cgw"><div class="cg">${["L","M","X","J","V","S","D"].map(x=>`<div class="hd">${x}</div>`).join("")}${cells.join("")}</div></div></main>`}
+const cnt=(a,f)=>{const m={};a.forEach(x=>{const k=f(x);if(k)m[k]=(m[k]||0)+1});return Object.entries(m).sort((x,y)=>y[1]-x[1])};
+const bars=(t,e,n=8)=>{const M=Math.max(1,...e.map(x=>x[1]));return `<section class="bx"><h3>${t}</h3>${e.slice(0,n).map(([k,v])=>`<div class="br"><span title="${esc(k)}">${esc(k)}</span><div><i style="width:${v/M*100}%"></i></div><b>${v}</b></div>`).join("")||'<p class="sub">Sin datos</p>'}</section>`};
+const sg=()=>{const mo=cnt(ALL,l=>l.date.slice(0,7)).sort((a,b)=>a[0]<b[0]?-1:1).slice(0,12).map(([k,v])=>[new Date(k+"-01T00:00:00Z").toLocaleString("es-ES",{month:"short",year:"2-digit",timeZone:"UTC"}),v]);
+ return `<div class="sg">${bars("Por mes",mo,12)}${bars("Por lanzador",cnt(ALL,l=>l.vehicle))}${bars("Por operador",cnt(ALL,l=>l.provider))}${bars("Por órbita",cnt(ALL,l=>T(l.orbit)))}${bars("Por tipo de misión",cnt(ALL,l=>T(l.missionType)))}${bars("Origen europeo",cnt(ALL,l=>l.vehEU&&l.payEU?"Lanzador y carga europeos":l.vehEU?"Solo lanzador europeo":"Solo carga europea"))}</div>`};
+const stats=()=>`<main class="w">${H1("Estadísticas de demanda")}<p class="sub">Recuento de los próximos lanzamientos europeos programados.</p>${sg()}</main>`;
+function informe(){const m30=ALL.filter(l=>new Date(l.date)-Date.now()<30*864e5).length;
+ return `<main class="w"><div class="noprint ctl"><button class="btn" id="pdf">Descargar PDF</button><span class="sub" style="align-self:center">Se abrirá el cuadro de impresión: elige «Guardar como PDF».</span></div><h1>Informe de demanda de lanzamientos europeos</h1><p class="sub">Generado el ${new Date().toLocaleDateString("es-ES",{dateStyle:"long"})}. Agencia Espacial Española. Herramienta interna.</p>
+ <div class="stt"><div><b>${ALL.length}</b><span>lanzamientos programados</span></div><div><b>${ALL.filter(l=>l.vehEU).length}</b><span>con lanzador europeo</span></div><div><b>${ALL.filter(l=>l.payEU).length}</b><span>con carga europea</span></div><div><b>${m30}</b><span>en los próximos 30 días</span></div></div>${sg()}
+ <h2>Lanzamientos programados</h2><div class="tw"><table class="tb"><tr><th>Fecha (UTC)</th><th>Lanzamiento</th><th>Lanzador</th><th>Operador</th><th>Carga</th><th>Órbita</th><th>Base</th><th>Europeo</th></tr>${ALL.map(l=>`<tr><td>${esc((l.date||"").slice(0,16).replace("T"," "))}</td><td>${esc(l.name)}</td><td>${esc(l.vehicle)}</td><td>${esc(l.provider)}</td><td>${esc(l.payload)}</td><td>${esc(T(l.orbit))}</td><td>${esc(T(l.location||l.pad))}</td><td>${[l.vehEU?"lanzador":"",l.payEU?"carga":""].filter(Boolean).join(" y ")}</td></tr>`).join("")}</table></div></main>`}
+const FV={get:()=>{try{return JSON.parse(localStorage.getItem("fav")||"[]")}catch(e){return[]}},set:a=>{try{localStorage.setItem("fav",JSON.stringify(a))}catch(e){}}};
+const isF=id=>FV.get().includes(String(id));
+const star=id=>`<span role="button" tabindex="0" class="fv ${isF(id)?"on":""}" data-fav="${esc(id)}" title="Guardar en Mis lanzamientos" aria-label="Guardar en Mis lanzamientos">${isF(id)?"★":"☆"}</span>`;
+document.addEventListener("click",e=>{const b=e.target.closest("[data-fav]");if(!b)return;e.preventDefault();e.stopPropagation();const id=String(b.dataset.fav),a=FV.get();FV.set(a.includes(id)?a.filter(x=>x!=id):[...a,id]);const o=isF(id);
+ document.querySelectorAll("[data-fav]").forEach(x=>{if(x.dataset.fav!=id)return;x.classList.toggle("on",o);x.textContent=x.classList.contains("fv")?(o?"★":"☆"):(o?"★ Guardado":"☆ Guardar")});if(location.hash=="#/mis-lanzamientos")route()},true);
+function icsBuild(list,al){const f=d=>new Date(d).toISOString().replace(/[-:]|\.\d{3}/g,""),x=v=>String(v||"").replace(/([,;\\])/g,"\\$1").replace(/\n/g," ");
+ return["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//AEE//Lanzamientos europeos//ES",...list.flatMap(l=>{const s=new Date(l.date);return["BEGIN:VEVENT","UID:"+x(l.id)+"@lanzamientos-europeos","DTSTAMP:"+f(Date.now()),"DTSTART:"+f(s),"DTEND:"+f(l.windowEnd||s.getTime()+36e5),"SUMMARY:"+x(l.name),"LOCATION:"+x(T(l.location||l.pad)),"DESCRIPTION:"+x(l.vehicle+". "+location.origin+location.pathname+"#/lanzamiento/"+encodeURIComponent(l.id)),...(al||[]).flatMap(t=>["BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:"+x(l.name),"TRIGGER:"+t,"END:VALARM"]),"END:VEVENT"]}),"END:VCALENDAR"].join("\r\n")}
+function notify(){try{if(!("Notification" in window)||Notification.permission!="granted")return;const n=JSON.parse(localStorage.getItem("nf")||"{}");FV.get().forEach(i=>{const l=ALL.find(x=>String(x.id)==i);if(!l)return;const d=(new Date(l.date)-Date.now())/864e5;if(d>0&&d<=15&&!n[i]){new Notification("Lanzamiento a menos de 15 días",{body:l.name+". "+loc(l.date)});n[i]=1}});localStorage.setItem("nf",JSON.stringify(n))}catch(e){}}
+function mis(){const L=FV.get().map(i=>ALL.find(l=>String(l.id)==i)||S.L.find(l=>String(l.id)==i)).filter(Boolean).sort((a,b)=>new Date(a.date)-new Date(b.date));
+ return `<main class="w">${H1("Mis lanzamientos")}<p class="sub" style="max-width:75ch">Los lanzamientos que guardes con la estrella aparecen aquí. Se guardan solo en este navegador. Descarga el calendario y tu aplicación de calendario te recordará cada uno 15 días, 1 día y 1 hora antes. Si activas los avisos del navegador, te avisaremos al abrir la web cuando falten menos de 15 días.</p>${L.length?`<div class="ctl"><button class="btn" id="icsall">Descargar calendario con recordatorios</button><button id="ntf">Avisarme en este navegador</button></div>${L.map(row).join("")}`:'<p class="sub">Todavía no has guardado ningún lanzamiento. Pulsa la estrella de cualquier lanzamiento.</p>'}</main>`}
+const CP={get:()=>{try{return JSON.parse(localStorage.getItem("cmp")||"[]")}catch(e){return[]}},set:a=>{try{localStorage.setItem("cmp",JSON.stringify(a))}catch(e){}}};
+function ensure(f){if(!(f in DATA)&&!LD[f]){LD[f]=1;fetch("./data/"+f+".json",{cache:"no-cache"}).then(r=>r.json()).catch(()=>({items:[],error:true})).then(d=>{DATA[f]=d;route()})}return DATA[f]}
+function comp(){const d=ensure("cohetes"),H=`<main class="w">${H1("Comparador de cohetes")}`;
+ if(!d)return H+'<p class="sub">Cargando…</p></main>';if(d.error||!d.updatedAt)return H+'<p class="sub">Todavía no hay datos de cohetes. La tarea de GitHub los genera una vez al día.</p></main>';
+ const it=d.items,sel=CP.get().map(i=>it.find(c=>String(c.id)==i)).filter(Boolean),R=[["Fabricante",c=>c.manufacturer&&c.manufacturer.name],["País",c=>cn(c.manufacturer&&c.manufacturer.country)],["Estado",c=>c.active==null?null:c.active?"Activo":"Retirado o inactivo"],["Reutilizable",c=>c.reusable==null?null:c.reusable?"Sí":"No"],["Altura",c=>nz(c.length,"m")],["Diámetro",c=>nz(c.diameter,"m")],["Etapas",c=>c.stages],["Masa al lanzamiento",c=>nz(c.mass,"t")],["Empuje al despegue",c=>nz(c.thrust,"kN"),"thrust"],["Capacidad a órbita baja",c=>nz(c.leo,"kg"),"leo"],["Capacidad a GTO",c=>nz(c.gto,"kg"),"gto"],["Primer vuelo",c=>c.maiden],["Lanzamientos",c=>c.total],["Con éxito",c=>c.ok,"ok"],["Fallidos",c=>c.fail]];
+ return H+`<p class="sub">Elige hasta 4 cohetes. También puedes añadirlos con el botón «Comparar» de la pestaña Información. En verde, el valor más alto de capacidad, empuje y lanzamientos con éxito.</p><div class="ctl"><select id="cs" aria-label="Cohete">${it.slice().sort((a,b)=>String(a.fullName).localeCompare(String(b.fullName))).map(c=>`<option value="${esc(c.id)}">${esc(c.fullName||c.name)}${c.manufacturer?" ("+esc(c.manufacturer.name)+")":""}</option>`).join("")}</select><button class="btn" id="ca">Añadir</button>${sel.length?'<button id="cc">Vaciar</button>':""}</div>${sel.length?`<div class="tw"><table class="tb"><tr><th></th>${sel.map(c=>`<th>${esc(c.fullName||c.name)} <span class="fv" data-rm="${esc(c.id)}" role="button" tabindex="0" title="Quitar">✕</span></th>`).join("")}</tr>${R.map(([k,f,b])=>{const m=b?Math.max(...sel.map(c=>c[b]||0)):0;return `<tr><td>${k}</td>${sel.map(c=>{const v=f(c);return `<td${b&&m&&sel.length>1&&c[b]===m?' style="color:var(--te);font-weight:600"':""}>${v==null||v===""?"—":esc(v)}</td>`}).join("")}</tr>`}).join("")}</table></div>`:'<p class="sub">Todavía no has elegido ningún cohete.</p>'}</main>`}
+function compInit(){const a=$("#ca");if(a)a.onclick=()=>{const i=$("#cs").value,c=CP.get();if(!c.includes(i)&&c.length<4)CP.set([...c,i]);route()};const c=$("#cc");if(c)c.onclick=()=>{CP.set([]);route()};document.querySelectorAll("[data-rm]").forEach(b=>b.onclick=()=>{CP.set(CP.get().filter(x=>x!=b.dataset.rm));route()})}
+const BST={Active:"Activo",Expended:"Consumido",Lost:"Perdido",Destroyed:"Destruido",Retired:"Retirado",Unknown:"Desconocido"};
+const dfe=d=>d?new Date(d).toLocaleDateString("es-ES",{dateStyle:"long"}):null;
+function boost(l){const b=l.boosters||[];if(!b.length)return l.rocket&&l.rocket.reusable?'<h2>Propulsor</h2><p class="sub">La fuente todavía no registra qué propulsor volará en este lanzamiento.</p>':"";
+ return `<h2>Propulsor</h2><p class="sub">Resumen del historial de cada propulsor. No incluye la lista completa de sus vuelos anteriores.</p><div class="ig">${b.map(x=>`<article class="ic"><div class="bd"><h3>${esc(x.serial||"Propulsor sin identificar")}</h3><div class="s">${esc(x.type)}${x.reused==null?"":x.reused?". Ya ha volado":". Primer vuelo"}</div>${kp([[x.flight!=null?"N.º "+x.flight:null,"Vuelo en esta misión"],[x.flights,"Vuelos totales"],[x.landTry!=null?`${x.landOk} de ${x.landTry}`:null,"Aterrizajes logrados"],[x.turn!=null?x.turn+" días":null,"Rotación desde el vuelo anterior"]])}${dl([["Estado",BST[x.status]||x.status],["Primer vuelo",dfe(x.first)],["Último vuelo",dfe(x.last)],["Recuperación",[x.target,x.targetType].filter(Boolean).join(" ")]])}</div></article>`).join("")}</div>`}
+function calid(){const d=ensure("calidad"),H=`<main class="w">${H1("Calidad de los datos")}<p class="sub" style="max-width:80ch">Control automático de los datos de Información: qué elementos no tienen enlace de verificación, qué valores se han descartado por no ser plausibles y qué posibles duplicados o incoherencias se han detectado.</p>`;
+ if(!d)return H+'<p class="sub">Cargando…</p></main>';if(d.error||!d.cohetes)return H+'<p class="sub">Todavía no hay informe. Se genera con la tarea «Actualizar información».</p></main>';
+ const sec=(t,o)=>`<section class="bx" style="margin-top:16px"><h3>${t}</h3>${kp([[o.total,"Elementos"],[o.sinEnlace,"Sin enlace de verificación"],[o.sinDescripcion,"Sin descripción"],[(o.descartados||[]).length,"Valores descartados"]])}${["descartados","duplicados","incoherencias"].map(k=>(o[k]||[]).length?`<h4>${{descartados:"Valores descartados por no ser plausibles",duplicados:"Posibles duplicados",incoherencias:"Incoherencias"}[k]}</h4><ul class="why">${o[k].slice(0,40).map(x=>`<li>${esc(x.nombre)}: ${esc(x.detalle||x.campo+" = "+x.valor)}</li>`).join("")}</ul>`:"").join("")}</section>`;
+ return H+`<p class="sub">Actualizado el ${new Date(d.updatedAt).toLocaleString("es-ES")}.</p>`+sec("Cohetes",d.cohetes)+sec("Agencias, operadores y empresas",d.agencias)+"</main>"}
+function route(){const h=location.hash||"#/",app=$("#app");clearInterval(TM);next=null;
+ const k=h.split("/")[1]||"",m=h.match(/^#\/lanzamiento\/(.+)$/),id=m&&decodeURIComponent(m[1]),dl=m&&(ALL.find(x=>String(x.id)==id)||S.L.find(x=>String(x.id)==id)),V={lanzamientos:list,calendario:cal,estadisticas:stats,"mis-lanzamientos":mis,comparador:comp,informe,calidad:calid,mapa,"en-vivo":vivo,seguimiento:seg,herramientas:herr,noticias:noti,avisos,informacion:()=>info(h.split("/")[2])};
+ document.querySelectorAll(".bar nav a").forEach(a=>a.className=a.getAttribute("href")=="#/"+(k=="lanzamiento"?"lanzamientos":k)?"on":"");
+ $("#ib").className=k=="informacion"?"on":"";$("#ib2").className=["calendario","herramientas","estadisticas","comparador","informe"].includes(k)?"on":"";closeDD();app.innerHTML=m?detail(id):(V[k]||home)();if(!m)window.scrollTo(0,0);tick();
+ const sq=$("#sq");if(sq){sq.oninput=e=>{F.q=e.target.value;$("#lr").innerHTML=flt().map(row).join("")||'<p class="sub">Ningún lanzamiento coincide con el filtro.</p>'};document.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{F.f=b.dataset.f;route()})}
+ const af=$("#af");if(af){const go=q=>{$("#ans").innerHTML=ask(q)};af.onsubmit=e=>{e.preventDefault();go($("#aq").value)};document.querySelectorAll(".chips button").forEach(b=>b.onclick=()=>{$("#aq").value=b.textContent;go(b.textContent)})}
+ if(k=="mapa")drawMap("map",pads());
+ if(k=="seguimiento"&&$("#st")){const M=drawMap("map",pads());satTick(M);TM=setInterval(()=>satTick(M),1000);document.querySelectorAll("[data-sf]").forEach(b=>b.onclick=()=>{SF=b.dataset.sf;route()})}
+ if(k=="en-vivo"){document.querySelectorAll("[data-v]").forEach(b=>b.onclick=()=>{LV=b.dataset.v;route()});const tv=$("#tv"),w=$("#tvw");if(tv&&w)tv.onclick=()=>{(w.requestFullscreen||w.webkitRequestFullscreen).call(w)};
+ const wl=ALL.filter(x=>(x.webcasts||[]).length),l0=wl.find(x=>String(x.id)==LV)||wl[0],t=()=>{const e=$("#tvc");if(e&&l0){const s=Math.floor((new Date(l0.date)-Date.now())/1000),a=Math.abs(s),p=x=>String(Math.floor(x)).padStart(2,"0");e.textContent="T"+(s<0?"+":"-")+p(a/3600)+":"+p(a%3600/60)+":"+p(a%60)}};t();TM=setInterval(t,1000)}
+ if(k=="herramientas")initHerr();
+ if(k=="comparador")compInit();
+ if(k=="informe"){const p=$("#pdf");if(p)p.onclick=()=>window.print()}
+ if(k=="mis-lanzamientos"){const a=$("#icsall");if(a)a.onclick=()=>dlf("mis-lanzamientos.ics",icsBuild(FV.get().map(i=>ALL.find(l=>String(l.id)==i)).filter(Boolean),["-P15D","-P1D","-PT1H"]),"text/calendar;charset=utf-8");const n=$("#ntf");if(n)n.onclick=()=>{try{Notification.requestPermission().then(()=>{notify();n.textContent="Avisos activados en este navegador"})}catch(e){n.textContent="Este navegador no admite avisos"}}}
+ if(k=="calendario")document.querySelectorAll("[data-cm]").forEach(b=>b.onclick=()=>{const v=+b.dataset.cm,n=new Date();CM=v?[CM[0]+Math.floor((CM[1]+v)/12),(CM[1]+v+12)%12]:[n.getUTCFullYear(),n.getUTCMonth()];route()});
+ const ex=$("#ex");if(ex)ex.onclick=()=>csv(flt());
+ if(dl)initDetail(dl);
+ if(k=="informacion"){if(!INFO)loadInfo();initInfo(h.split("/")[2])}
+ if(dl&&VAL(dl))drawMap("map",[{lat:dl.lat,lon:dl.lon,t:dl.location||dl.pad,html:esc(dl.location||dl.pad)}],{c:[dl.lat,dl.lon],z:6})}
+let loaded=false;
+function setData(L,N){const t=Date.now()-2*36e5;S={L:L.launches,N:N.news||[],updatedAt:L.updatedAt,stale:L.stale};
+ ALL=L.launches.filter(l=>l.date&&new Date(l.date)>t).sort((a,b)=>new Date(a.date)-new Date(b.date));
+ $("#notice").textContent=L.updatedAt?`Actualizado a las ${new Date(L.updatedAt).toLocaleTimeString("es-ES",{timeStyle:"short"})}${L.stale?", datos en caché":""}`:"Esperando la primera carga de datos";
+ const a=document.activeElement&&document.activeElement.id;notify();const skip=loaded&&(/^#\/(herramientas|en-vivo|seguimiento)/.test(location.hash)||["aq","sq","la","lo","ts","iq"].includes(a));loaded=true;if(!skip)route()}
+async function load(){try{const [L,N]=await Promise.all([fetch("./data/launches.json",{cache:"no-cache"}).then(r=>r.json()),fetch("./data/news.json",{cache:"no-cache"}).then(r=>r.json())]);
+ L.stale=!!L.updatedAt&&Date.now()-L.updatedAt>90*60e3;setData(L,N)}catch(e){$("#notice").textContent="No se pudieron cargar los datos"}}
+initDD();addEventListener("hashchange",route);load();setInterval(load,5*60e3);setInterval(tick,1000);
+</script>
+</body>
+</html>
