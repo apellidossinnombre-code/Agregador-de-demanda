@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792629070508,
+ "updatedAt": 1792646173608,
  "news": [
   {
    "id": 40519,
@@ -120,26 +120,6 @@
    "summary": "La Agencia Japonesa de Exploración Aeroespacial (JAXA) se dispone a lanzar una sonda planetaria hacia las lunas de Marte…\nLa entrada «La misión japonesa MMX, lista para su lanzamiento con el objetivo de estudiar las lunas de Marte» apareció primero en NASASpaceFlight.com.",
    "publishedAt": "2026-10-19T15:44:41Z",
    "eu": false
-  },
-  {
-   "id": 40485,
-   "title": "Homenaje a BepiColombo, tres palabras cada vez",
-   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
-   "site": "ESA",
-   "summary": "BepiColombo se lanzó el 20 de octubre de 2018. Este año, el aniversario es especial. Tras ocho años de viaje por el Sistema Solar interior, la misión de la ESA y la JAXA llegará a Mercurio el 9 de diciembre de 2026. Para celebrarlo, se pidió a los miembros del equipo de la misión que describieran la BepiColombo en solo tres palabras.",
-   "publishedAt": "2026-10-19T15:00:00Z",
-   "eu": true
-  },
-  {
-   "id": 40436,
-   "title": "PLD Space inicia las pruebas a nivel de sistema del Miura 5, mientras los tres primeros vehículos van tomando forma",
-   "url": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-19-14-23-42-068.jpg",
-   "site": "NASASpaceflight",
-   "summary": "PLD Space ha entrado en una nueva fase de cara al primer vuelo de demostración de su…\nLa entrada «PLD Space comienza las pruebas a nivel de sistema del Miura 5 mientras los tres primeros vehículos van tomando forma» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-19T13:35:12Z",
-   "eu": true
   }
  ]
 }
