@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792646173608,
+ "updatedAt": 1792664351710,
  "news": [
   {
    "id": 40519,
@@ -99,26 +99,6 @@
    "site": "NASA",
    "summary": "Los cohetes vibran, se sacuden y se deforman intensamente a medida que ascienden hacia el espacio, y las naves espaciales, repletas de delicados instrumentos científicos, deben resistir esas fuerzas. Antes de que cualquier cohete despegue, los ingenieros de la NASA trabajan para predecir cómo afectarán esas tensiones a cada parte de la nave espacial. Para ello, los ingenieros del Grupo de Entornos Dinámicos de la División de Lanzamientos de la NASA […]",
    "publishedAt": "2026-10-19T19:28:32Z",
-   "eu": false
-  },
-  {
-   "id": 40445,
-   "title": "UARX Space resuelve las anomalías surgidas en el primer vuelo del OTV",
-   "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_uarx_ossie-d.png?fit=879%2C628&ssl=1",
-   "site": "SpaceNews",
-   "summary": "\nSAN FRANCISCO – La startup española UARX Space está solucionando las anomalías detectadas durante el vuelo inaugural del OSSIE-D, un vehículo de transferencia orbital (OTV) lanzado el 1 de octubre en el marco de la misión Transporter-18 de SpaceX. Al menos […]\nLa entrada «UARX Space soluciona las anomalías del vuelo inaugural del OTV» apareció primero en SpaceNews.",
-   "publishedAt": "2026-10-19T16:31:12Z",
-   "eu": false
-  },
-  {
-   "id": 40439,
-   "title": "La misión japonesa MMX tiene previsto su lanzamiento para estudiar las lunas de Marte",
-   "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3.png",
-   "site": "NASASpaceflight",
-   "summary": "La Agencia Japonesa de Exploración Aeroespacial (JAXA) se dispone a lanzar una sonda planetaria hacia las lunas de Marte…\nLa entrada «La misión japonesa MMX, lista para su lanzamiento con el objetivo de estudiar las lunas de Marte» apareció primero en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-19T15:44:41Z",
    "eu": false
   }
  ]
