@@ -1,6 +1,16 @@
 {
- "updatedAt": 1792696722053,
+ "updatedAt": 1792708110748,
  "news": [
+  {
+   "id": 40534,
+   "title": "¿Cuál es la última estimación del número de lanzamientos de Starship necesarios para hacer posible un alunizaje? 22.",
+   "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
+   "site": "Arstechnica",
+   "summary": "«Tenemos que estar atentos a los numerosos repostajes necesarios para el módulo de aterrizaje».",
+   "publishedAt": "2026-10-22T21:52:31Z",
+   "eu": false
+  },
   {
    "id": 40526,
    "title": "Ayuda a un rover lunar perdido a encontrar el camino en el nuevo concurso de la ESA",
