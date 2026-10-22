@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792682592462,
+ "updatedAt": 1792696722053,
  "news": [
   {
    "id": 40526,
@@ -89,26 +89,6 @@
    "site": "NASASpaceflight",
    "summary": "Esta semana está previsto el lanzamiento de nueve cohetes desde California, Florida, Nueva Zelanda, Japón y…\nLa entrada «Avance de lanzamientos: H3, Falcon 9, Electron y otros se lanzarán durante una semana muy ajetreada» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-20T17:22:03Z",
-   "eu": false
-  },
-  {
-   "id": 40481,
-   "title": "La misión MMX de la JAXA, de camino a Marte para traer muestras de Fobos",
-   "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-liftoff-300x169.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "La Agencia Japonesa de Exploración Aeroespacial ha lanzado con éxito esta tarde (hora del Este de EE. UU.) la misión «Martian Moons eXploration» (MMX). La MMX no aterrizará en Marte, sino que explorará sus dos lunas, Fobos y […]",
-   "publishedAt": "2026-10-20T00:12:19Z",
-   "eu": false
-  },
-  {
-   "id": 40480,
-   "title": "La NASA mejora el análisis de impactos y vibraciones",
-   "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg",
-   "site": "NASA",
-   "summary": "Los cohetes vibran, se sacuden y se deforman intensamente a medida que ascienden hacia el espacio, y las naves espaciales, repletas de delicados instrumentos científicos, deben resistir esas fuerzas. Antes de que cualquier cohete despegue, los ingenieros de la NASA trabajan para predecir cómo afectarán esas tensiones a cada parte de la nave espacial. Para ello, los ingenieros del Grupo de Entornos Dinámicos de la División de Lanzamientos de la NASA […]",
-   "publishedAt": "2026-10-19T19:28:32Z",
    "eu": false
   }
  ]
