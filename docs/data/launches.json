@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792751126081,
+ "updatedAt": 1792769011947,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -1034,54 +1034,6 @@
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "a8c191e1-b231-4b2e-aefd-5e8ad55c7a82",
-   "name": "Miura 5 | Maiden Flight",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Miura 5",
-   "provider": "Payload Aerospace S.L.",
-   "providerCountry": "ESP",
-   "payload": "Maiden Flight",
-   "missionType": "Test Flight",
-   "orbit": "Sun-Synchronous Orbit",
-   "description": "Primer vuelo del lanzador Miura 5.",
-   "pad": "Diamant Launch Area",
-   "location": "Guiana Space Centre, French Guiana",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Miura",
-    "length": 35.81,
-    "diameter": 2,
-    "reusable": true,
-    "leo": 900,
-    "stages": "2 a 3",
-    "total": 0,
-    "ok": 0,
-    "fail": 0
-   },
-   "lat": 5.2222222,
-   "lon": -52.7758051,
-   "webcasts": [],
-   "links": [],
-   "image": "",
-   "vehEU": true,
-   "payEU": true,
-   "euReason": [
-    "lanzador: operador Payload Aerospace S.L.",
-    "carga: Payload Aerospace S.L."
-   ],
-   "resumen": "Miura 5, de Payload Aerospace S.L., lleva Maiden Flight a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer vuelo del lanzador Miura 5. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Miura_5",
-    "https://en.wikipedia.org/wiki/Maiden_flight"
    ]
   },
   {

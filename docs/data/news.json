@@ -1,6 +1,26 @@
 {
- "updatedAt": 1792751126350,
+ "updatedAt": 1792769013403,
  "news": [
+  {
+   "id": 40539,
+   "title": "El director de la ESA «no está seguro» de que Themis realice su primer vuelo en 2026",
+   "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp",
+   "site": "European Spaceflight",
+   "summary": "La directora de Transporte Espacial de la Agencia Espacial Europea (ESA), Géraldine Naja, declaró el 22 de octubre que no estaba segura de que la agencia pudiera llevar a cabo el primer vuelo de su demostrador de cohete reutilizable «Themis» antes de que termine el año. En una rueda de prensa celebrada tras la 350.ª reunión del Consejo de la ESA en París, Naja […]\nLa entrada «La directora de la ESA “no está segura” de que Themis realice su primer vuelo en 2026» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-10-23T11:06:47Z",
+   "eu": true
+  },
+  {
+   "id": 40538,
+   "title": "Informe sobre cohetes: SpaceX rechaza los lanzamientos militares; el cohete español está casi listo",
+   "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics.jpg",
+   "site": "Arstechnica",
+   "summary": "«Creemos que Canadá debería poder alcanzar la órbita según sus propios criterios».",
+   "publishedAt": "2026-10-23T11:00:57Z",
+   "eu": false
+  },
   {
    "id": 40534,
    "title": "¿Cuál es la última estimación del número de lanzamientos de Starship necesarios para hacer posible un alunizaje? 22.",
