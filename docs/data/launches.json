@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792733314414,
+ "updatedAt": 1792751126081,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -1085,54 +1085,6 @@
    ]
   },
   {
-   "id": "1b11f81e-cdbf-49aa-a7ce-aa79f609046c",
-   "name": "Orbex Prime | Maiden Flight",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Orbex Prime",
-   "provider": "Orbex",
-   "providerCountry": "GBR",
-   "payload": "Maiden Flight",
-   "missionType": "Test Flight",
-   "orbit": "Unknown",
-   "description": "Vuelo inaugural del cohete «Prime» de Orbex desde el puerto espacial de Sutherland. Este vuelo supone el primer intento de lanzamiento orbital vertical desde el Reino Unido y el primer intento de lanzamiento orbital desde Escocia.",
-   "pad": "Unknown Pad",
-   "location": "SaxaVord Spaceport",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "",
-    "length": 19,
-    "diameter": 1.3,
-    "reusable": false,
-    "leo": null,
-    "stages": "2",
-    "total": 0,
-    "ok": 0,
-    "fail": 0
-   },
-   "lat": 60.8184,
-   "lon": -0.7692,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/prime_image_20220511125637.jpg",
-   "vehEU": true,
-   "payEU": true,
-   "euReason": [
-    "lanzador: operador Orbex",
-    "carga: Orbex"
-   ],
-   "resumen": "Orbex Prime, de Orbex, lleva Maiden Flight a Unknown desde SaxaVord Spaceport. Vuelo inaugural del cohete «Prime» de Orbex desde el puerto espacial de Sutherland. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://en.wikipedia.org/wiki/Orbex",
-    "https://en.wikipedia.org/wiki/Maiden_flight"
-   ]
-  },
-  {
    "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
    "name": "RFA One | Maiden Flight",
    "date": "2026-12-31T00:00:00Z",
@@ -1312,6 +1264,53 @@
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi"
+   ]
+  },
+  {
+   "id": "eaff0f48-04b7-49fc-bee6-9afd9ec8cc5f",
+   "name": "Vega-C | IRIDE 2",
+   "date": "2026-12-31T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Vega-C",
+   "provider": "Avio S.p.A",
+   "providerCountry": "ITA",
+   "payload": "IRIDE 2",
+   "missionType": "Earth Science",
+   "orbit": "Sun-Synchronous Orbit",
+   "description": "Segundo lanzamiento específico para la constelación de observación de la Tierra IRIDE de la Agencia Espacial Europea.",
+   "pad": "Ariane Launch Area 1 (ELV)",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2026-12-31T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Vega",
+    "length": 34.8,
+    "diameter": 3,
+    "reusable": false,
+    "leo": 3300,
+    "stages": "4",
+    "total": 8,
+    "ok": 7,
+    "fail": 1
+   },
+   "lat": 5.236,
+   "lon": -52.775,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+   "vehEU": true,
+   "payEU": false,
+   "euReason": [
+    "lanzador: operador Avio S.p.A"
+   ],
+   "resumen": "Vega-C, de Avio S.p.A, lleva IRIDE 2 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Segundo lanzamiento específico para la constelación de observación de la Tierra IRIDE de la Agencia Espacial Europea. IRIDE es un programa italiano de satélites de observación de la Tierra desarrollado en el marco del Plan Nacional de Recuperación y Resiliencia (PNRR) y del Plan Nacional Complementario (NCP).",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Garci_Lasso_Ruiz_de_la_Vega",
+    "https://en.wikipedia.org/wiki/IRIDE"
    ]
   }
  ]
