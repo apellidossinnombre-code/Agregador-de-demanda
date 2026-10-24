@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792803499283,
+ "updatedAt": 1792820037671,
  "news": [
   {
    "id": 40543,
@@ -9,6 +9,56 @@
    "site": "SpacePolicyOnline.com",
    "summary": "Los responsables de la NASA se han mostrado hoy confiados en sus planes de lanzar el vuelo de prueba orbital alrededor de la Tierra «Artemis III» a mediados de 2027 y de llevar a astronautas estadounidenses a la Luna en 2028. Tanto si la Starship de SpaceX […]",
    "publishedAt": "2026-10-23T22:39:54Z",
+   "eu": false
+  },
+  {
+   "id": 40547,
+   "title": "La NASA y sus socios aceleran el desarrollo del módulo de aterrizaje para las misiones lunares de 2028",
+   "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+   "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+   "site": "NASA",
+   "summary": "A medida que la NASA vuelve a llevar a seres humanos a la superficie lunar y establece una presencia a largo plazo en nuestro vecino celeste más cercano, la agencia y los proveedores de sistemas comerciales de alunizaje tripulado, Blue Origin y SpaceX, han optimizado los diseños y modificado los conceptos de operaciones de sus futuros módulos de alunizaje tripulados. Desde que la NASA firmó los contratos iniciales con Blue Origin y SpaceX […]",
+   "publishedAt": "2026-10-23T22:39:39Z",
+   "eu": true
+  },
+  {
+   "id": 40548,
+   "title": "La misión Artemis III de la NASA pondrá a prueba las futuras operaciones del módulo de aterrizaje lunar",
+   "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
+   "site": "NASA",
+   "summary": "Antes de que los astronautas regresen a la superficie lunar, la NASA llevará a cabo primero una de las misiones de prueba más ambiciosas y complejas de la historia de la agencia.  Artemis III, cuyo lanzamiento está previsto para 2027, enviará a los astronautas de la NASA Randy Bresnik, Frank Rubio y Andre Douglas, así como al astronauta de la ESA (Agencia Espacial Europea) Luca Parmitano, a bordo de la nave espacial Orión a la órbita terrestre baja […]",
+   "publishedAt": "2026-10-23T22:37:53Z",
+   "eu": true
+  },
+  {
+   "id": 40549,
+   "title": "La misión Swift de la NASA llega a su fin y deja tras de sí un tesoro científico",
+   "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
+   "site": "NASA",
+   "summary": "El Observatorio Neil Gehrels Swift de la NASA ha dado por concluida su misión científica, ahora que la nave espacial orbita a menos de 171 millas (275 kilómetros) sobre la superficie terrestre. La mayor resistencia atmosférica a esta altura impide que los telescopios del satélite puedan observar de forma constante sus objetivos astronómicos. El Swift realizó su última observación el 20 de octubre. Se espera que […]",
+   "publishedAt": "2026-10-23T21:51:19Z",
+   "eu": true
+  },
+  {
+   "id": 40550,
+   "title": "Pruebas del motor RS-25 en el centro de la NASA en Stennis",
+   "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
+   "site": "NASA",
+   "summary": "Los equipos del Centro Espacial Stennis de la NASA, situado cerca de Bay St. Louis (Misisipi), realizaron pruebas con el motor RS-25 n.º 10001 el 21 de octubre de 2026. La prueba de encendido duró casi ocho minutos y medio (500 segundos), el mismo tiempo que los motores RS-25 permanecen encendidos durante el lanzamiento del cohete SLS (Sistema de Lanzamiento Espacial) de la NASA, con un nivel de potencia del 111 %. Para cada […]",
+   "publishedAt": "2026-10-23T18:57:04Z",
+   "eu": false
+  },
+  {
+   "id": 40551,
+   "title": "La NASA y Virginia ponen en marcha una alianza energética para la seguridad energética",
+   "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
+   "site": "NASA",
+   "summary": "La NASA está contribuyendo a fomentar la seguridad energética a largo plazo en Virginia. El Centro de Investigación Langley de la NASA, situado en Hampton (Virginia), colabora con el Departamento de Energía de Virginia para facilitar la toma de decisiones fundamentadas que permitan una generación, distribución y uso eficaces de la energía, proporcionando conjuntos de datos solares, meteorológicos y sobre riesgos meteorológicos futuros destinados a la modelización y planificación de los sistemas energéticos. En el marco de una nueva […]",
+   "publishedAt": "2026-10-23T17:50:21Z",
    "eu": false
   },
   {
@@ -110,26 +160,6 @@
    "summary": "Desde la órbita, los instrumentos láser espaciales actuales miden los bosques y el terreno de la Tierra línea por línea. Entre esas líneas hay enormes lagunas que abarcan millones de acres de terreno que los científicos nunca miden directamente. El instrumento CASALS de la NASA combinará el aprendizaje automático con un lidar ultracompacto para «barrer» de forma adaptativa amplias franjas de la superficie terrestre. Esto […]",
    "publishedAt": "2026-10-21T12:17:58Z",
    "eu": true
-  },
-  {
-   "id": 40499,
-   "title": "Retransmisión en directo: SpaceX lanzará 27 satélites Starlink a bordo del cohete Falcon 9 desde la Base Espacial de Vandenberg",
-   "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El lanzamiento en California tiene lugar pocas horas después de que la empresa haya presentado sus resultados del segundo trimestre como sociedad cotizada en bolsa. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:10 h PDT (19:10 h EDT / 23:10 UTC).",
-   "publishedAt": "2026-10-20T21:18:11Z",
-   "eu": false
-  },
-  {
-   "id": 40496,
-   "title": "Avance de los lanzamientos: el H3, el Falcon 9, el Electron y otros cohetes despegarán durante una semana repleta de actividad",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-   "site": "NASASpaceflight",
-   "summary": "Esta semana está previsto el lanzamiento de nueve cohetes desde California, Florida, Nueva Zelanda, Japón y…\nLa entrada «Avance de lanzamientos: H3, Falcon 9, Electron y otros se lanzarán durante una semana muy ajetreada» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-20T17:22:03Z",
-   "eu": false
   }
  ]
 }
