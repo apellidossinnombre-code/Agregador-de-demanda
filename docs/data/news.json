@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792955803727,
+ "updatedAt": 1792965237569,
  "news": [
   {
    "id": 40543,
@@ -149,16 +149,6 @@
    "site": "European Spaceflight",
    "summary": "Airbus Países Bajos ha entregado la primera bahía trasera Vulcain de peso ligero para el Ariane 6, como parte de las mejoras del Bloque 2 del cohete. Sin embargo, la reducción total de peso parece ser más modesta de lo previsto inicialmente. En una publicación de LinkedIn del 21 de octubre, el presidente de Airbus Países Bajos, Rob Postma, anunció que la estructura mejorada, denominada «Flight Model 16» (FM16), […]\nLa publicación «Airbus entrega la primera sección trasera ligera del motor Vulcain para el Ariane 6 Bloque 2» apareció primero en European Spaceflight.",
    "publishedAt": "2026-10-21T14:34:27Z",
-   "eu": true
-  },
-  {
-   "id": 40508,
-   "title": "El instrumento CASALS de la NASA subsana las lagunas en los mapas tridimensionales de la superficie terrestre",
-   "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
-   "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
-   "site": "NASA",
-   "summary": "Desde la órbita, los instrumentos láser espaciales actuales miden los bosques y el terreno de la Tierra línea por línea. Entre esas líneas hay enormes lagunas que abarcan millones de acres de terreno que los científicos nunca miden directamente. El instrumento CASALS de la NASA combinará el aprendizaje automático con un lidar ultracompacto para «barrer» de forma adaptativa amplias franjas de la superficie terrestre. Esto […]",
-   "publishedAt": "2026-10-21T12:17:58Z",
    "eu": true
   }
  ]
