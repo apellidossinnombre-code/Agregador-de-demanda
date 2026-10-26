@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793044478801,
+ "updatedAt": 1793057984863,
  "news": [
+  {
+   "id": 40589,
+   "title": "Avance del lanzamiento: está previsto el lanzamiento de los cohetes Falcon 9 y GSLV",
+   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "Esta semana está previsto el lanzamiento de cuatro cohetes desde Estados Unidos y la India. SpaceX…\nLa entrada «Avance de los lanzamientos: lanzamientos programados de los cohetes Falcon 9 y GSLV» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-10-26T21:11:56Z",
+   "eu": false
+  },
   {
    "id": 40565,
    "title": "Astranis amplía el contrato de lanzamiento del Falcon 9 a una misión dedicada para toda la serie de producción de satélites del Bloque 4",
@@ -130,16 +140,6 @@
    "summary": "Un pequeño rover se encuentra solo en la Luna, sin señal y sin saber dónde está. Lo único que tiene es una cámara panorámica y un mapa aéreo de la superficie lunar. La noche lunar se acerca rápidamente… ¿puedes ayudar al rover a encontrar el camino antes de que sea demasiado tarde?",
    "publishedAt": "2026-10-22T11:10:00Z",
    "eu": true
-  },
-  {
-   "id": 40519,
-   "title": "La NASA lleva a cabo una prueba del motor RS-25 en apoyo de las futuras misiones Artemis",
-   "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
-   "site": "NASA",
-   "summary": "La NASA probó el motor RS-25 n.º 10001 el 21 de octubre en el banco de pruebas Fred Haise del Centro Espacial Stennis de la NASA, cerca de Bay St. Louis, Misisipi. Los equipos de pruebas pusieron en marcha el motor en fase de desarrollo durante casi ocho minutos y medio (500 segundos), el mismo tiempo que los motores RS-25 permanecen en funcionamiento durante el lanzamiento del cohete SLS (Sistema de Lanzamiento Espacial) de la NASA. Durante […]",
-   "publishedAt": "2026-10-21T20:51:50Z",
-   "eu": false
   }
  ]
 }
