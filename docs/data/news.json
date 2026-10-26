@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792979012275,
+ "updatedAt": 1792998079981,
  "news": [
   {
    "id": 40543,
@@ -140,16 +140,6 @@
    "summary": "«Hemos mantenido un diálogo muy constructivo con la FAA».",
    "publishedAt": "2026-10-21T16:46:19Z",
    "eu": false
-  },
-  {
-   "id": 40510,
-   "title": "Airbus entrega la primera bahía de popa Vulcain de peso ligero para el Ariane 6 Bloque 2",
-   "url": "https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Airbus-Ships-First-Lightweight-Vulcain-Aft-Bay-for-Ariane-6-Block-2.webp",
-   "site": "European Spaceflight",
-   "summary": "Airbus Países Bajos ha entregado la primera bahía trasera Vulcain de peso ligero para el Ariane 6, como parte de las mejoras del Bloque 2 del cohete. Sin embargo, la reducción total de peso parece ser más modesta de lo previsto inicialmente. En una publicación de LinkedIn del 21 de octubre, el presidente de Airbus Países Bajos, Rob Postma, anunció que la estructura mejorada, denominada «Flight Model 16» (FM16), […]\nLa publicación «Airbus entrega la primera sección trasera ligera del motor Vulcain para el Ariane 6 Bloque 2» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-10-21T14:34:27Z",
-   "eu": true
   }
  ]
 }
