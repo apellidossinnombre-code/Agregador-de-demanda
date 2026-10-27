@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793057984863,
+ "updatedAt": 1793067901097,
  "news": [
+  {
+   "id": 40594,
+   "title": "Un cohete Falcon 9 de la costa oeste lanzará 27 satélites Starlink",
+   "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
+   "site": "Spaceflight Now",
+   "summary": "El despegue de la misión Starlink 15-16 desde el Complejo de Lanzamiento Espacial 4E está previsto actualmente para las 22:46 h PDT (01:46 h EDT / 05:46 UTC). ",
+   "publishedAt": "2026-10-27T00:50:37Z",
+   "eu": false
+  },
   {
    "id": 40589,
    "title": "Avance del lanzamiento: está previsto el lanzamiento de los cohetes Falcon 9 y GSLV",
@@ -130,16 +140,6 @@
    "summary": "«Tenemos que estar atentos a los numerosos repostajes necesarios para el módulo de aterrizaje».",
    "publishedAt": "2026-10-22T21:52:31Z",
    "eu": false
-  },
-  {
-   "id": 40526,
-   "title": "Ayuda a un rover lunar perdido a encontrar el camino en el nuevo concurso de la ESA",
-   "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/panorama_of_the_moon_for_lunar_x-view_competition/27586136-1-eng-GB/Panorama_of_the_Moon_for_Lunar_X-view_competition_card_full.jpg",
-   "site": "ESA",
-   "summary": "Un pequeño rover se encuentra solo en la Luna, sin señal y sin saber dónde está. Lo único que tiene es una cámara panorámica y un mapa aéreo de la superficie lunar. La noche lunar se acerca rápidamente… ¿puedes ayudar al rover a encontrar el camino antes de que sea demasiado tarde?",
-   "publishedAt": "2026-10-22T11:10:00Z",
-   "eu": true
   }
  ]
 }
