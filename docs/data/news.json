@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793129915759,
+ "updatedAt": 1793142622967,
  "news": [
+  {
+   "id": 40611,
+   "title": "La startup ucraniana GomSpace prueba un satélite para una futura red de comunicaciones",
+   "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
+   "site": "SpaceNews",
+   "summary": "\nLas empresas afirmaron que la nave espacial experimental, lanzada el 1 de octubre, podría dar lugar a una red de satélites controlada por Ucrania.\nLa noticia «La startup ucraniana GomSpace prueba un satélite para una futura red de comunicaciones» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-10-27T20:21:30Z",
+   "eu": false
+  },
   {
    "id": 40608,
    "title": "Una pequeña estrella se está devorando a una enana marrón tan lentamente que el proceso podría durar miles de millones de años, y ambas orbitan una alrededor de la otra cada 87 minutos en un espacio que cabría dentro del Sol.",
