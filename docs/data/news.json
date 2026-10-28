@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793153557564,
+ "updatedAt": 1793176352595,
  "news": [
   {
    "id": 40611,
@@ -140,16 +140,6 @@
    "summary": "La directora de Transporte Espacial de la Agencia Espacial Europea (ESA), Géraldine Naja, declaró el 22 de octubre que no estaba segura de que la agencia pudiera llevar a cabo el primer vuelo de su demostrador de cohete reutilizable «Themis» antes de que termine el año. En una rueda de prensa celebrada tras la 350.ª reunión del Consejo de la ESA en París, Naja […]\nLa entrada «La directora de la ESA “no está segura” de que Themis realice su primer vuelo en 2026» apareció primero en European Spaceflight.",
    "publishedAt": "2026-10-23T11:06:47Z",
    "eu": true
-  },
-  {
-   "id": 40538,
-   "title": "Informe sobre cohetes: SpaceX rechaza los lanzamientos militares; el cohete español está casi listo",
-   "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics.jpg",
-   "site": "Arstechnica",
-   "summary": "«Creemos que Canadá debería poder alcanzar la órbita según sus propios criterios».",
-   "publishedAt": "2026-10-23T11:00:57Z",
-   "eu": false
   }
  ]
 }
