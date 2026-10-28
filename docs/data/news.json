@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793176352595,
+ "updatedAt": 1793201029403,
  "news": [
+  {
+   "id": 40616,
+   "title": "Flexell Space y Satoro acuerdan colaborar en una demostración en órbita de células solares espaciales de última generación",
+   "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&ssl=1",
+   "site": "SpaceNews",
+   "summary": "\n– Se han previsto dos misiones de demostración a bordo del Falcon 9 de SpaceX, una en 2027 y otra en 2028 – Satoro proporcionará una solución de «satélite como servicio»; Flexell Space suministrará células solares y módulos de prueba […]\nLa noticia «Flexell Space y Satoro acuerdan colaborar en la demostración en órbita de células solares espaciales de última generación» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-10-28T14:43:08Z",
+   "eu": false
+  },
   {
    "id": 40611,
    "title": "La startup ucraniana GomSpace prueba un satélite para una futura red de comunicaciones",
@@ -130,16 +140,6 @@
    "summary": "La NASA está contribuyendo a fomentar la seguridad energética a largo plazo en Virginia. El Centro de Investigación Langley de la NASA, situado en Hampton (Virginia), colabora con el Departamento de Energía de Virginia para facilitar la toma de decisiones fundamentadas que permitan una generación, distribución y uso eficaces de la energía, proporcionando conjuntos de datos solares, meteorológicos y sobre riesgos meteorológicos futuros destinados a la modelización y planificación de los sistemas energéticos. En el marco de una nueva […]",
    "publishedAt": "2026-10-23T17:50:21Z",
    "eu": false
-  },
-  {
-   "id": 40539,
-   "title": "El director de la ESA «no está seguro» de que Themis realice su primer vuelo en 2026",
-   "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp",
-   "site": "European Spaceflight",
-   "summary": "La directora de Transporte Espacial de la Agencia Espacial Europea (ESA), Géraldine Naja, declaró el 22 de octubre que no estaba segura de que la agencia pudiera llevar a cabo el primer vuelo de su demostrador de cohete reutilizable «Themis» antes de que termine el año. En una rueda de prensa celebrada tras la 350.ª reunión del Consejo de la ESA en París, Naja […]\nLa entrada «La directora de la ESA “no está segura” de que Themis realice su primer vuelo en 2026» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-10-23T11:06:47Z",
-   "eu": true
   }
  ]
 }
