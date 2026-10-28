@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793201029403,
+ "updatedAt": 1793219089881,
  "news": [
+  {
+   "id": 40620,
+   "title": "La etapa central del SLS de Artemis III se une a los propulsores en Kennedy",
+   "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+   "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
+   "site": "NASA",
+   "summary": "La etapa central del SLS (Sistema de Lanzamiento Espacial) de la misión Artemis III de la NASA se integró junto a los dos propulsores de cohete sólido el 28 de octubre en la nave industrial High Bay 3 del Edificio de Ensamblaje de Vehículos, en el Centro Espacial Kennedy de la NASA, en Florida.   Los técnicos elevaron la etapa del cohete, de 212 pies, desde la nave industrial 2 de las instalaciones utilizando una viga de elevación única en su género diseñada […]",
+   "publishedAt": "2026-10-28T18:59:44Z",
+   "eu": false
+  },
   {
    "id": 40616,
    "title": "Flexell Space y Satoro acuerdan colaborar en una demostración en órbita de células solares espaciales de última generación",
@@ -100,46 +110,6 @@
    "summary": "A medida que la NASA vuelve a llevar a seres humanos a la superficie lunar y establece una presencia a largo plazo en nuestro vecino celeste más cercano, la agencia y los proveedores de sistemas comerciales de alunizaje tripulado, Blue Origin y SpaceX, han optimizado los diseños y modificado los conceptos de operaciones de sus futuros módulos de alunizaje tripulados. Desde que la NASA firmó los contratos iniciales con Blue Origin y SpaceX […]",
    "publishedAt": "2026-10-23T22:39:39Z",
    "eu": true
-  },
-  {
-   "id": 40548,
-   "title": "La misión Artemis III de la NASA pondrá a prueba las futuras operaciones del módulo de aterrizaje lunar",
-   "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
-   "site": "NASA",
-   "summary": "Antes de que los astronautas regresen a la superficie lunar, la NASA llevará a cabo primero una de las misiones de prueba más ambiciosas y complejas de la historia de la agencia.  Artemis III, cuyo lanzamiento está previsto para 2027, enviará a los astronautas de la NASA Randy Bresnik, Frank Rubio y Andre Douglas, así como al astronauta de la ESA (Agencia Espacial Europea) Luca Parmitano, a bordo de la nave espacial Orión a la órbita terrestre baja […]",
-   "publishedAt": "2026-10-23T22:37:53Z",
-   "eu": true
-  },
-  {
-   "id": 40549,
-   "title": "La misión Swift de la NASA llega a su fin y deja tras de sí un tesoro científico",
-   "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
-   "site": "NASA",
-   "summary": "El Observatorio Neil Gehrels Swift de la NASA ha dado por concluida su misión científica, ahora que la nave espacial orbita a menos de 171 millas (275 kilómetros) sobre la superficie terrestre. La mayor resistencia atmosférica a esta altura impide que los telescopios del satélite puedan observar de forma constante sus objetivos astronómicos. El Swift realizó su última observación el 20 de octubre. Se espera que […]",
-   "publishedAt": "2026-10-23T21:51:19Z",
-   "eu": true
-  },
-  {
-   "id": 40550,
-   "title": "Pruebas del motor RS-25 en el centro de la NASA en Stennis",
-   "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
-   "site": "NASA",
-   "summary": "Los equipos del Centro Espacial Stennis de la NASA, situado cerca de Bay St. Louis (Misisipi), realizaron pruebas con el motor RS-25 n.º 10001 el 21 de octubre de 2026. La prueba de encendido duró casi ocho minutos y medio (500 segundos), el mismo tiempo que los motores RS-25 permanecen encendidos durante el lanzamiento del cohete SLS (Sistema de Lanzamiento Espacial) de la NASA, con un nivel de potencia del 111 %. Para cada […]",
-   "publishedAt": "2026-10-23T18:57:04Z",
-   "eu": false
-  },
-  {
-   "id": 40551,
-   "title": "La NASA y Virginia ponen en marcha una alianza energética para la seguridad energética",
-   "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
-   "site": "NASA",
-   "summary": "La NASA está contribuyendo a fomentar la seguridad energética a largo plazo en Virginia. El Centro de Investigación Langley de la NASA, situado en Hampton (Virginia), colabora con el Departamento de Energía de Virginia para facilitar la toma de decisiones fundamentadas que permitan una generación, distribución y uso eficaces de la energía, proporcionando conjuntos de datos solares, meteorológicos y sobre riesgos meteorológicos futuros destinados a la modelización y planificación de los sistemas energéticos. En el marco de una nueva […]",
-   "publishedAt": "2026-10-23T17:50:21Z",
-   "eu": false
   }
  ]
 }
