@@ -1,6 +1,26 @@
 {
- "updatedAt": 1793219089881,
+ "updatedAt": 1793232873145,
  "news": [
+  {
+   "id": 40625,
+   "title": "Untied Launch Alliance anuncia que el cohete Vulcan volverá a volar a mediados de noviembre",
+   "url": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Este lanzamiento, tan esperado, será el primero del cohete de gran capacidad desde que se produjera un fallo en la tobera de un propulsor sólido durante el vuelo. El cohete pondrá en órbita 40 satélites Amazon Leo. ",
+   "publishedAt": "2026-10-28T22:46:41Z",
+   "eu": false
+  },
+  {
+   "id": 40622,
+   "title": "Comparación de los plazos de construcción del KSC y de Starbase para comprender el desarrollo de Starbase, Luisiana",
+   "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison.jpg",
+   "site": "NASASpaceflight",
+   "summary": "En el mundo de los vuelos espaciales, la infraestructura de lanzamiento es fundamental para el despegue de los cohetes. Para las agencias y…\nLa entrada «Comparación de los plazos de construcción del KSC y Starbase para comprender el desarrollo de Starbase, en Luisiana» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-10-28T21:12:08Z",
+   "eu": false
+  },
   {
    "id": 40620,
    "title": "La etapa central del SLS de Artemis III se une a los propulsores en Kennedy",
@@ -89,26 +109,6 @@
    "site": "ESA",
    "summary": "Con sus paneles solares ya integrados y las revisiones de calificación clave en marcha, el nuevo satélite europeo de vigilancia del hielo, CRISTAL, pasa de la fase de montaje a la exigente fase de pruebas, en la que se demostrará que está preparado para soportar las duras condiciones del lanzamiento y la vida en órbita.",
    "publishedAt": "2026-10-26T10:00:00Z",
-   "eu": true
-  },
-  {
-   "id": 40543,
-   "title": "La NASA avanza a toda máquina con las misiones Artemis III, IV y V",
-   "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "Los responsables de la NASA se han mostrado hoy confiados en sus planes de lanzar el vuelo de prueba orbital alrededor de la Tierra «Artemis III» a mediados de 2027 y de llevar a astronautas estadounidenses a la Luna en 2028. Tanto si la Starship de SpaceX […]",
-   "publishedAt": "2026-10-23T22:39:54Z",
-   "eu": false
-  },
-  {
-   "id": 40547,
-   "title": "La NASA y sus socios aceleran el desarrollo del módulo de aterrizaje para las misiones lunares de 2028",
-   "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-   "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-   "site": "NASA",
-   "summary": "A medida que la NASA vuelve a llevar a seres humanos a la superficie lunar y establece una presencia a largo plazo en nuestro vecino celeste más cercano, la agencia y los proveedores de sistemas comerciales de alunizaje tripulado, Blue Origin y SpaceX, han optimizado los diseños y modificado los conceptos de operaciones de sus futuros módulos de alunizaje tripulados. Desde que la NASA firmó los contratos iniciales con Blue Origin y SpaceX […]",
-   "publishedAt": "2026-10-23T22:39:39Z",
    "eu": true
   }
  ]
