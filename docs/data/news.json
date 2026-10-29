@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793277856770,
+ "updatedAt": 1793299277070,
  "news": [
+  {
+   "id": 40640,
+   "title": "Envía tu nombre a Titán a bordo de la misión «Dragonfly» de la NASA",
+   "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
+   "site": "NASA",
+   "summary": "Quizá nunca llegues a surcar los cielos por debajo de las nubes o sobre las arenas orgánicas de Titán, la luna de Saturno, pero tu nombre sí puede hacerlo. La NASA invita al público a enviar sus nombres a bordo del helicóptero «Dragonfly» de la agencia y a formar parte de la primera misión científica que volará y explorará la superficie de otro mundo.   Para que tu […]",
+   "publishedAt": "2026-10-29T15:10:18Z",
+   "eu": true
+  },
   {
    "id": 40630,
    "title": "El Ministerio de Defensa del Reino Unido adjudica a Astroscale un proyecto de guerra orbital por valor de 15 millones de libras esterlinas",
@@ -90,36 +100,6 @@
    "summary": "Esta semana está previsto el lanzamiento de cuatro cohetes desde Estados Unidos y la India. SpaceX…\nLa entrada «Avance del lanzamiento: lanzamientos programados de los cohetes Falcon 9 y GSLV» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-26T21:11:56Z",
    "eu": false
-  },
-  {
-   "id": 40565,
-   "title": "Astranis amplía el contrato de lanzamiento del Falcon 9 a una misión dedicada para toda la serie de producción de satélites del Bloque 4",
-   "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&ssl=1",
-   "site": "SpaceNews",
-   "summary": "SAN FRANCISCO —26 de octubre de 2026— Astranis ha anunciado hoy que ha ampliado su cuarto lanzamiento a una misión dedicada a bordo de un cohete Falcon 9 de SpaceX, cuyo lanzamiento está previsto para 2028, lo que le permitirá […]\r\nLa noticia «Astranis amplía el contrato de lanzamiento del Falcon 9 a una misión dedicada para toda la serie de producción de satélites del Bloque 4» apareció primero en SpaceNews.",
-   "publishedAt": "2026-10-26T13:00:00Z",
-   "eu": false
-  },
-  {
-   "id": 40563,
-   "title": "¿Una nueva era para los lanzamientos espaciales? La próxima retirada del Falcon 9",
-   "url": "https://www.spacescout.info/2026/10/a-new-era-for-space-launch-the-coming-falcon-9-retirement/",
-   "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-8.png",
-   "site": "Space Scout",
-   "summary": "La retirada del Falcon 9 podría dejar el mercado en el aire, ya que SpaceX aún se encuentra en pleno proceso de desarrollo y comercialización del Starship como un sucesor a la altura.",
-   "publishedAt": "2026-10-26T12:11:43Z",
-   "eu": false
-  },
-  {
-   "id": 40562,
-   "title": "La misión sobre el hielo CRISTAL despliega sus alas",
-   "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
-   "site": "ESA",
-   "summary": "Con sus paneles solares ya integrados y las revisiones de calificación clave en marcha, el nuevo satélite europeo de vigilancia del hielo, CRISTAL, pasa de la fase de montaje a la exigente fase de pruebas, en la que se demostrará que está preparado para soportar las duras condiciones del lanzamiento y la vida en órbita.",
-   "publishedAt": "2026-10-26T10:00:00Z",
-   "eu": true
   }
  ]
 }
