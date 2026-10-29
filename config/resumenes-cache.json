@@ -218,5 +218,15 @@
    "https://en.wikipedia.org/wiki/IRIDE"
   ],
   "at": 1792751126081
+ },
+ "b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c": {
+  "key": "a7c5ae0292ee",
+  "text": "Falcon 9 Block 5, de SpaceX, lleva OneWeb 21 a Polar Orbit desde Vandenberg SFB, CA, USA. Un lote de 32 satélites para la constelación de satélites OneWeb, cuyo objetivo es proporcionar un servicio global de Internet de banda ancha a los particulares. OneWeb es una empresa de comunicaciones globales fundada por Greg Wyler con sede en Londres, Reino Unido, y en McLean, Virginia, Estados Unidos.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
+   "https://es.wikipedia.org/wiki/OneWeb"
+  ],
+  "at": 1793277855240
  }
 }

@@ -1,15 +1,15 @@
 {
- "updatedAt": 1793253598375,
+ "updatedAt": 1793277856770,
  "news": [
   {
-   "id": 40625,
-   "title": "Untied Launch Alliance anuncia que el cohete Vulcan volverá a volar a mediados de noviembre",
-   "url": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
-   "site": "Spaceflight Now",
-   "summary": "Este lanzamiento, tan esperado, será el primero del cohete de gran capacidad desde que se produjera un fallo en la tobera de un propulsor sólido durante el vuelo. El cohete pondrá en órbita 40 satélites Amazon Leo. ",
-   "publishedAt": "2026-10-28T22:46:41Z",
-   "eu": false
+   "id": 40630,
+   "title": "El Ministerio de Defensa del Reino Unido adjudica a Astroscale un proyecto de guerra orbital por valor de 15 millones de libras esterlinas",
+   "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-MOD-Awards-15-million-Orbital-Warfare-Project-to-Astroscale-.webp",
+   "site": "European Spaceflight",
+   "summary": "La empresa japonesa de tecnología espacial Astroscale ha anunciado oficialmente que su filial con sede en el Reino Unido se ha adjudicado un contrato del Ministerio de Defensa por valor de 15 millones de libras esterlinas (17,9 millones de euros) para el Proyecto LEDA. Aunque se han dado a conocer pocos detalles sobre la iniciativa, un responsable del Ministerio de Defensa afirmó que «formará parte de la trayectoria permanente del Reino Unido hacia la comprensión de la guerra orbital». Aunque el […]\nLa entrada «El Ministerio de Defensa del Reino Unido adjudica a Astroscale un proyecto de guerra orbital por valor de 15 millones de libras» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-10-29T07:31:25Z",
+   "eu": true
   },
   {
    "id": 40629,
@@ -17,7 +17,7 @@
    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
    "site": "Spaceflight Now",
-   "summary": "Este lanzamiento, tan esperado, será el primero del cohete de gran capacidad desde que se produjera un fallo en la tobera de un propulsor sólido durante el vuelo. El cohete pondrá en órbita 40 satélites Amazon Leo. ",
+   "summary": "Este lanzamiento, tan esperado, será el primero del cohete de gran carga útil desde que se produjera un fallo en la tobera de un propulsor sólido durante el vuelo. El cohete pondrá en órbita 40 satélites Amazon Leo.",
    "publishedAt": "2026-10-28T22:46:41Z",
    "eu": false
   },

@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793253597651,
+ "updatedAt": 1793277855241,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -46,6 +46,69 @@
     "https://thespacedevs.com/llapi",
     "https://en.wikipedia.org/wiki/Ariane_6",
     "https://es.wikipedia.org/wiki/Amazon_Leo"
+   ]
+  },
+  {
+   "id": "b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c",
+   "name": "Falcon 9 Block 5 | OneWeb 21",
+   "date": "2026-11-30T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Falcon 9 Block 5",
+   "provider": "SpaceX",
+   "providerCountry": "USA",
+   "payload": "OneWeb 21",
+   "missionType": "Communications",
+   "orbit": "Polar Orbit",
+   "description": "Un lote de 32 satélites para la constelación de satélites OneWeb, cuyo objetivo es proporcionar un servicio global de Internet de banda ancha a los consumidores particulares. Está previsto que la constelación cuente con unos 648 microsatélites (de los cuales 60 son de reserva), de unos 150 kg cada uno, que operarán en la banda Ku desde la órbita terrestre baja.",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA",
+   "webcastLive": false,
+   "boosters": [
+    {
+     "serial": "Unknown F9",
+     "type": "Core",
+     "reused": null,
+     "flight": null,
+     "flights": null,
+     "landOk": null,
+     "landTry": null,
+     "first": null,
+     "last": null,
+     "status": "N/A",
+     "turn": null,
+     "target": "",
+     "targetType": ""
+    }
+   ],
+   "windowEnd": "2026-11-30T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Falcon",
+    "length": 70,
+    "diameter": 3.65,
+    "reusable": true,
+    "leo": 22800,
+    "stages": "2",
+    "total": 643,
+    "ok": 642,
+    "fail": 1
+   },
+   "lat": 34.632,
+   "lon": -120.611,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241020164113.jpeg",
+   "vehEU": false,
+   "payEU": true,
+   "euReason": [
+    "carga: Eutelsat OneWeb"
+   ],
+   "resumen": "Falcon 9 Block 5, de SpaceX, lleva OneWeb 21 a Polar Orbit desde Vandenberg SFB, CA, USA. Un lote de 32 satélites para la constelación de satélites OneWeb, cuyo objetivo es proporcionar un servicio global de Internet de banda ancha a los particulares. OneWeb es una empresa de comunicaciones globales fundada por Greg Wyler con sede en Londres, Reino Unido, y en McLean, Virginia, Estados Unidos.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
+    "https://es.wikipedia.org/wiki/OneWeb"
    ]
   },
   {
