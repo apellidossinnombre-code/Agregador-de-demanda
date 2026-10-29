@@ -1,11 +1,21 @@
 {
- "updatedAt": 1793232873145,
+ "updatedAt": 1793253598375,
  "news": [
   {
    "id": 40625,
    "title": "Untied Launch Alliance anuncia que el cohete Vulcan volverá a volar a mediados de noviembre",
    "url": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
    "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Este lanzamiento, tan esperado, será el primero del cohete de gran capacidad desde que se produjera un fallo en la tobera de un propulsor sólido durante el vuelo. El cohete pondrá en órbita 40 satélites Amazon Leo. ",
+   "publishedAt": "2026-10-28T22:46:41Z",
+   "eu": false
+  },
+  {
+   "id": 40629,
+   "title": "United Launch Alliance anuncia que el cohete Vulcan volverá a volar a mediados de noviembre",
+   "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
    "site": "Spaceflight Now",
    "summary": "Este lanzamiento, tan esperado, será el primero del cohete de gran capacidad desde que se produjera un fallo en la tobera de un propulsor sólido durante el vuelo. El cohete pondrá en órbita 40 satélites Amazon Leo. ",
    "publishedAt": "2026-10-28T22:46:41Z",
