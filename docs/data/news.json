@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793299277070,
+ "updatedAt": 1793314722807,
  "news": [
   {
    "id": 40640,
@@ -89,16 +89,6 @@
    "site": "Spaceflight Now",
    "summary": "El despegue de la misión Starlink 15-16 desde el Complejo de Lanzamiento Espacial 4E está previsto actualmente para las 22:46 h PDT (01:46 h EDT / 05:46 UTC).",
    "publishedAt": "2026-10-27T00:50:37Z",
-   "eu": false
-  },
-  {
-   "id": 40589,
-   "title": "Avance del lanzamiento: está previsto el lanzamiento de los cohetes Falcon 9 y GSLV",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "Esta semana está previsto el lanzamiento de cuatro cohetes desde Estados Unidos y la India. SpaceX…\nLa entrada «Avance del lanzamiento: lanzamientos programados de los cohetes Falcon 9 y GSLV» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-10-26T21:11:56Z",
    "eu": false
   }
  ]

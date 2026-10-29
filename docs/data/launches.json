@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793299274808,
+ "updatedAt": 1793314722688,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -46,6 +46,51 @@
     "https://thespacedevs.com/llapi",
     "https://en.wikipedia.org/wiki/Ariane_6",
     "https://es.wikipedia.org/wiki/Amazon_Leo"
+   ]
+  },
+  {
+   "id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
+   "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
+   "date": "2026-11-26T20:00:00Z",
+   "status": "TBC",
+   "vehicle": "Spectrum",
+   "provider": "Isar Aerospace",
+   "providerCountry": "DEU",
+   "payload": "AT-Astra and Others (Spectrum Flight 3)",
+   "missionType": "Technology",
+   "orbit": "Sun-Synchronous Orbit",
+   "description": "Tercer vuelo de prueba del vehículo de lanzamiento Isar Spectrum. Este lanzamiento transportará varios satélites, entre ellos el AT-Astra/IOD-01 de R-Space, que llevará a cabo demostraciones en órbita para ENPULSION, SUNBOOSTER GmbH y Synopsis Planet.",
+   "pad": "Orbital Launch Pad",
+   "location": "Andøya Spaceport",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2026-11-26T21:30:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "",
+    "length": 28,
+    "diameter": 2,
+    "reusable": false,
+    "leo": 1000,
+    "stages": "2",
+    "total": 2,
+    "ok": 1,
+    "fail": 1
+   },
+   "lat": 69.1084,
+   "lon": 15.5895,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+   "vehEU": true,
+   "payEU": false,
+   "euReason": [
+    "lanzador: operador Isar Aerospace"
+   ],
+   "resumen": "Spectrum, de Isar Aerospace, lleva AT-Astra and Others (Spectrum Flight 3) a Sun-Synchronous Orbit desde Andøya Spaceport. Tercer vuelo de prueba del vehículo de lanzamiento Isar Spectrum.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   },
   {
@@ -307,51 +352,6 @@
     "carga: European Space Agency"
    ],
    "resumen": "Themis Demonstrator, de European Space Agency, lleva T1H-1 a Suborbital desde Esrange Space Center. Primera prueba de vuelo de corta distancia de un prototipo de Themis, con una altitud prevista de hasta 100 m.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
-   "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Spectrum",
-   "provider": "Isar Aerospace",
-   "providerCountry": "DEU",
-   "payload": "AT-Astra and Others (Spectrum Flight 3)",
-   "missionType": "Technology",
-   "orbit": "Sun-Synchronous Orbit",
-   "description": "Tercer vuelo de prueba del vehículo de lanzamiento Isar Spectrum. Este lanzamiento transportará varios satélites, entre ellos el AT-Astra/IOD-01 de R-Space, que llevará a cabo demostraciones en órbita para ENPULSION, SUNBOOSTER GmbH y Synopsis Planet.",
-   "pad": "Orbital Launch Pad",
-   "location": "Andøya Spaceport",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "",
-    "length": 28,
-    "diameter": 2,
-    "reusable": false,
-    "leo": 1000,
-    "stages": "2",
-    "total": 2,
-    "ok": 1,
-    "fail": 1
-   },
-   "lat": 69.1084,
-   "lon": 15.5895,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
-   "vehEU": true,
-   "payEU": false,
-   "euReason": [
-    "lanzador: operador Isar Aerospace"
-   ],
-   "resumen": "Spectrum, de Isar Aerospace, lleva AT-Astra and Others (Spectrum Flight 3) a Sun-Synchronous Orbit desde Andøya Spaceport. Tercer vuelo de prueba del vehículo de lanzamiento Isar Spectrum.",
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi"
