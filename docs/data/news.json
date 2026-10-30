@@ -1,6 +1,26 @@
 {
- "updatedAt": 1793350555286,
+ "updatedAt": 1793373865348,
  "news": [
+  {
+   "id": 40656,
+   "title": "Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable «Callisto»",
+   "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
+   "site": "European Spaceflight",
+   "summary": "La agencia espacial francesa CNES ha anunciado el inicio de las pruebas de calificación en tierra del prototipo de cohete reutilizable «Callisto» en el Centro Espacial de Guayana. Se ha instalado una maqueta a escala real del vehículo en la antigua plataforma de lanzamiento Diamant del centro espacial, que se está remodelando para dar soporte al programa. En un comunicado del 29 de octubre, el CNES […]\nLa entrada «Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable Callisto» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-10-30T11:02:56Z",
+   "eu": true
+  },
+  {
+   "id": 40655,
+   "title": "Notas sobre el cielo nocturno de noviembre: A un día de luz de distancia",
+   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg",
+   "site": "NASA",
+   "summary": "Viajeros gemelos. En 1977, la NASA lanzó las naves espaciales gemelas Voyager 1 y 2, aprovechando una alineación planetaria —que se produce una vez cada 175 años— de los cuatro planetas más grandes de nuestro sistema solar: Júpiter, Saturno, Urano y Neptuno. Gracias a seis maniobras de asistencia gravitatoria entre ambas, este «Gran Tour» nos permitió observar de cerca a los gigantes gaseosos y de hielo, incluidas varias lunas. […]",
+   "publishedAt": "2026-10-30T10:00:00Z",
+   "eu": false
+  },
   {
    "id": 40652,
    "title": "La isla de Vega, paralizada por el miedo",
