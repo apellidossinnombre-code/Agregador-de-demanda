@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793390523796,
+ "updatedAt": 1793403436905,
  "news": [
+  {
+   "id": 40667,
+   "title": "Cobertura en directo: SpaceX cerrará el mes de octubre con el lanzamiento del Falcon 9 en la víspera de Halloween",
+   "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+   "site": "Spaceflight Now",
+   "summary": "La misión Starlink 15-18 añadirá otros 27 satélites Starlink V2 Mini Optimized a la megaconstelación de SpaceX. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 21:02 h PDT (00:02 h EDT / 04:02 UTC). ",
+   "publishedAt": "2026-10-30T22:46:02Z",
+   "eu": false
+  },
   {
    "id": 40662,
    "title": "Los analistas consideran que la inminente crisis del lanzamiento es «más grave» de lo previsto",
@@ -99,16 +109,6 @@
    "site": "NASA",
    "summary": "La etapa central del SLS (Sistema de Lanzamiento Espacial) de la misión Artemis III de la NASA se integró junto a los dos propulsores de cohete sólido el 28 de octubre en la nave industrial High Bay 3 del Edificio de Ensamblaje de Vehículos, en el Centro Espacial Kennedy de la NASA, en Florida.   Los técnicos elevaron la etapa del cohete, de 212 pies, desde la nave industrial 2 de las instalaciones utilizando una viga de elevación única en su género diseñada […]",
    "publishedAt": "2026-10-28T18:59:44Z",
-   "eu": false
-  },
-  {
-   "id": 40616,
-   "title": "Flexell Space y Satoro acuerdan colaborar en una demostración en órbita de células solares espaciales de última generación",
-   "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&ssl=1",
-   "site": "SpaceNews",
-   "summary": "\n– Se han previsto dos misiones de demostración a bordo del Falcon 9 de SpaceX, una en 2027 y otra en 2028 – Satoro proporcionará una solución de «satélite como servicio»; Flexell Space suministrará células solares y módulos de prueba […]\nLa noticia «Flexell Space y Satoro acuerdan colaborar en la demostración en órbita de células solares espaciales de última generación» se publicó por primera vez en SpaceNews.",
-   "publishedAt": "2026-10-28T14:43:08Z",
    "eu": false
   }
  ]
