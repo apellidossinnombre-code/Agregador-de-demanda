@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793327284600,
+ "updatedAt": 1793350555286,
  "news": [
+  {
+   "id": 40652,
+   "title": "La isla de Vega, paralizada por el miedo",
+   "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+   "site": "NASA",
+   "summary": "La visión de un rostro helado con forma de calavera en la isla antártica podría helar la sangre.",
+   "publishedAt": "2026-10-30T04:01:00Z",
+   "eu": true
+  },
   {
    "id": 40640,
    "title": "Envía tu nombre a Titán a bordo de la misión «Dragonfly» de la NASA",
