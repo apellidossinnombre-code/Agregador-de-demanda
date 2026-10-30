@@ -1,6 +1,26 @@
 {
- "updatedAt": 1793373865348,
+ "updatedAt": 1793390523796,
  "news": [
+  {
+   "id": 40662,
+   "title": "Los analistas consideran que la inminente crisis del lanzamiento es «más grave» de lo previsto",
+   "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
+   "site": "Arstechnica",
+   "summary": "Tampoco hay indicios de que Starship vaya a poner en órbita satélites tradicionales.",
+   "publishedAt": "2026-10-30T16:12:59Z",
+   "eu": false
+  },
+  {
+   "id": 40660,
+   "title": "El telescopio espacial James Webb de la NASA capta una inquietante imagen de una cabeza de gato",
+   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+   "site": "NASA",
+   "summary": "Las intrincadas estructuras de la Nebulosa de la Cabeza de Gato quedan iluminadas en esta imagen en infrarrojo medio captada por el Telescopio Espacial James Webb de la NASA, publicada el 29 de octubre de 2026. Es probable que la característica forma de «cabeza de gato» de la nebulosa se haya esculpido con el paso del tiempo debido a la intensa radiación ultravioleta y a los vientos procedentes de las estrellas masivas de la Nebulosa de Carina. A medida que esta retroalimentación estelar […]",
+   "publishedAt": "2026-10-30T15:56:26Z",
+   "eu": true
+  },
   {
    "id": 40656,
    "title": "Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable «Callisto»",
@@ -90,26 +110,6 @@
    "summary": "\n– Se han previsto dos misiones de demostración a bordo del Falcon 9 de SpaceX, una en 2027 y otra en 2028 – Satoro proporcionará una solución de «satélite como servicio»; Flexell Space suministrará células solares y módulos de prueba […]\nLa noticia «Flexell Space y Satoro acuerdan colaborar en la demostración en órbita de células solares espaciales de última generación» se publicó por primera vez en SpaceNews.",
    "publishedAt": "2026-10-28T14:43:08Z",
    "eu": false
-  },
-  {
-   "id": 40611,
-   "title": "La startup ucraniana GomSpace prueba un satélite para una futura red de comunicaciones",
-   "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
-   "site": "SpaceNews",
-   "summary": "\nLas empresas afirmaron que la nave espacial experimental, lanzada el 1 de octubre, podría dar lugar a una red de satélites controlada por Ucrania.\nLa noticia «La startup ucraniana GomSpace prueba un satélite para una futura red de comunicaciones» se publicó por primera vez en SpaceNews.",
-   "publishedAt": "2026-10-27T20:21:30Z",
-   "eu": false
-  },
-  {
-   "id": 40608,
-   "title": "Una pequeña estrella se está devorando a una enana marrón tan lentamente que el proceso podría durar miles de millones de años, y ambas orbitan una alrededor de la otra cada 87 minutos en un espacio que cabría dentro del Sol.",
-   "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/",
-   "image": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
-   "site": "SpaceDaily",
-   "summary": "Una pequeña estrella roja está absorbiendo gas de una enana marrón mientras el binario da una vuelta cada 87 minutos, en una órbita tan compacta que cabría dentro del Sol. El material impacta contra la superficie de la estrella e ilumina un punto caliente, lo que marca el inicio de un «banquete» que podría prolongarse durante miles de millones de años. El sistema, ZTF J0440+2325, se encuentra a […]\nLa entrada «Una pequeña estrella se está alimentando de una enana marrón tan lentamente que el festín podría durar miles de millones de años, y ambas orbitan una alrededor de la otra cada 87 minutos en un espacio que cabría dentro del Sol» apareció primero en Space Daily.",
-   "publishedAt": "2026-10-27T16:59:00Z",
-   "eu": true
   }
  ]
 }
