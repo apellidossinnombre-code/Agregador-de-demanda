@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793314722807,
+ "updatedAt": 1793327284600,
  "news": [
   {
    "id": 40640,
@@ -80,16 +80,6 @@
    "summary": "Una pequeña estrella roja está absorbiendo gas de una enana marrón mientras el binario da una vuelta cada 87 minutos, en una órbita tan compacta que cabría dentro del Sol. El material impacta contra la superficie de la estrella e ilumina un punto caliente, lo que marca el inicio de un «banquete» que podría prolongarse durante miles de millones de años. El sistema, ZTF J0440+2325, se encuentra a […]\nLa entrada «Una pequeña estrella se está alimentando de una enana marrón tan lentamente que el festín podría durar miles de millones de años, y ambas orbitan una alrededor de la otra cada 87 minutos en un espacio que cabría dentro del Sol» apareció primero en Space Daily.",
    "publishedAt": "2026-10-27T16:59:00Z",
    "eu": true
-  },
-  {
-   "id": 40594,
-   "title": "Un cohete Falcon 9 de la costa oeste lanzará 27 satélites Starlink",
-   "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El despegue de la misión Starlink 15-16 desde el Complejo de Lanzamiento Espacial 4E está previsto actualmente para las 22:46 h PDT (01:46 h EDT / 05:46 UTC).",
-   "publishedAt": "2026-10-27T00:50:37Z",
-   "eu": false
   }
  ]
 }
