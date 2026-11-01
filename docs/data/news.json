@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793496197388,
+ "updatedAt": 1793518981416,
  "news": [
+  {
+   "id": 40669,
+   "title": "Isaacman describe la secuencia de comprobación de los lanzamientos múltiples de Artemis III y las prioridades de Blue Origin",
+   "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
+   "site": "NASASpaceflight",
+   "summary": "El administrador de la NASA, Jared Isaacman, se ha pronunciado sobre la arquitectura prevista y los planes de contingencia para la misión Artemis…\nLa entrada «Isaacman detalla la secuencia de comprobación de los lanzamientos múltiples de Artemis III y la prioridad de Blue Origin» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-01T03:36:55Z",
+   "eu": false
+  },
   {
    "id": 40667,
    "title": "Cobertura en directo: SpaceX cerrará el mes de octubre con el lanzamiento del Falcon 9 en la víspera de Halloween",
