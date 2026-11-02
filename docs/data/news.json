@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793584497167,
+ "updatedAt": 1793610394104,
  "news": [
   {
    "id": 40669,
@@ -17,7 +17,7 @@
    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
    "site": "Spaceflight Now",
-   "summary": "La misión Starlink 15-18 añadirá otros 27 satélites Starlink V2 Mini Optimized a la megaconstelación de SpaceX. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 21:02 h PDT (00:02 h EDT / 04:02 UTC). ",
+   "summary": "La misión Starlink 15-18 añadirá otros 27 satélites Starlink V2 Mini Optimized a la megaconstelación de SpaceX. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 21:02 h PDT (00:02 h EDT / 04:02 UTC).",
    "publishedAt": "2026-10-30T22:46:02Z",
    "eu": false
   },
@@ -47,7 +47,7 @@
    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/",
    "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
    "site": "European Spaceflight",
-   "summary": "La agencia espacial francesa CNES ha anunciado el inicio de las pruebas de calificación en tierra del prototipo de cohete reutilizable «Callisto» en el Centro Espacial de Guayana. Se ha instalado una maqueta a escala real del vehículo en la antigua plataforma de lanzamiento Diamant del centro espacial, que se está remodelando para dar soporte al programa. En un comunicado del 29 de octubre, el CNES […]\nLa entrada «Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable Callisto» apareció primero en European Spaceflight.",
+   "summary": "La agencia espacial francesa CNES ha anunciado el inicio de las pruebas de calificación en tierra del demostrador del cohete reutilizable Callisto en el Centro Espacial de Guayana. Se ha instalado una maqueta a escala real del vehículo en la antigua plataforma de lanzamiento Diamant del centro espacial, que se está remodelando para dar soporte al programa. En un comunicado del 29 de octubre, el CNES […]\nLa entrada «Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable Callisto» apareció primero en European Spaceflight.",
    "publishedAt": "2026-10-30T11:02:56Z",
    "eu": true
   },
@@ -109,16 +109,6 @@
    "site": "NASASpaceflight",
    "summary": "En el mundo de los vuelos espaciales, la infraestructura de lanzamiento es fundamental para el despegue de los cohetes. Para las agencias y…\nLa entrada «Comparación de los plazos de construcción del KSC y Starbase para comprender el desarrollo de Starbase, en Luisiana» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-28T21:12:08Z",
-   "eu": false
-  },
-  {
-   "id": 40620,
-   "title": "La etapa central del SLS de Artemis III se une a los propulsores en Kennedy",
-   "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-   "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
-   "site": "NASA",
-   "summary": "La etapa central del SLS (Sistema de Lanzamiento Espacial) de la misión Artemis III de la NASA se integró junto a los dos propulsores de cohete sólido el 28 de octubre en la nave industrial High Bay 3 del Edificio de Ensamblaje de Vehículos, en el Centro Espacial Kennedy de la NASA, en Florida.   Los técnicos elevaron la etapa del cohete, de 212 pies, desde la nave industrial 2 de las instalaciones utilizando una viga de elevación única en su género diseñada […]",
-   "publishedAt": "2026-10-28T18:59:44Z",
    "eu": false
   }
  ]
