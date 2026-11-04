@@ -1,6 +1,26 @@
 {
- "updatedAt": 1793782680841,
+ "updatedAt": 1793811447372,
  "news": [
+  {
+   "id": 40701,
+   "title": "PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5",
+   "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
+   "site": "European Spaceflight",
+   "summary": "El proveedor español de servicios de lanzamiento PLD Space ha completado una prueba explosiva del sistema de interrupción de vuelo de su cohete MIURA 5, antes del vuelo inaugural del vehículo, que ahora está previsto para el primer semestre de 2027. El 30 de octubre, PLD Space anunció que había completado con éxito la prueba para validar el rendimiento de su […]\nLa entrada «PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-04T10:04:11Z",
+   "eu": true
+  },
+  {
+   "id": 40702,
+   "title": "Es hora de activar el satélite meteorológico MetOp-SG-B1",
+   "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg",
+   "site": "ESA",
+   "summary": "Tras un breve periodo de almacenamiento tras su llegada al Puerto Espacial Europeo, en la Guayana Francesa, el satélite MetOp de segunda generación (B1) ha sido trasladado a una sala limpia y extraído de su contenedor de transporte. El equipo se está preparando ahora para reactivar a esta «bella durmiente» y comenzar las comprobaciones y preparativos finales de cara a su lanzamiento, previsto para finales de año.",
+   "publishedAt": "2026-11-04T09:10:00Z",
+   "eu": true
+  },
   {
    "id": 40694,
    "title": "Una startup suiza planea construir un módulo de aterrizaje lunar propulsado por un motor de detonación rotativa",
@@ -99,36 +119,6 @@
    "site": "NASA",
    "summary": "Las intrincadas estructuras de la Nebulosa de la Cabeza de Gato quedan iluminadas en esta imagen en infrarrojo medio captada por el Telescopio Espacial James Webb de la NASA, publicada el 29 de octubre de 2026. Es probable que la característica forma de «cabeza de gato» de la nebulosa se haya esculpido con el paso del tiempo debido a la intensa radiación ultravioleta y a los vientos procedentes de las estrellas masivas de la Nebulosa de Carina. A medida que esta retroalimentación estelar […]",
    "publishedAt": "2026-10-30T15:56:26Z",
-   "eu": true
-  },
-  {
-   "id": 40656,
-   "title": "Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable «Callisto»",
-   "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
-   "site": "European Spaceflight",
-   "summary": "La agencia espacial francesa CNES ha anunciado el inicio de las pruebas de calificación en tierra del demostrador del cohete reutilizable Callisto en el Centro Espacial de Guayana. Se ha instalado una maqueta a escala real del vehículo en la antigua plataforma de lanzamiento Diamant del centro espacial, que se está remodelando para dar soporte al programa. En un comunicado del 29 de octubre, el CNES […]\nLa entrada «Comienzan las pruebas de calificación en tierra del prototipo de cohete reutilizable Callisto» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-10-30T11:02:56Z",
-   "eu": true
-  },
-  {
-   "id": 40655,
-   "title": "Notas sobre el cielo nocturno de noviembre: A un día de luz de distancia",
-   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg",
-   "site": "NASA",
-   "summary": "Viajeros gemelos. En 1977, la NASA lanzó las naves espaciales gemelas Voyager 1 y 2, aprovechando una alineación planetaria —que se produce una vez cada 175 años— de los cuatro planetas más grandes de nuestro sistema solar: Júpiter, Saturno, Urano y Neptuno. Gracias a seis maniobras de asistencia gravitatoria entre ambas, este «Gran Tour» nos permitió observar de cerca a los gigantes gaseosos y de hielo, incluidas varias lunas. […]",
-   "publishedAt": "2026-10-30T10:00:00Z",
-   "eu": false
-  },
-  {
-   "id": 40652,
-   "title": "La isla de Vega, paralizada por el miedo",
-   "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
-   "site": "NASA",
-   "summary": "La visión de un rostro helado con forma de calavera en la isla antártica podría helar la sangre.",
-   "publishedAt": "2026-10-30T04:01:00Z",
    "eu": true
   }
  ]
