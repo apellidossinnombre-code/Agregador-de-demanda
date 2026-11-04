@@ -1,6 +1,26 @@
 {
- "updatedAt": 1793811447372,
+ "updatedAt": 1793831364998,
  "news": [
+  {
+   "id": 40711,
+   "title": "La NASA da a conocer sus planes para acelerar el programa Artemis y el regreso a la Luna",
+   "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+   "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+   "site": "NASA",
+   "summary": "En una actualización del 23 de octubre, el administrador de la NASA, Jared Isaacman, y otros responsables de la agencia expusieron el plan de la agencia para llevar de nuevo a los estadounidenses a la superficie lunar en 2028. Los responsables de la agencia ofrecieron información actualizada sobre los planes de aceleración anunciados previamente para el programa Artemis, avanzando hacia el vuelo de prueba Artemis III de la agencia en 2027 y la misión Artemis IV a la Luna […]",
+   "publishedAt": "2026-11-04T20:17:07Z",
+   "eu": true
+  },
+  {
+   "id": 40709,
+   "title": "La NASA anuncia la adjudicación de contratos para sistemas de retransmisión por satélite en banda Ka destinados a las comunicaciones espaciales",
+   "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+   "site": "NASA",
+   "summary": "La NASA seleccionó el miércoles a tres empresas para que lleven a cabo trabajos destinados a desarrollar conceptos de capacidad de retransmisión espacial en banda Ka que sean compatibles con las misiones espaciales actuales, garantizando así la continuidad del servicio de las naves espaciales existentes sin necesidad de modificar sus sistemas de a bordo. A través de este trabajo, la NASA pretende adquirir soluciones integrales que incluyan los ámbitos espacial, terrestre, de lanzamiento, de operaciones e integración […]",
+   "publishedAt": "2026-11-04T18:00:02Z",
+   "eu": false
+  },
   {
    "id": 40701,
    "title": "PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5",
@@ -80,46 +100,6 @@
    "summary": "\nEl año pasado, la industria espacial puso en órbita más cohetes que nunca, pero los operadores de satélites se enfrentan a un problema inesperado: sigue sin haber suficientes plazas para todos. Y […]\nEl artículo «Cómo ampliar el acceso fiable y flexible al espacio» se publicó por primera vez en SpaceNews.",
    "publishedAt": "2026-11-02T14:00:00Z",
    "eu": false
-  },
-  {
-   "id": 40669,
-   "title": "Isaacman describe la secuencia de comprobación de los lanzamientos múltiples de Artemis III y las prioridades de Blue Origin",
-   "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
-   "site": "NASASpaceflight",
-   "summary": "El administrador de la NASA, Jared Isaacman, se ha pronunciado sobre la arquitectura prevista y los planes de contingencia para la misión Artemis…\nLa entrada «Isaacman detalla la secuencia de comprobación de los lanzamientos múltiples de Artemis III y la prioridad de Blue Origin» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-01T03:36:55Z",
-   "eu": false
-  },
-  {
-   "id": 40667,
-   "title": "Cobertura en directo: SpaceX cerrará el mes de octubre con el lanzamiento del Falcon 9 en la víspera de Halloween",
-   "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-   "site": "Spaceflight Now",
-   "summary": "La misión Starlink 15-18 añadirá otros 27 satélites Starlink V2 Mini Optimized a la megaconstelación de SpaceX. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 21:02 h PDT (00:02 h EDT / 04:02 UTC).",
-   "publishedAt": "2026-10-30T22:46:02Z",
-   "eu": false
-  },
-  {
-   "id": 40662,
-   "title": "Los analistas consideran que la inminente crisis del lanzamiento es «más grave» de lo previsto",
-   "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
-   "site": "Arstechnica",
-   "summary": "Tampoco hay indicios de que Starship vaya a poner en órbita satélites tradicionales.",
-   "publishedAt": "2026-10-30T16:12:59Z",
-   "eu": false
-  },
-  {
-   "id": 40660,
-   "title": "El telescopio espacial James Webb de la NASA capta una inquietante imagen de una cabeza de gato",
-   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
-   "site": "NASA",
-   "summary": "Las intrincadas estructuras de la Nebulosa de la Cabeza de Gato quedan iluminadas en esta imagen en infrarrojo medio captada por el Telescopio Espacial James Webb de la NASA, publicada el 29 de octubre de 2026. Es probable que la característica forma de «cabeza de gato» de la nebulosa se haya esculpido con el paso del tiempo debido a la intensa radiación ultravioleta y a los vientos procedentes de las estrellas masivas de la Nebulosa de Carina. A medida que esta retroalimentación estelar […]",
-   "publishedAt": "2026-10-30T15:56:26Z",
-   "eu": true
   }
  ]
 }
