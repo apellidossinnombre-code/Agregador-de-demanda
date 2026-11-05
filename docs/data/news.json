@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793872252994,
+ "updatedAt": 1793900528754,
  "news": [
+  {
+   "id": 40748,
+   "title": "Construyendo una «autopista hasta la Luna y vuelta» con Winnie Lai",
+   "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&ssl=1",
+   "site": "SpaceNews",
+   "summary": "\nEn este episodio, Mike Gruss, de SpaceNews, habla con Winnie Lai, directora ejecutiva de Auriga Space. Hablan de cómo la tecnología de lanzamiento electromagnético que «catapulta» pequeños vehículos de lanzamiento podría reducir […]\nLa entrada «Construyendo una “autopista hacia la Luna y de vuelta” con Winnie Lai» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-11-05T14:15:38Z",
+   "eu": false
+  },
   {
    "id": 40711,
    "title": "La NASA da a conocer sus planes para acelerar el programa Artemis y el regreso a la Luna",
@@ -70,26 +80,6 @@
    "summary": "Se prevén ocho lanzamientos esta semana, desde bases de lanzamiento de Estados Unidos, China, Nueva…\nLa entrada «Avance de lanzamientos: el Falcon 9 lanzará misiones de la USSF y China lanzará satélites de Internet» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-02T22:21:38Z",
    "eu": false
-  },
-  {
-   "id": 40680,
-   "title": "La NASA invita a los medios de comunicación al lanzamiento del CRS-25 de Northrop Grumman para el reabastecimiento de la Estación Espacial",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-   "image": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
-   "site": "NASA",
-   "summary": "Ya está abierta la acreditación de medios para el próximo lanzamiento, cuyo objetivo es llevar investigaciones científicas, suministros y equipamiento de la NASA a la Estación Espacial Internacional. Una nave espacial Cygnus XL de Northrop Grumman despegará en noviembre hacia el laboratorio orbital a bordo de un cohete Falcon 9 de SpaceX para la NASA. La misión se conoce como la «Northrop Grumman Commercial Resupply Services 25» de la NASA, […]",
-   "publishedAt": "2026-11-02T17:33:22Z",
-   "eu": false
-  },
-  {
-   "id": 40677,
-   "title": "La ESA apoyará las demostraciones de vuelo de propulsores reutilizables impulsadas por la industria",
-   "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
-   "site": "European Spaceflight",
-   "summary": "La Agencia Espacial Europea ha anunciado sus planes de apoyar las demostraciones de vuelo, impulsadas por la industria, de primeras etapas y propulsores reutilizables de cohetes, como parte de una nueva fase de su iniciativa «Boosters for European Space Transportation» (BEST!). El 27 de octubre, la ESA publicó una convocatoria para su iniciativa «BEST!2 Flight Demonstrations», cuyo objetivo es «acelerar el desarrollo y […]\nLa entrada «La ESA apoyará las demostraciones de vuelo de propulsores reutilizables impulsadas por la industria» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-02T14:13:02Z",
-   "eu": true
   }
  ]
 }
