@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793846493155,
+ "updatedAt": 1793872252994,
  "news": [
   {
    "id": 40711,
@@ -27,7 +27,7 @@
    "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
    "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
    "site": "European Spaceflight",
-   "summary": "El proveedor español de servicios de lanzamiento PLD Space ha completado una prueba explosiva del sistema de interrupción de vuelo de su cohete MIURA 5, antes del vuelo inaugural del vehículo, que ahora está previsto para el primer semestre de 2027. El 30 de octubre, PLD Space anunció que había completado con éxito la prueba para validar el rendimiento de su […]\nLa entrada «PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5» apareció primero en European Spaceflight.",
+   "summary": "El proveedor español de servicios de lanzamiento PLD Space ha completado una prueba de explosión del sistema de interrupción de vuelo de su cohete MIURA 5, antes del vuelo inaugural del vehículo, que ahora se prevé para el primer semestre de 2027. El 30 de octubre, PLD Space anunció que había completado con éxito la prueba para validar el rendimiento de su […]\nLa entrada «PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-04T10:04:11Z",
    "eu": true
   },
@@ -70,6 +70,26 @@
    "summary": "Se prevén ocho lanzamientos esta semana, desde bases de lanzamiento de Estados Unidos, China, Nueva…\nLa entrada «Avance de lanzamientos: el Falcon 9 lanzará misiones de la USSF y China lanzará satélites de Internet» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-02T22:21:38Z",
    "eu": false
+  },
+  {
+   "id": 40680,
+   "title": "La NASA invita a los medios de comunicación al lanzamiento del CRS-25 de Northrop Grumman para el reabastecimiento de la Estación Espacial",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+   "image": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
+   "site": "NASA",
+   "summary": "Ya está abierta la acreditación de medios para el próximo lanzamiento, cuyo objetivo es llevar investigaciones científicas, suministros y equipamiento de la NASA a la Estación Espacial Internacional. Una nave espacial Cygnus XL de Northrop Grumman despegará en noviembre hacia el laboratorio orbital a bordo de un cohete Falcon 9 de SpaceX para la NASA. La misión se conoce como la «Northrop Grumman Commercial Resupply Services 25» de la NASA, […]",
+   "publishedAt": "2026-11-02T17:33:22Z",
+   "eu": false
+  },
+  {
+   "id": 40677,
+   "title": "La ESA apoyará las demostraciones de vuelo de propulsores reutilizables impulsadas por la industria",
+   "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
+   "site": "European Spaceflight",
+   "summary": "La Agencia Espacial Europea ha anunciado sus planes de apoyar las demostraciones de vuelo, impulsadas por la industria, de primeras etapas y propulsores reutilizables de cohetes, como parte de una nueva fase de su iniciativa «Boosters for European Space Transportation» (BEST!). El 27 de octubre, la ESA publicó una convocatoria para su iniciativa «BEST!2 Flight Demonstrations», cuyo objetivo es «acelerar el desarrollo y […]\nLa entrada «La ESA apoyará las demostraciones de vuelo de propulsores reutilizables impulsadas por la industria» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-02T14:13:02Z",
+   "eu": true
   }
  ]
 }
