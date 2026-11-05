@@ -1,6 +1,26 @@
 {
- "updatedAt": 1793900528754,
+ "updatedAt": 1793919154294,
  "news": [
+  {
+   "id": 40755,
+   "title": "Blue Origin presenta una nueva etapa de impulso y nuevos motores para sus cohetes New Glenn",
+   "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
+   "site": "Spaceflight Now",
+   "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy. ",
+   "publishedAt": "2026-11-05T22:34:58Z",
+   "eu": false
+  },
+  {
+   "id": 40752,
+   "title": "Blue Origin presenta la tercera etapa del New Glenn GS3 y el motor propulsor Northstar",
+   "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406.jpg",
+   "site": "NASASpaceflight",
+   "summary": "El director ejecutivo de Blue Origin, Dave Limp, ha presentado una tercera etapa para el New Glenn y…\nLa entrada «Blue Origin presenta la tercera etapa GS3 del New Glenn y el motor propulsor Northstar» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-05T20:51:14Z",
+   "eu": false
+  },
   {
    "id": 40748,
    "title": "Construyendo una «autopista hasta la Luna y vuelta» con Winnie Lai",
@@ -60,26 +80,6 @@
    "summary": "La startup espacial suiza Stellar Alpina ha dado a conocer sus planes para desarrollar un módulo de aterrizaje lunar propulsado por el motor cohete de detonación rotativa de la empresa. En un comunicado del 2 de noviembre, la empresa presentó su proyecto de módulo de aterrizaje lunar «Morpho» y un vehículo de transferencia orbital denominado «Monarch». Según la empresa, su intención es centrarse inicialmente en el «Monarch», utilizando la nave espacial […]\nLa entrada «Una startup suiza planea un módulo de aterrizaje lunar propulsado por un motor de detonación rotativa» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-03T15:26:46Z",
    "eu": true
-  },
-  {
-   "id": 40686,
-   "title": "China planea «dos lanzamientos y un encuentro en órbita lunar» para llevar a los taikonautas a la Luna",
-   "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Mengzhou-launch-abort-test-wikimedia-300x168.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "China está revelando más detalles sobre cómo tiene previsto llevar a los taikonautas a la Luna para 2030. El desarrollo del cohete «Marcha Larga-10», la nave tripulada «Mengzhou» y el módulo de aterrizaje lunar «Lanyue» […]",
-   "publishedAt": "2026-11-03T04:51:09Z",
-   "eu": false
-  },
-  {
-   "id": 40685,
-   "title": "Avance del lanzamiento: el Falcon 9 lanzará misiones de la USSF, mientras que China lanzará satélites de Internet",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-scaled.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "Se prevén ocho lanzamientos esta semana, desde bases de lanzamiento de Estados Unidos, China, Nueva…\nLa entrada «Avance de lanzamientos: el Falcon 9 lanzará misiones de la USSF y China lanzará satélites de Internet» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-02T22:21:38Z",
-   "eu": false
   }
  ]
 }
