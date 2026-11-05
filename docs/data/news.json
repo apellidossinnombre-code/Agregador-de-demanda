@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793831364998,
+ "updatedAt": 1793846493155,
  "news": [
   {
    "id": 40711,
@@ -69,36 +69,6 @@
    "site": "NASASpaceflight",
    "summary": "Se prevén ocho lanzamientos esta semana, desde bases de lanzamiento de Estados Unidos, China, Nueva…\nLa entrada «Avance de lanzamientos: el Falcon 9 lanzará misiones de la USSF y China lanzará satélites de Internet» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-02T22:21:38Z",
-   "eu": false
-  },
-  {
-   "id": 40680,
-   "title": "La NASA invita a los medios de comunicación al lanzamiento del CRS-25 de Northrop Grumman para el reabastecimiento de la Estación Espacial",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-   "image": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
-   "site": "NASA",
-   "summary": "Ya está abierta la acreditación de medios para el próximo lanzamiento, cuyo objetivo es llevar investigaciones científicas, suministros y equipamiento de la NASA a la Estación Espacial Internacional. Una nave espacial Cygnus XL de Northrop Grumman despegará en noviembre hacia el laboratorio orbital a bordo de un cohete Falcon 9 de SpaceX para la NASA. La misión se conoce como la «Northrop Grumman Commercial Resupply Services 25» de la NASA, […]",
-   "publishedAt": "2026-11-02T17:33:22Z",
-   "eu": false
-  },
-  {
-   "id": 40677,
-   "title": "La ESA apoyará las demostraciones de vuelo de propulsores reutilizables impulsadas por la industria",
-   "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
-   "site": "European Spaceflight",
-   "summary": "La Agencia Espacial Europea ha anunciado sus planes de apoyar las demostraciones de vuelo, impulsadas por la industria, de primeras etapas y propulsores reutilizables de cohetes, como parte de una nueva fase de su iniciativa «Boosters for European Space Transportation» (BEST!). El 27 de octubre, la ESA publicó una convocatoria para su iniciativa «BEST!2 Flight Demonstrations», cuyo objetivo es «acelerar el desarrollo y […]\nLa entrada «La ESA apoyará las demostraciones de vuelo de propulsores reutilizables impulsadas por la industria» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-02T14:13:02Z",
-   "eu": true
-  },
-  {
-   "id": 40676,
-   "title": "Cómo ampliar el acceso fiable y flexible al espacio",
-   "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
-   "site": "SpaceNews",
-   "summary": "\nEl año pasado, la industria espacial puso en órbita más cohetes que nunca, pero los operadores de satélites se enfrentan a un problema inesperado: sigue sin haber suficientes plazas para todos. Y […]\nEl artículo «Cómo ampliar el acceso fiable y flexible al espacio» se publicó por primera vez en SpaceNews.",
-   "publishedAt": "2026-11-02T14:00:00Z",
    "eu": false
   }
  ]
