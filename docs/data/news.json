@@ -1,6 +1,36 @@
 {
- "updatedAt": 1793986836275,
+ "updatedAt": 1794003816870,
  "news": [
+  {
+   "id": 40767,
+   "title": "El Falcon 9 despegará desde California en una misión secreta para la Fuerza Espacial de EE. UU.",
+   "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+   "site": "Spaceflight Now",
+   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX. ",
+   "publishedAt": "2026-11-06T22:00:39Z",
+   "eu": false
+  },
+  {
+   "id": 40766,
+   "title": "Stoke Space está estudiando la ampliación de sus instalaciones de Cape para construir una segunda plataforma de lanzamiento Nova",
+   "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Space Launch Delta 45 ha concedido a Stoke Space el derecho de acceso a la propiedad…\nLa noticia «Stoke Space evalúa la ampliación de sus instalaciones en Cabo Cañaveral para una segunda plataforma de lanzamiento Nova» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-06T21:19:28Z",
+   "eu": false
+  },
+  {
+   "id": 40765,
+   "title": "AST SpaceMobile está tan ansiosa por realizar un lanzamiento que está construyendo su propio cohete",
+   "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
+   "site": "Arstechnica",
+   "summary": "«El cohete Blacklift es el trampolín que nos permitirá ampliar considerablemente nuestro mercado potencial total».",
+   "publishedAt": "2026-11-06T18:20:47Z",
+   "eu": false
+  },
   {
    "id": 40762,
    "title": "El vuelo 15 de Starship, un intento de captura doble, espera la luz verde de la FAA",
@@ -99,16 +129,6 @@
    "site": "ESA",
    "summary": "Tras un breve periodo de almacenamiento tras su llegada al Puerto Espacial Europeo, en la Guayana Francesa, el satélite MetOp de segunda generación (B1) ha sido trasladado a una sala limpia y extraído de su contenedor de transporte. El equipo se está preparando ahora para reactivar a esta «bella durmiente» y comenzar las comprobaciones y preparativos finales de cara a su lanzamiento, previsto para finales de año.",
    "publishedAt": "2026-11-04T09:10:00Z",
-   "eu": true
-  },
-  {
-   "id": 40694,
-   "title": "Una startup suiza planea construir un módulo de aterrizaje lunar propulsado por un motor de detonación rotativa",
-   "url": "https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Swiss-Startup-Plans-Lunar-Lander-Powered-by-Rotating-Detonation-Engine.webp",
-   "site": "European Spaceflight",
-   "summary": "La startup espacial suiza Stellar Alpina ha dado a conocer sus planes para desarrollar un módulo de aterrizaje lunar propulsado por el motor cohete de detonación rotativa de la empresa. En un comunicado del 2 de noviembre, la empresa presentó su proyecto de módulo de aterrizaje lunar «Morpho» y un vehículo de transferencia orbital denominado «Monarch». Según la empresa, su intención es centrarse inicialmente en el «Monarch», utilizando la nave espacial […]\nLa entrada «Una startup suiza planea un módulo de aterrizaje lunar propulsado por un motor de detonación rotativa» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-03T15:26:46Z",
    "eu": true
   }
  ]
