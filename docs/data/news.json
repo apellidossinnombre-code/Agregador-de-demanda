@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793933702896,
+ "updatedAt": 1793961418965,
  "news": [
+  {
+   "id": 40761,
+   "title": "Avio reduce su programa de demostración ante las dificultades técnicas",
+   "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Avio-Scales-Back-Demonstrator-Programme-Amid-Technical-Challenges.webp",
+   "site": "European Spaceflight",
+   "summary": "El fabricante italiano de cohetes Avio ha reducido sus planes de desarrollar dos prototipos de cohetes de combustible líquido destinados a validar tecnologías para un futuro vehículo de lanzamiento reutilizable. En su informe financiero semestral publicado el 10 de septiembre, Avio reveló que había acordado revisar el alcance y la financiación de su programa Space Transportation System (STS), cuyo objetivo original era […]\nLa entrada «Avio reduce su programa de prototipos ante los retos técnicos» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-06T07:39:17Z",
+   "eu": true
+  },
   {
    "id": 40757,
    "title": "Blue Origin anuncia mejoras en sus cohetes con el objetivo de reducir los costes y aumentar el rendimiento",
