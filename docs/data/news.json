@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793961418965,
+ "updatedAt": 1793986836275,
  "news": [
+  {
+   "id": 40762,
+   "title": "El vuelo 15 de Starship, un intento de captura doble, espera la luz verde de la FAA",
+   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
+   "site": "NASASpaceflight",
+   "summary": "El propulsor 22 y la nave 42 se encuentran en la fase final de comprobaciones de cara a un lanzamiento que no tendrá lugar antes del 13 de noviembre…\nLa entrada «El vuelo 15 de Starship, un intento de captura doble, espera la luz verde de la FAA» apareció primero en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-06T15:31:51Z",
+   "eu": false
+  },
   {
    "id": 40761,
    "title": "Avio reduce su programa de demostración ante las dificultades técnicas",
