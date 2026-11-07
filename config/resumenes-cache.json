@@ -228,5 +228,15 @@
    "https://es.wikipedia.org/wiki/OneWeb"
   ],
   "at": 1793277855240
+ },
+ "ed2bf159-ee2d-4b60-bb8e-e964c005c8d9": {
+  "key": "b21d2cf076b6",
+  "text": "Zéphyr, de Latitude, lleva Maiden Flight a Low Earth Orbit desde Etlaq Spaceport. Vuelo inaugural del pequeño vehículo de lanzamiento Zéphyr. El vuelo inaugural, también conocido como primer vuelo, de una aeronave es la primera ocasión en la que esta despega por sus propios medios.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Zephyr",
+   "https://en.wikipedia.org/wiki/Maiden_flight"
+  ],
+  "at": 1794017154696
  }
 }
