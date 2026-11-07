@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794079506316,
+ "updatedAt": 1794092116143,
  "news": [
+  {
+   "id": 40772,
+   "title": "La NASA adjudica proyectos de transporte, tecnología y ciencia para la base lunar",
+   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+   "site": "NASA",
+   "summary": "La NASA anunció el sábado una serie de adjudicaciones y novedades sobre las misiones destinadas a ampliar las capacidades de la agencia en materia de exploración, ciencia e infraestructura de la base lunar. Las inversiones impulsarán los servicios de transporte robótico comercial, un rover de propulsión nuclear denominado PROMISE, los servicios de lanzamiento y transferencia orbital, y la infraestructura de superficie, mientras la agencia colabora con la industria estadounidense para establecer una presencia sostenida en […]",
+   "publishedAt": "2026-11-07T22:47:03Z",
+   "eu": true
+  },
   {
    "id": 40768,
    "title": "AST SpaceMobile da a conocer un acuerdo por valor de 1.300 millones de dólares con Firefly Aerospace para el suministro de motores destinados al nuevo cohete de gran capacidad de carga",
@@ -129,16 +139,6 @@
    "site": "European Spaceflight",
    "summary": "El proveedor español de servicios de lanzamiento PLD Space ha completado una prueba de explosión del sistema de interrupción de vuelo de su cohete MIURA 5, antes del vuelo inaugural del vehículo, que ahora se prevé para el primer semestre de 2027. El 30 de octubre, PLD Space anunció que había completado con éxito la prueba para validar el rendimiento de su […]\nLa entrada «PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-04T10:04:11Z",
-   "eu": true
-  },
-  {
-   "id": 40702,
-   "title": "Es hora de activar el satélite meteorológico MetOp-SG-B1",
-   "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg",
-   "site": "ESA",
-   "summary": "Tras un breve periodo de almacenamiento tras su llegada al Puerto Espacial Europeo, en la Guayana Francesa, el satélite MetOp de segunda generación (B1) ha sido trasladado a una sala limpia y extraído de su contenedor de transporte. El equipo se está preparando ahora para reactivar a esta «bella durmiente» y comenzar las comprobaciones y preparativos finales de cara a su lanzamiento, previsto para finales de año.",
-   "publishedAt": "2026-11-04T09:10:00Z",
    "eu": true
   }
  ]
