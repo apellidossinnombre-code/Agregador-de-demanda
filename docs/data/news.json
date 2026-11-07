@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794017155052,
+ "updatedAt": 1794040958403,
  "news": [
+  {
+   "id": 40768,
+   "title": "AST SpaceMobile da a conocer un acuerdo por valor de 1.300 millones de dólares con Firefly Aerospace para el suministro de motores destinados al nuevo cohete de gran capacidad de carga",
+   "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
+   "site": "Spaceflight Now",
+   "summary": "La empresa responsable de la constelación de satélites Bluebird, que transmite directamente a los móviles, ha afirmado que la incorporación de su propio cohete de gran capacidad es la pieza final de sus planes de integración vertical. ",
+   "publishedAt": "2026-11-07T02:18:04Z",
+   "eu": false
+  },
   {
    "id": 40767,
    "title": "El Falcon 9 despegará desde California en una misión secreta para la Fuerza Espacial de EE. UU.",
