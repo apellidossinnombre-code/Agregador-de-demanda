@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794103823062,
+ "updatedAt": 1794128253668,
  "news": [
   {
    "id": 40772,
@@ -130,16 +130,6 @@
    "summary": "La NASA seleccionó el miércoles a tres empresas para que lleven a cabo trabajos destinados a desarrollar conceptos de capacidad de retransmisión espacial en banda Ka que sean compatibles con las misiones espaciales actuales, garantizando así la continuidad del servicio de las naves espaciales existentes sin necesidad de modificar sus sistemas de a bordo. A través de este trabajo, la NASA pretende adquirir soluciones integrales que incluyan los ámbitos espacial, terrestre, de lanzamiento, de operaciones e integración […]",
    "publishedAt": "2026-11-04T18:00:02Z",
    "eu": false
-  },
-  {
-   "id": 40701,
-   "title": "PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5",
-   "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
-   "site": "European Spaceflight",
-   "summary": "El proveedor español de servicios de lanzamiento PLD Space ha completado una prueba de explosión del sistema de interrupción de vuelo de su cohete MIURA 5, antes del vuelo inaugural del vehículo, que ahora se prevé para el primer semestre de 2027. El 30 de octubre, PLD Space anunció que había completado con éxito la prueba para validar el rendimiento de su […]\nLa entrada «PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-04T10:04:11Z",
-   "eu": true
   }
  ]
 }
