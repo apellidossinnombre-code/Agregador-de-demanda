@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794192967951,
+ "updatedAt": 1794222505055,
  "news": [
+  {
+   "id": 40780,
+   "title": "La tripulación de la misión CHAPEA 2 reflexiona tras 378 días en una simulación de Marte",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg",
+   "site": "NASA",
+   "summary": "Tras 378 días sin ventanas, sin los sonidos del mundo exterior ni llamadas en tiempo real con familiares y amigos, cuatro voluntarios de investigación salieron del hábitat «Mars Dune Alpha» de la NASA el 31 de octubre, completando así la segunda simulación de un año de duración de la superficie marciana llevada a cabo por la agencia.  Ross Elder, Ellen Ellis, James Spicer y Matthew Montgomery entraron en el hábitat de aproximadamente 1.700 pies cuadrados, impreso en 3D, en […]",
+   "publishedAt": "2026-11-09T11:00:00Z",
+   "eu": true
+  },
+  {
+   "id": 40779,
+   "title": "La RFA confirma que el lanzamiento inaugural del RFA ONE se ha pospuesto hasta 2027",
+   "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/RFA-Confirms-Inaugural-RFA-ONE-Launch-Has-Slipped-to-2027.webp",
+   "site": "European Spaceflight",
+   "summary": "La empresa alemana de lanzamientos espaciales Rocket Factory Augsburg (RFA) ha confirmado que ahora tiene como objetivo el año 2027 para el vuelo inaugural de su cohete RFA ONE desde una base de lanzamiento escocesa. El nuevo objetivo para el vuelo inaugural del cohete se anunció en una publicación de la página de LinkedIn de la empresa el 3 de noviembre. La publicación detallaba un […]\nLa publicación «RFA confirma que el lanzamiento inaugural del RFA ONE se ha pospuesto hasta 2027» apareció por primera vez en European Spaceflight.",
+   "publishedAt": "2026-11-09T07:00:49Z",
+   "eu": true
+  },
   {
    "id": 40772,
    "title": "La NASA adjudica proyectos de transporte, tecnología y ciencia para la base lunar",
@@ -27,7 +47,7 @@
    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
    "site": "Spaceflight Now",
-   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX. ",
+   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX.",
    "publishedAt": "2026-11-06T22:00:39Z",
    "eu": false
   },
@@ -87,7 +107,7 @@
    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
    "site": "Spaceflight Now",
-   "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy. ",
+   "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy.",
    "publishedAt": "2026-11-05T22:34:58Z",
    "eu": false
   },

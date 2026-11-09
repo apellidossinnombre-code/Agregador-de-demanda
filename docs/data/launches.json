@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794192967776,
+ "updatedAt": 1794222503125,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -1094,52 +1094,6 @@
     "carga: Rivada Space Networks"
    ],
    "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 9 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-   "name": "RFA One | Maiden Flight",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "RFA One",
-   "provider": "Rocket Factory Augsburg",
-   "providerCountry": "DEU",
-   "payload": "Maiden Flight",
-   "missionType": "Test Flight",
-   "orbit": "Sun-Synchronous Orbit",
-   "description": "Primer vuelo del lanzador RFA One. Transportará siete satélites para diversas empresas y organizaciones, bajo la coordinación del Centro Aeroespacial Alemán (DLR).\r\n\r\n* AllBertEinStein\n* ARTICA\n* Curium Two\n* ERMINAZ\n* PCIOD\n* Separation Ring Mission\n* SpaceDREAM",
-   "pad": "Launch Pad Fredo",
-   "location": "SaxaVord Spaceport",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "",
-    "length": 30,
-    "diameter": 2,
-    "reusable": false,
-    "leo": 1600,
-    "stages": "3",
-    "total": 0,
-    "ok": 0,
-    "fail": 0
-   },
-   "lat": 60.8187,
-   "lon": -0.774196,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png",
-   "vehEU": true,
-   "payEU": true,
-   "euReason": [
-    "lanzador: operador Rocket Factory Augsburg",
-    "carga: Rocket Factory Augsburg"
-   ],
-   "resumen": "RFA One, de Rocket Factory Augsburg, lleva Maiden Flight a Sun-Synchronous Orbit desde SaxaVord Spaceport. Primer vuelo del lanzador RFA One.",
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi"
