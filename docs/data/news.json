@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794222505055,
+ "updatedAt": 1794259508058,
  "news": [
+  {
+   "id": 40788,
+   "title": "Desafío de la NASA para cohetes eléctricos avanzados de potencia media",
+   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
+   "site": "NASA",
+   "summary": "Las partes interesadas del sector público y privado han identificado los sistemas de propulsión de efecto Hall de potencia media (3-7 kW) como capacidades fundamentales para misiones satelitales, de defensa y de exploración. Dada la necesidad de contar con esta capacidad, la NASA pone en marcha el desafío «Advanced Mid-Power Electric Rocket» (AMPERE). El Desafío AMPERE de la NASA invita a las empresas comerciales estadounidenses a desarrollar y demostrar propulsores de efecto Hall de potencia media […]",
+   "publishedAt": "2026-11-09T17:42:42Z",
+   "eu": false
+  },
   {
    "id": 40780,
    "title": "La tripulación de la misión CHAPEA 2 reflexiona tras 378 días en una simulación de Marte",
@@ -129,26 +139,6 @@
    "site": "SpaceNews",
    "summary": "\nEn este episodio, Mike Gruss, de SpaceNews, habla con Winnie Lai, directora ejecutiva de Auriga Space. Hablan de cómo la tecnología de lanzamiento electromagnético que «catapulta» pequeños vehículos de lanzamiento podría reducir […]\nLa entrada «Construyendo una “autopista hacia la Luna y de vuelta” con Winnie Lai» se publicó por primera vez en SpaceNews.",
    "publishedAt": "2026-11-05T14:15:38Z",
-   "eu": false
-  },
-  {
-   "id": 40711,
-   "title": "La NASA da a conocer sus planes para acelerar el programa Artemis y el regreso a la Luna",
-   "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-   "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-   "site": "NASA",
-   "summary": "En una actualización del 23 de octubre, el administrador de la NASA, Jared Isaacman, y otros responsables de la agencia expusieron el plan de la agencia para llevar de nuevo a los estadounidenses a la superficie lunar en 2028. Los responsables de la agencia ofrecieron información actualizada sobre los planes de aceleración anunciados previamente para el programa Artemis, avanzando hacia el vuelo de prueba Artemis III de la agencia en 2027 y la misión Artemis IV a la Luna […]",
-   "publishedAt": "2026-11-04T20:17:07Z",
-   "eu": true
-  },
-  {
-   "id": 40709,
-   "title": "La NASA anuncia la adjudicación de contratos para sistemas de retransmisión por satélite en banda Ka destinados a las comunicaciones espaciales",
-   "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-   "site": "NASA",
-   "summary": "La NASA seleccionó el miércoles a tres empresas para que lleven a cabo trabajos destinados a desarrollar conceptos de capacidad de retransmisión espacial en banda Ka que sean compatibles con las misiones espaciales actuales, garantizando así la continuidad del servicio de las naves espaciales existentes sin necesidad de modificar sus sistemas de a bordo. A través de este trabajo, la NASA pretende adquirir soluciones integrales que incluyan los ámbitos espacial, terrestre, de lanzamiento, de operaciones e integración […]",
-   "publishedAt": "2026-11-04T18:00:02Z",
    "eu": false
   }
  ]
