@@ -1,13 +1,33 @@
 {
- "updatedAt": 1794282265786,
+ "updatedAt": 1794311553797,
  "news": [
+  {
+   "id": 40800,
+   "title": "La ESCAPADE se dirige a Marte tras realizar varias maniobras de aproximación a la Tierra",
+   "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
+   "site": "SpaceNews",
+   "summary": "Dos pequeños satélites de la NASA se dirigen hacia Marte tras completar sus sobrevuelos de la Tierra casi un año después de su lanzamiento.\nLa noticia «ESCAPADE se dirige hacia Marte tras sus sobrevuelos de la Tierra» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-11-10T08:01:39Z",
+   "eu": false
+  },
+  {
+   "id": 40799,
+   "title": "Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre",
+   "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
+   "site": "European Spaceflight",
+   "summary": "La empresa alemana de lanzamientos Isar Aerospace podría intentar el tercer vuelo de su cohete Spectrum desde el puerto espacial de Andøya, en Noruega, ya el 26 de noviembre, según un aviso de aviación publicado el 28 de octubre. El aviso, publicado por el proveedor noruego de servicios de navegación aérea Avinor, establece una ventana de lanzamiento para el vuelo que se abre el 26 de noviembre de 2026 […]\nLa entrada «Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-10T07:04:22Z",
+   "eu": true
+  },
   {
    "id": 40793,
    "title": "Avance de los lanzamientos: lanzamientos de Starship, Vulcan y Electron previstos para una semana muy ajetreada",
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
    "site": "NASASpaceflight",
-   "summary": "Esta semana está previsto el lanzamiento de siete cohetes procedentes de cuatro países. El Starship tiene previsto…\nLa entrada «Avance de lanzamientos: lanzamientos del Starship, el Vulcan y el Electron programados para una semana ajetreada» apareció primero en NASASpaceFlight.com.",
+   "summary": "Esta semana está previsto el lanzamiento de siete cohetes procedentes de cuatro países. El Starship tiene previsto…\nLa entrada «Avance de lanzamientos: lanzamientos del Starship, el Vulcan y el Electron programados para una semana ajetreada» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-09T22:37:05Z",
    "eu": false
   },
@@ -139,16 +159,6 @@
    "site": "NASASpaceflight",
    "summary": "El director ejecutivo de Blue Origin, Dave Limp, ha presentado una tercera etapa para el New Glenn y…\nLa entrada «Blue Origin presenta la tercera etapa GS3 del New Glenn y el motor propulsor Northstar» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-05T20:51:14Z",
-   "eu": false
-  },
-  {
-   "id": 40748,
-   "title": "Construyendo una «autopista hasta la Luna y vuelta» con Winnie Lai",
-   "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&ssl=1",
-   "site": "SpaceNews",
-   "summary": "\nEn este episodio, Mike Gruss, de SpaceNews, habla con Winnie Lai, directora ejecutiva de Auriga Space. Hablan de cómo la tecnología de lanzamiento electromagnético que «catapulta» pequeños vehículos de lanzamiento podría reducir […]\nLa entrada «Construyendo una “autopista hacia la Luna y de vuelta” con Winnie Lai» se publicó por primera vez en SpaceNews.",
-   "publishedAt": "2026-11-05T14:15:38Z",
    "eu": false
   }
  ]
