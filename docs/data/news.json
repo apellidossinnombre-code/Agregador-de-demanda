@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794336952670,
+ "updatedAt": 1794355018391,
  "news": [
+  {
+   "id": 40807,
+   "title": "La NASA invita a los medios de comunicación y al público a participar en las actividades del «Día de una luz» de la Voyager 1",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg",
+   "site": "NASA",
+   "summary": "Lanzada hace casi 50 años, en 1977, la sonda Voyager 1 de la NASA habrá recorrido el miércoles 18 de noviembre un día luz desde la Tierra, lo que equivale a más de 16 000 millones de millas (25 900 millones de kilómetros). La Voyager 1 es el objeto fabricado por el ser humano más lejano, y cualquier luz procedente de la Tierra tardaría 24 horas en llegar a la nave espacial. La NASA destacará […]",
+   "publishedAt": "2026-11-10T19:22:45Z",
+   "eu": false
+  },
   {
    "id": 40803,
    "title": "El DLR adquirirá 80 motores para cohetes de sondeo «Red Kite»",
