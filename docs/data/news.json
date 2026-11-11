@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794355018391,
+ "updatedAt": 1794374963900,
  "news": [
+  {
+   "id": 40808,
+   "title": "Isaacman traza la hoja de ruta del SLS de cara a la década de 2030",
+   "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-11-03-33-24-435.jpg",
+   "site": "NASASpaceflight",
+   "summary": "El administrador de la NASA, Jared Isaacman, ha dado más detalles sobre la decisión de estandarizar el Sistema de Lanzamiento Espacial (SLS)…\nLa entrada «Isaacman traza la hoja de ruta del SLS hacia la década de 2030» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-11T04:02:42Z",
+   "eu": false
+  },
   {
    "id": 40807,
    "title": "La NASA invita a los medios de comunicación y al público a participar en las actividades del «Día de una luz» de la Voyager 1",
@@ -169,16 +179,6 @@
    "site": "Arstechnica",
    "summary": "«Esto va a suponer un punto de inflexión».",
    "publishedAt": "2026-11-06T00:17:06Z",
-   "eu": false
-  },
-  {
-   "id": 40755,
-   "title": "Blue Origin presenta una nueva etapa de impulso y nuevos motores para sus cohetes New Glenn",
-   "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
-   "site": "Spaceflight Now",
-   "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy.",
-   "publishedAt": "2026-11-05T22:34:58Z",
    "eu": false
   }
  ]
