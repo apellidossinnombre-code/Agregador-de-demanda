@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794374963900,
+ "updatedAt": 1794401672422,
  "news": [
   {
    "id": 40808,
@@ -170,16 +170,6 @@
    "summary": "El fabricante italiano de cohetes Avio ha reducido sus planes de desarrollar dos prototipos de cohetes de combustible líquido destinados a validar tecnologías para un futuro vehículo de lanzamiento reutilizable. En su informe financiero semestral publicado el 10 de septiembre, Avio reveló que había acordado revisar el alcance y la financiación de su programa Space Transportation System (STS), cuyo objetivo original era […]\nLa entrada «Avio reduce su programa de prototipos ante los retos técnicos» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-06T07:39:17Z",
    "eu": true
-  },
-  {
-   "id": 40757,
-   "title": "Blue Origin anuncia mejoras en sus cohetes con el objetivo de reducir los costes y aumentar el rendimiento",
-   "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
-   "site": "Arstechnica",
-   "summary": "«Esto va a suponer un punto de inflexión».",
-   "publishedAt": "2026-11-06T00:17:06Z",
-   "eu": false
   }
  ]
 }
