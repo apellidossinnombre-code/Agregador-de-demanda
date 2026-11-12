@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794448398059,
+ "updatedAt": 1794473727587,
  "news": [
   {
    "id": 40808,
@@ -129,26 +129,6 @@
    "site": "Spaceflight Now",
    "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX.",
    "publishedAt": "2026-11-06T22:00:39Z",
-   "eu": false
-  },
-  {
-   "id": 40766,
-   "title": "Stoke Space está estudiando la ampliación de sus instalaciones de Cape para construir una segunda plataforma de lanzamiento Nova",
-   "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-   "site": "NASASpaceflight",
-   "summary": "Space Launch Delta 45 ha concedido a Stoke Space el derecho de acceso a la propiedad…\nLa noticia «Stoke Space evalúa la ampliación de sus instalaciones en Cabo Cañaveral para una segunda plataforma de lanzamiento Nova» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-06T21:19:28Z",
-   "eu": false
-  },
-  {
-   "id": 40765,
-   "title": "AST SpaceMobile está tan ansiosa por realizar un lanzamiento que está construyendo su propio cohete",
-   "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-   "site": "Arstechnica",
-   "summary": "«El cohete Blacklift es el trampolín que nos permitirá ampliar considerablemente nuestro mercado potencial total».",
-   "publishedAt": "2026-11-06T18:20:47Z",
    "eu": false
   }
  ]
