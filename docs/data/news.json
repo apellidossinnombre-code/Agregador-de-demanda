@@ -1,6 +1,36 @@
 {
- "updatedAt": 1794504461520,
+ "updatedAt": 1794523832265,
  "news": [
+  {
+   "id": 40828,
+   "title": "¿Qué papel desempeña la industria en el impulso de la soberanía espacial de Europa?",
+   "url": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-KNA-2000-1500.jpg?fit=1024%2C768&ssl=1",
+   "site": "SpaceNews",
+   "summary": "\nEn este episodio, Jason Rainbow, de SpaceNews, entrevista a Atle Woello, director ejecutivo y vicepresidente sénior de la unidad de negocio de sistemas espaciales y vigilancia de Kongsberg NanoAvionics. Hablan sobre el papel […]\nLa entrada «¿Qué papel desempeña la industria en el impulso de la soberanía espacial de Europa?» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-11-12T19:40:35Z",
+   "eu": true
+  },
+  {
+   "id": 40826,
+   "title": "Construir un cohete es difícil. AST SpaceMobile cree que es «sencillo».",
+   "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
+   "site": "Arstechnica",
+   "summary": "«No hacemos esto porque nos gusten los cohetes».",
+   "publishedAt": "2026-11-12T18:28:22Z",
+   "eu": false
+  },
+  {
+   "id": 40824,
+   "title": "El cohete «Vulcan» de ULA se prepara para volver a volar con la primera carga útil de Amazon Leo",
+   "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-scaled.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "Está previsto que el Vulcan, el actual vehículo de lanzamiento insignia de United Launch Alliance, vuelva a volar tras…\nLa entrada «El Vulcan de la ULA se prepara para volver a volar con la primera carga útil de Amazon Leo» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-12T17:44:44Z",
+   "eu": false
+  },
   {
    "id": 40819,
    "title": "La ESA explica el retraso en la firma del contrato del concurso «MaiaSpace Launcher Challenge»",
@@ -109,16 +139,6 @@
    "site": "European Spaceflight",
    "summary": "La empresa alemana de lanzamientos espaciales Rocket Factory Augsburg (RFA) ha confirmado que ahora tiene como objetivo el año 2027 para el vuelo inaugural de su cohete RFA ONE desde una base de lanzamiento escocesa. El nuevo objetivo para el vuelo inaugural del cohete se anunció en una publicación de la página de LinkedIn de la empresa el 3 de noviembre. La publicación detallaba un […]\nLa publicación «RFA confirma que el lanzamiento inaugural del RFA ONE se ha pospuesto hasta 2027» apareció por primera vez en European Spaceflight.",
    "publishedAt": "2026-11-09T07:00:49Z",
-   "eu": true
-  },
-  {
-   "id": 40772,
-   "title": "La NASA adjudica proyectos de transporte, tecnología y ciencia para la base lunar",
-   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
-   "site": "NASA",
-   "summary": "La NASA anunció el sábado una serie de adjudicaciones y novedades sobre las misiones destinadas a ampliar las capacidades de la agencia en materia de exploración, ciencia e infraestructura de la base lunar. Las inversiones impulsarán los servicios de transporte robótico comercial, un rover de propulsión nuclear denominado PROMISE, los servicios de lanzamiento y transferencia orbital, y la infraestructura de superficie, mientras la agencia colabora con la industria estadounidense para establecer una presencia sostenida en […]",
-   "publishedAt": "2026-11-07T22:47:03Z",
    "eu": true
   }
  ]
