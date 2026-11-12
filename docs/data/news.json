@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794473727587,
+ "updatedAt": 1794504461520,
  "news": [
+  {
+   "id": 40819,
+   "title": "La ESA explica el retraso en la firma del contrato del concurso «MaiaSpace Launcher Challenge»",
+   "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Explains-Delay-in-Signing-MaiaSpace-Launcher-Challenge-Contract.webp",
+   "site": "European Spaceflight",
+   "summary": "La Agencia Espacial Europea (ESA) ha revelado que la decisión de MaiaSpace de optar por un modelo de financiación diferente al de sus competidores ha complicado las negociaciones sobre su contrato del «European Launcher Challenge». En una rueda de prensa de la ESA celebrada el 22 de octubre, la directora de Transporte Espacial de la ESA, Géraldine Naja, explicó que MaiaSpace era la única de las cuatro empresas […]\nLa entrada «La ESA explica el retraso en la firma del contrato del “Launcher Challenge” con MaiaSpace» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-12T10:36:32Z",
+   "eu": true
+  },
   {
    "id": 40808,
    "title": "Isaacman traza la hoja de ruta del SLS de cara a la década de 2030",
@@ -110,26 +120,6 @@
    "summary": "La NASA anunció el sábado una serie de adjudicaciones y novedades sobre las misiones destinadas a ampliar las capacidades de la agencia en materia de exploración, ciencia e infraestructura de la base lunar. Las inversiones impulsarán los servicios de transporte robótico comercial, un rover de propulsión nuclear denominado PROMISE, los servicios de lanzamiento y transferencia orbital, y la infraestructura de superficie, mientras la agencia colabora con la industria estadounidense para establecer una presencia sostenida en […]",
    "publishedAt": "2026-11-07T22:47:03Z",
    "eu": true
-  },
-  {
-   "id": 40768,
-   "title": "AST SpaceMobile da a conocer un acuerdo por valor de 1.300 millones de dólares con Firefly Aerospace para el suministro de motores destinados al nuevo cohete de gran capacidad de carga",
-   "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
-   "site": "Spaceflight Now",
-   "summary": "La empresa responsable de la constelación de satélites Bluebird, que transmite directamente a los móviles, ha afirmado que la incorporación de su propio cohete de gran capacidad es la pieza final de sus planes de integración vertical. ",
-   "publishedAt": "2026-11-07T02:18:04Z",
-   "eu": false
-  },
-  {
-   "id": 40767,
-   "title": "El Falcon 9 despegará desde California en una misión secreta para la Fuerza Espacial de EE. UU.",
-   "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX.",
-   "publishedAt": "2026-11-06T22:00:39Z",
-   "eu": false
   }
  ]
 }
