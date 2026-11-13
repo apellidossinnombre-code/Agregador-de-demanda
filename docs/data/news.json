@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794523832265,
+ "updatedAt": 1794538726823,
  "news": [
+  {
+   "id": 40831,
+   "title": "AST SpaceMobile defiende la necesidad de desarrollar su propio vehículo de lanzamiento",
+   "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&ssl=1",
+   "site": "SpaceNews",
+   "summary": "\nLos directivos de AST SpaceMobile se mostraron confiados en la capacidad de la empresa para poner en servicio un nuevo vehículo de lanzamiento reutilizable en tan solo dos años, a pesar del escepticismo generalizado en el sector.\nLa noticia «AST SpaceMobile defiende la necesidad de desarrollar su propio vehículo de lanzamiento» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-11-13T01:15:21Z",
+   "eu": false
+  },
   {
    "id": 40828,
    "title": "¿Qué papel desempeña la industria en el impulso de la soberanía espacial de Europa?",
@@ -120,26 +130,6 @@
    "summary": "Las partes interesadas del sector público y privado han identificado los sistemas de propulsión de efecto Hall de potencia media (3-7 kW) como capacidades fundamentales para misiones satelitales, de defensa y de exploración. Dada la necesidad de contar con esta capacidad, la NASA pone en marcha el desafío «Advanced Mid-Power Electric Rocket» (AMPERE). El Desafío AMPERE de la NASA invita a las empresas comerciales estadounidenses a desarrollar y demostrar propulsores de efecto Hall de potencia media […]",
    "publishedAt": "2026-11-09T17:42:42Z",
    "eu": false
-  },
-  {
-   "id": 40780,
-   "title": "La tripulación de la misión CHAPEA 2 reflexiona tras 378 días en una simulación de Marte",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg",
-   "site": "NASA",
-   "summary": "Tras 378 días sin ventanas, sin los sonidos del mundo exterior ni llamadas en tiempo real con familiares y amigos, cuatro voluntarios de investigación salieron del hábitat «Mars Dune Alpha» de la NASA el 31 de octubre, completando así la segunda simulación de un año de duración de la superficie marciana llevada a cabo por la agencia.  Ross Elder, Ellen Ellis, James Spicer y Matthew Montgomery entraron en el hábitat de aproximadamente 1.700 pies cuadrados, impreso en 3D, en […]",
-   "publishedAt": "2026-11-09T11:00:00Z",
-   "eu": true
-  },
-  {
-   "id": 40779,
-   "title": "La RFA confirma que el lanzamiento inaugural del RFA ONE se ha pospuesto hasta 2027",
-   "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/RFA-Confirms-Inaugural-RFA-ONE-Launch-Has-Slipped-to-2027.webp",
-   "site": "European Spaceflight",
-   "summary": "La empresa alemana de lanzamientos espaciales Rocket Factory Augsburg (RFA) ha confirmado que ahora tiene como objetivo el año 2027 para el vuelo inaugural de su cohete RFA ONE desde una base de lanzamiento escocesa. El nuevo objetivo para el vuelo inaugural del cohete se anunció en una publicación de la página de LinkedIn de la empresa el 3 de noviembre. La publicación detallaba un […]\nLa publicación «RFA confirma que el lanzamiento inaugural del RFA ONE se ha pospuesto hasta 2027» apareció por primera vez en European Spaceflight.",
-   "publishedAt": "2026-11-09T07:00:49Z",
-   "eu": true
   }
  ]
 }
