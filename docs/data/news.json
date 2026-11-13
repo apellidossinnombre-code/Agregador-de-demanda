@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794566624933,
+ "updatedAt": 1794593167995,
  "news": [
+  {
+   "id": 40839,
+   "title": "El cohete Vulcan de ULA tiene previsto reanudar sus vuelos con el lanzamiento de 40 satélites Leo para Amazon",
+   "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
+   "site": "Spaceflight Now",
+   "summary": "El despegue desde el Complejo de Lanzamiento Espacial 41 de la Estación de la Fuerza Espacial de Cabo Cañaveral está previsto para las 12:54 h EST (17:54 UTC), al inicio de una ventana de lanzamiento de 29 minutos. ",
+   "publishedAt": "2026-11-13T12:25:06Z",
+   "eu": false
+  },
+  {
+   "id": 40838,
+   "title": "Informe Rocket: La Starship se prepara para un vuelo de prueba histórico; un siglo de Electron",
+   "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
+   "site": "Arstechnica",
+   "summary": "«Se puede simplificar diciendo que es como un gran depósito que alimenta a los motores».",
+   "publishedAt": "2026-11-13T12:00:40Z",
+   "eu": false
+  },
   {
    "id": 40837,
    "title": "La ESA confirma que las últimas pruebas de Prometheus no guardan relación con los preparativos para el salto de Themis",
@@ -139,16 +159,6 @@
    "site": "NASASpaceflight",
    "summary": "Esta semana está previsto el lanzamiento de siete cohetes procedentes de cuatro países. El Starship tiene previsto…\nLa entrada «Avance de lanzamientos: lanzamientos del Starship, el Vulcan y el Electron programados para una semana ajetreada» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-09T22:37:05Z",
-   "eu": false
-  },
-  {
-   "id": 40788,
-   "title": "Desafío de la NASA para cohetes eléctricos avanzados de potencia media",
-   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
-   "site": "NASA",
-   "summary": "Las partes interesadas del sector público y privado han identificado los sistemas de propulsión de efecto Hall de potencia media (3-7 kW) como capacidades fundamentales para misiones satelitales, de defensa y de exploración. Dada la necesidad de contar con esta capacidad, la NASA pone en marcha el desafío «Advanced Mid-Power Electric Rocket» (AMPERE). El Desafío AMPERE de la NASA invita a las empresas comerciales estadounidenses a desarrollar y demostrar propulsores de efecto Hall de potencia media […]",
-   "publishedAt": "2026-11-09T17:42:42Z",
    "eu": false
   }
  ]
