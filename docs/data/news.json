@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794593167995,
+ "updatedAt": 1794612601384,
  "news": [
+  {
+   "id": 40843,
+   "title": "Cobertura en directo: el vuelo 15 de Starship intenta recuperar el vehículo completo mediante una captura en doble plataforma de lanzamiento",
+   "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
+   "site": "Spaceflight Now",
+   "summary": "El despegue del vehículo integrado Starship desde Starbase, en Texas, está previsto durante una ventana de lanzamiento de 75 minutos que comienza a las 16:45 h CST (17:45 h EST / 22:45 UTC) del viernes 13 de noviembre. ",
+   "publishedAt": "2026-11-13T19:15:11Z",
+   "eu": false
+  },
   {
    "id": 40839,
    "title": "El cohete Vulcan de ULA tiene previsto reanudar sus vuelos con el lanzamiento de 40 satélites Leo para Amazon",
@@ -150,16 +160,6 @@
    "summary": "La empresa alemana de lanzamientos Isar Aerospace podría intentar el tercer vuelo de su cohete Spectrum desde el puerto espacial de Andøya, en Noruega, ya el 26 de noviembre, según un aviso de aviación publicado el 28 de octubre. El aviso, publicado por el proveedor noruego de servicios de navegación aérea Avinor, establece una ventana de lanzamiento para el vuelo que se abre el 26 de noviembre de 2026 […]\nLa entrada «Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-10T07:04:22Z",
    "eu": true
-  },
-  {
-   "id": 40793,
-   "title": "Avance de los lanzamientos: lanzamientos de Starship, Vulcan y Electron previstos para una semana muy ajetreada",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-   "site": "NASASpaceflight",
-   "summary": "Esta semana está previsto el lanzamiento de siete cohetes procedentes de cuatro países. El Starship tiene previsto…\nLa entrada «Avance de lanzamientos: lanzamientos del Starship, el Vulcan y el Electron programados para una semana ajetreada» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-09T22:37:05Z",
-   "eu": false
   }
  ]
 }
