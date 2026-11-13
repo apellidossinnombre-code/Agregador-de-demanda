@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794538726823,
+ "updatedAt": 1794566624933,
  "news": [
+  {
+   "id": 40837,
+   "title": "La ESA confirma que las últimas pruebas de Prometheus no guardan relación con los preparativos para el salto de Themis",
+   "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
+   "site": "European Spaceflight",
+   "summary": "La Agencia Espacial Europea (ESA) y ArianeGroup han confirmado que las pruebas del motor Prometheus realizadas en Lampoldshausen en octubre se llevaron a cabo independientemente de los preparativos para el vuelo inaugural, tan retrasado, del demostrador de cohete reutilizable Themis. En un comunicado de prensa del 6 de noviembre, ArianeGroup anunció que había completado una serie de pruebas de encendido del último […]\nLa entrada «La ESA confirma que las últimas pruebas del Prometheus no están relacionadas con los preparativos del vuelo de prueba del Themis» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-13T07:57:07Z",
+   "eu": true
+  },
+  {
+   "id": 40833,
+   "title": "El vuelo 15 de Starship intentará la primera recuperación de ambas etapas",
+   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-03-14-56-684.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Tras 14 vuelos «full-stack», SpaceX se dispone a intentar algo que nadie ha hecho antes en la historia de los vuelos espaciales…\nLa entrada «El vuelo 15 de Starship intentará la primera captura de ambas etapas» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-13T04:24:28Z",
+   "eu": false
+  },
   {
    "id": 40831,
    "title": "AST SpaceMobile defiende la necesidad de desarrollar su propio vehículo de lanzamiento",
