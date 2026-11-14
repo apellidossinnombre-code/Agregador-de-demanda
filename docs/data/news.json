@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794626969972,
+ "updatedAt": 1794653352685,
  "news": [
+  {
+   "id": 40846,
+   "title": "El próximo lanzamiento del Vega C se acerca cada vez más al día de Navidad debido al retraso en la llegada de los satélites",
+   "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Next-Vega-C-Launch-Edges-Closer-to-Christmas-Day-as-Satellites-Arrive-Late.webp",
+   "site": "European Spaceflight",
+   "summary": "El fabricante italiano de cohetes Avio ha revelado que los retrasos en la entrega de los satélites de sus clientes han hecho que el tercer lanzamiento del Vega C de 2026 se retrase hasta cerca de Navidad, varias semanas más tarde de lo previsto inicialmente. Durante la presentación de resultados del tercer trimestre de la empresa, celebrada el 11 de noviembre, el director ejecutivo de Avio, Giulio Ranzo, explicó que la misión, que transportará seis satélites, […]\nLa entrada «El próximo lanzamiento del Vega C se acerca al día de Navidad debido al retraso en la llegada de los satélites» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-14T06:00:41Z",
+   "eu": true
+  },
   {
    "id": 40845,
    "title": "El vuelo 15 de la nave espacial se pone en órbita, lo que abre la posibilidad de una captura el sábado",
