@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794612601384,
+ "updatedAt": 1794626969972,
  "news": [
+  {
+   "id": 40845,
+   "title": "El vuelo 15 de la nave espacial se pone en órbita, lo que abre la posibilidad de una captura el sábado",
+   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg",
+   "site": "Arstechnica",
+   "summary": "De una forma u otra, la empresa obtendrá más datos el sábado.",
+   "publishedAt": "2026-11-14T00:49:13Z",
+   "eu": false
+  },
+  {
+   "id": 40844,
+   "title": "La nave espacial IFT-15 está en órbita: ¿la «atraparán» cuando regrese a la Tierra?",
+   "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "SpaceX ha lanzado esta tarde la 15.ª prueba de vuelo integrada de la Starship (IFT-15) desde Starbase, en Texas. Está previsto que el propulsor de la primera etapa regrese a la torre de lanzamiento para su «recogida» […]",
+   "publishedAt": "2026-11-13T23:54:54Z",
+   "eu": false
+  },
   {
    "id": 40843,
    "title": "Cobertura en directo: el vuelo 15 de Starship intenta recuperar el vehículo completo mediante una captura en doble plataforma de lanzamiento",
