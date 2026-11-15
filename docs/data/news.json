@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794689926440,
+ "updatedAt": 1794704019966,
  "news": [
+  {
+   "id": 40847,
+   "title": "SpaceX atrapa una Starship",
+   "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "La 15.ª prueba de vuelo integrada (IFT-15) de la Starship de SpaceX ha regresado hoy a la Tierra y ha sido «recogida» de nuevo en la torre de lanzamiento tras dar 14 vueltas a la Tierra. Se trata de un hito para la […]",
+   "publishedAt": "2026-11-14T21:53:18Z",
+   "eu": false
+  },
   {
    "id": 40846,
    "title": "El próximo lanzamiento del Vega C se acerca cada vez más al día de Navidad debido al retraso en la llegada de los satélites",
