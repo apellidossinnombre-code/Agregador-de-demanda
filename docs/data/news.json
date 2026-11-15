@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794754294979,
+ "updatedAt": 1794772776150,
  "news": [
+  {
+   "id": 40850,
+   "title": "ULA sufre su primer fracaso total de una misión con la pérdida del cohete Vulcan, que transportaba 40 satélites Amazon Leo",
+   "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
+   "site": "Spaceflight Now",
+   "summary": "En lo que supone un importante revés para United Launch Alliance, el nuevo cohete de gran capacidad «Vulcan» de la empresa, que transportaba un lote de satélites de Internet «Amazon Leo», sufrió una avería durante el ascenso al espacio el domingo, lo que condenó a la pérdida de la carga útil y supuso un costoso contratiempo para el calendario de lanzamientos de ambas empresas. ",
+   "publishedAt": "2026-11-15T19:16:59Z",
+   "eu": false
+  },
   {
    "id": 40848,
    "title": "Con la captura de la Starship, SpaceX sigue demostrando que es capaz de deslumbrar al mundo",
@@ -189,16 +199,6 @@
    "site": "SpaceNews",
    "summary": "\nSAN DIEGO, California, 10 de noviembre de 2026 – Kratos Defense & Security Solutions, Inc., una empresa tecnológica dedicada a la defensa, la seguridad nacional y los mercados globales, ha anunciado hoy un acuerdo a largo plazo con Seagate […]\nLa noticia «Kratos y Seagate Space se asocian para impulsar las capacidades de lanzamiento móvil en alta mar para misiones de seguridad nacional» apareció por primera vez en SpaceNews.",
    "publishedAt": "2026-11-10T14:00:00Z",
-   "eu": false
-  },
-  {
-   "id": 40800,
-   "title": "La ESCAPADE se dirige a Marte tras realizar varias maniobras de aproximación a la Tierra",
-   "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
-   "site": "SpaceNews",
-   "summary": "Dos pequeños satélites de la NASA se dirigen hacia Marte tras completar sus sobrevuelos de la Tierra casi un año después de su lanzamiento.\nLa noticia «ESCAPADE se dirige hacia Marte tras sus sobrevuelos de la Tierra» se publicó por primera vez en SpaceNews.",
-   "publishedAt": "2026-11-10T08:01:39Z",
    "eu": false
   }
  ]
