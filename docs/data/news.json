@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794704019966,
+ "updatedAt": 1794727230083,
  "news": [
+  {
+   "id": 40848,
+   "title": "Con la captura de la Starship, SpaceX sigue demostrando que es capaz de deslumbrar al mundo",
+   "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg",
+   "site": "Arstechnica",
+   "summary": "Me sentí como si estuviera entrando en el futuro.",
+   "publishedAt": "2026-11-15T00:40:59Z",
+   "eu": false
+  },
   {
    "id": 40847,
    "title": "SpaceX atrapa una Starship",
@@ -190,16 +200,6 @@
    "summary": "Dos pequeños satélites de la NASA se dirigen hacia Marte tras completar sus sobrevuelos de la Tierra casi un año después de su lanzamiento.\nLa noticia «ESCAPADE se dirige hacia Marte tras sus sobrevuelos de la Tierra» se publicó por primera vez en SpaceNews.",
    "publishedAt": "2026-11-10T08:01:39Z",
    "eu": false
-  },
-  {
-   "id": 40799,
-   "title": "Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre",
-   "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
-   "site": "European Spaceflight",
-   "summary": "La empresa alemana de lanzamientos Isar Aerospace podría intentar el tercer vuelo de su cohete Spectrum desde el puerto espacial de Andøya, en Noruega, ya el 26 de noviembre, según un aviso de aviación publicado el 28 de octubre. El aviso, publicado por el proveedor noruego de servicios de navegación aérea Avinor, establece una ventana de lanzamiento para el vuelo que se abre el 26 de noviembre de 2026 […]\nLa entrada «Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-10T07:04:22Z",
-   "eu": true
   }
  ]
 }
