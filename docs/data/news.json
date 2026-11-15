@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794772776150,
+ "updatedAt": 1794786760960,
  "news": [
+  {
+   "id": 40852,
+   "title": "Fracasa el regreso al vuelo del «Vulcan»",
+   "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/",
+   "image": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "El tan esperado regreso al vuelo del cohete Vulcan de United Launch Alliance no ha salido hoy según lo previsto. Una anomalía producida 10 minutos después del lanzamiento ha provocado que los 40 satélites Amazon Leo […]",
+   "publishedAt": "2026-11-15T22:35:19Z",
+   "eu": false
+  },
+  {
+   "id": 40851,
+   "title": "La nave espacial regresa a su plataforma de lanzamiento desde la órbita",
+   "url": "https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/",
+   "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/11/Remotes_Logo-7-scaled.jpg",
+   "site": "Space Scout",
+   "summary": "Starship ha completado su vuelo de pruebas más ambicioso hasta la fecha, y la nave 42 ha logrado la primera captura del sistema desde la órbita.",
+   "publishedAt": "2026-11-15T21:27:36Z",
+   "eu": false
+  },
   {
    "id": 40850,
    "title": "ULA sufre su primer fracaso total de una misión con la pérdida del cohete Vulcan, que transportaba 40 satélites Amazon Leo",
@@ -179,26 +199,6 @@
    "site": "NASA",
    "summary": "Lanzada hace casi 50 años, en 1977, la sonda Voyager 1 de la NASA habrá recorrido el miércoles 18 de noviembre un día luz desde la Tierra, lo que equivale a más de 16 000 millones de millas (25 900 millones de kilómetros). La Voyager 1 es el objeto fabricado por el ser humano más lejano, y cualquier luz procedente de la Tierra tardaría 24 horas en llegar a la nave espacial. La NASA destacará […]",
    "publishedAt": "2026-11-10T19:22:45Z",
-   "eu": false
-  },
-  {
-   "id": 40803,
-   "title": "El DLR adquirirá 80 motores para cohetes de sondeo «Red Kite»",
-   "url": "https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/DLR-to-Purchase-80-Red-Kite-Sounding-Rocket-Motors.webp",
-   "site": "European Spaceflight",
-   "summary": "El Centro Aeroespacial Alemán (DLR) se está preparando para adquirir 80 motores cohete de combustible sólido «Red Kite» de la empresa alemana de defensa Bayern-Chemie con el fin de respaldar futuras misiones con cohetes de sondeo. Según un anuncio de licitación publicado el 2 de noviembre, el DLR tiene previsto adquirir 80 motores cohete de combustible sólido no sujetos a la normativa ITAR para el equipo de la Base Móvil de Cohetes (MORABA) de la agencia, que lleva a cabo misiones de cohetes sonda […]\nLa entrada «El DLR adquirirá 80 motores de cohetes de sondeo Red Kite» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-10T15:44:40Z",
-   "eu": true
-  },
-  {
-   "id": 40801,
-   "title": "Kratos y Seagate Space se asocian para mejorar las capacidades de lanzamiento marítimo móvil en misiones de seguridad nacional",
-   "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
-   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&ssl=1",
-   "site": "SpaceNews",
-   "summary": "\nSAN DIEGO, California, 10 de noviembre de 2026 – Kratos Defense & Security Solutions, Inc., una empresa tecnológica dedicada a la defensa, la seguridad nacional y los mercados globales, ha anunciado hoy un acuerdo a largo plazo con Seagate […]\nLa noticia «Kratos y Seagate Space se asocian para impulsar las capacidades de lanzamiento móvil en alta mar para misiones de seguridad nacional» apareció por primera vez en SpaceNews.",
-   "publishedAt": "2026-11-10T14:00:00Z",
    "eu": false
   }
  ]
