@@ -202,12 +202,14 @@
   "at": 1792591829343
  },
  "912a8aee-8fc2-47b4-81a5-040fa0e0a36f": {
-  "key": "b6234a325a1d",
-  "text": "Vega-C, de Avio S.p.A, lleva IRIDE 1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer lanzamiento específico para la constelación de observación de la Tierra IRIDE de la Agencia Espacial Europea.",
+  "key": "dbeead25e963",
+  "text": "Vega-C, de Avio S.p.A, lleva IRIDE 1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Primer lanzamiento específico para la constelación de observación de la Tierra IRIDE de la Agencia Espacial Europea, con seis satélites a bordo. IRIDE es un programa italiano de satélites de observación de la Tierra desarrollado en el marco del Plan Nacional de Recuperación y Resiliencia (PNRR) y del Plan Nacional Complementario (NCP).",
   "fuentes": [
-   "https://thespacedevs.com/llapi"
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Garci_Lasso_Ruiz_de_la_Vega",
+   "https://en.wikipedia.org/wiki/IRIDE"
   ],
-  "at": 1792591829945
+  "at": 1794863818714
  },
  "eaff0f48-04b7-49fc-bee6-9afd9ec8cc5f": {
   "key": "5d955cbe0c3c",

@@ -1,6 +1,46 @@
 {
- "updatedAt": 1794829467665,
+ "updatedAt": 1794863820211,
  "news": [
+  {
+   "id": 40860,
+   "title": "¿Cuándo volarán realmente los seres humanos en la Starship?",
+   "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg",
+   "site": "Arstechnica",
+   "summary": "Todas las estimaciones sobre los vuelos espaciales tripulados a bordo de la Starship deben tomarse con muchísima cautela.",
+   "publishedAt": "2026-11-16T19:46:08Z",
+   "eu": false
+  },
+  {
+   "id": 40861,
+   "title": "El Sentinel-6B en órbita alrededor de la Tierra",
+   "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg",
+   "site": "NASA",
+   "summary": "Descripción: Esta imagen conceptual muestra el satélite Sentinel-6B, que se convertirá en el satélite de referencia para otras misiones dedicadas al estudio de la altura de la superficie del mar.",
+   "publishedAt": "2026-11-16T18:52:32Z",
+   "eu": true
+  },
+  {
+   "id": 40857,
+   "title": "De contratista a funcionario: la NASA da la bienvenida a Jim Mirandy",
+   "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg",
+   "site": "NASA",
+   "summary": "El rugido de un motor de cohete podría considerarse la banda sonora de la vida de Jim Mirandy. Mirandy ha crecido con la NASA como una presencia constante, y su trayectoria hasta convertirse en funcionario del Centro Espacial Stennis de la NASA, cerca de Bay St. Louis (Misisipi), se ha forjado a lo largo de décadas. Contratado en virtud de la directiva de personal de la agencia […]",
+   "publishedAt": "2026-11-16T15:22:09Z",
+   "eu": false
+  },
+  {
+   "id": 40856,
+   "title": "Análisis: El fracaso de Vulcan refleja el caos que reina en el sector",
+   "url": "https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/",
+   "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/11/VULCAN1-scaled.jpg",
+   "site": "Space Scout",
+   "summary": "El sector necesita urgentemente nuevas opciones de lanzamiento fiables para mantener el acceso al espacio de Estados Unidos.",
+   "publishedAt": "2026-11-16T15:01:11Z",
+   "eu": true
+  },
   {
    "id": 40852,
    "title": "Fracasa el regreso al vuelo del «Vulcan»",
@@ -27,7 +67,7 @@
    "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
    "site": "Spaceflight Now",
-   "summary": "En lo que supone un importante revés para United Launch Alliance, el nuevo cohete de gran capacidad «Vulcan» de la empresa, que transportaba un lote de satélites de Internet «Amazon Leo», sufrió una avería durante el ascenso al espacio el domingo, lo que condenó a la pérdida de la carga útil y supuso un costoso contratiempo para el calendario de lanzamientos de ambas empresas. ",
+   "summary": "En lo que supone un importante revés para United Launch Alliance, el nuevo cohete de gran capacidad «Vulcan» de la empresa, que transportaba un lote de satélites de Internet «Amazon Leo», sufrió una avería durante el ascenso al espacio el domingo, lo que condenó a la pérdida de la carga útil y supuso un costoso contratiempo para el calendario de lanzamientos de ambas empresas.",
    "publishedAt": "2026-11-15T19:16:59Z",
    "eu": false
   },
@@ -87,7 +127,7 @@
    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
    "site": "Spaceflight Now",
-   "summary": "El despegue del vehículo integrado Starship desde Starbase, en Texas, está previsto durante una ventana de lanzamiento de 75 minutos que comienza a las 16:45 h CST (17:45 h EST / 22:45 UTC) del viernes 13 de noviembre. ",
+   "summary": "El despegue del vehículo integrado Starship desde Starbase, en Texas, está previsto durante una ventana de lanzamiento de 75 minutos que comienza a las 16:45 h CST (17:45 h EST / 22:45 UTC) del viernes 13 de noviembre.",
    "publishedAt": "2026-11-13T19:15:11Z",
    "eu": false
   },
@@ -97,7 +137,7 @@
    "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
    "site": "Spaceflight Now",
-   "summary": "El despegue desde el Complejo de Lanzamiento Espacial 41 de la Estación de la Fuerza Espacial de Cabo Cañaveral está previsto para las 12:54 h EST (17:54 UTC), al inicio de una ventana de lanzamiento de 29 minutos. ",
+   "summary": "El despegue desde el Complejo de Lanzamiento Espacial 41 de la Estación de la Fuerza Espacial de Cabo Cañaveral está previsto para las 12:54 h EST (17:54 UTC), al inicio de una ventana de lanzamiento de 29 minutos.",
    "publishedAt": "2026-11-13T12:25:06Z",
    "eu": false
   },
@@ -180,26 +220,6 @@
    "summary": "La Agencia Espacial Europea (ESA) ha revelado que la decisión de MaiaSpace de optar por un modelo de financiación diferente al de sus competidores ha complicado las negociaciones sobre su contrato del «European Launcher Challenge». En una rueda de prensa de la ESA celebrada el 22 de octubre, la directora de Transporte Espacial de la ESA, Géraldine Naja, explicó que MaiaSpace era la única de las cuatro empresas […]\nLa entrada «La ESA explica el retraso en la firma del contrato del “Launcher Challenge” con MaiaSpace» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-12T10:36:32Z",
    "eu": true
-  },
-  {
-   "id": 40808,
-   "title": "Isaacman traza la hoja de ruta del SLS de cara a la década de 2030",
-   "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-11-03-33-24-435.jpg",
-   "site": "NASASpaceflight",
-   "summary": "El administrador de la NASA, Jared Isaacman, ha dado más detalles sobre la decisión de estandarizar el Sistema de Lanzamiento Espacial (SLS)…\nLa entrada «Isaacman traza la hoja de ruta del SLS hacia la década de 2030» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-11T04:02:42Z",
-   "eu": false
-  },
-  {
-   "id": 40807,
-   "title": "La NASA invita a los medios de comunicación y al público a participar en las actividades del «Día de una luz» de la Voyager 1",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg",
-   "site": "NASA",
-   "summary": "Lanzada hace casi 50 años, en 1977, la sonda Voyager 1 de la NASA habrá recorrido el miércoles 18 de noviembre un día luz desde la Tierra, lo que equivale a más de 16 000 millones de millas (25 900 millones de kilómetros). La Voyager 1 es el objeto fabricado por el ser humano más lejano, y cualquier luz procedente de la Tierra tardaría 24 horas en llegar a la nave espacial. La NASA destacará […]",
-   "publishedAt": "2026-11-10T19:22:45Z",
-   "eu": false
   }
  ]
 }
