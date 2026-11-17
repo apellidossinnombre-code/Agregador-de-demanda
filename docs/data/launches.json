@@ -1,11 +1,11 @@
 {
- "updatedAt": 1794920243410,
+ "updatedAt": 1794951440363,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "date": "2026-11-23T00:00:00Z",
-   "status": "TBD",
+   "date": "2026-11-23T11:09:00Z",
+   "status": "Go",
    "vehicle": "Ariane 64 Block 2",
    "provider": "Arianespace",
    "providerCountry": "FRA",
@@ -17,7 +17,7 @@
    "location": "Guiana Space Centre, French Guiana",
    "webcastLive": false,
    "boosters": [],
-   "windowEnd": "2026-11-23T00:00:00Z",
+   "windowEnd": "2026-11-23T11:38:00Z",
    "timeline": [],
    "rocket": {
     "family": "Ariane",
