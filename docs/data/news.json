@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794863820211,
+ "updatedAt": 1794887961125,
  "news": [
+  {
+   "id": 40865,
+   "title": "Un collage en el que se muestran los 49 agujeros de perforación realizados por el rover «Curiosity» de la NASA en Marte",
+   "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg",
+   "site": "NASA",
+   "summary": "Descripción: Este collage muestra los 49 agujeros de perforación captados por el rover Curiosity de la NASA en Marte hasta noviembre de 2026. Cada agujero corresponde a una muestra extraída de las rocas de la superficie marciana; el taladro del Curiosity, situado en el extremo de su brazo robótico, deposita las muestras de roca pulverizadas en los instrumentos situados en su parte inferior, que analizan su composición. Estas imágenes fueron […]",
+   "publishedAt": "2026-11-16T22:05:23Z",
+   "eu": true
+  },
+  {
+   "id": 40864,
+   "title": "Avance del lanzamiento: el Ariane 6 lanzará satélites de Amazon, mientras que el Falcon 9 se encargará de misiones gubernamentales",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "Tras una semana repleta de lanzamientos, el programa de lanzamientos a nivel mundial prevé…\nLa entrada «Avance de lanzamientos: el Ariane 6 lanzará satélites de Amazon y el Falcon 9, misiones gubernamentales» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-16T21:57:02Z",
+   "eu": true
+  },
   {
    "id": 40860,
    "title": "¿Cuándo volarán realmente los seres humanos en la Starship?",
