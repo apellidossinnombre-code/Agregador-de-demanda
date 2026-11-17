@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794887961125,
+ "updatedAt": 1794920245753,
  "news": [
+  {
+   "id": 40870,
+   "title": "ICEYE lanza una oferta pública de adquisición por valor de 2.05B € sobre el fabricante italiano de cohetes Avio",
+   "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp",
+   "site": "European Spaceflight",
+   "summary": "El fabricante y operador finlandés de satélites ICEYE ha lanzado una oferta pública de adquisición por valor de 2.05 mil millones de euros sobre Avio, con el objetivo de crear un «auténtico líder europeo en el sector espacial y de defensa». La empresa también ha esbozado planes para invertir 1.000 millones de euros adicionales en Italia si la adquisición sale adelante. El 17 de noviembre, la filial italiana de ICEYE, de la que es propietaria indirecta al 100 % […]\nLa entrada «ICEYE lanza una oferta pública de adquisición de 2.050 millones de euros por el fabricante italiano de cohetes Avio» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-17T08:08:40Z",
+   "eu": true
+  },
   {
    "id": 40865,
    "title": "Un collage en el que se muestran los 49 agujeros de perforación realizados por el rover «Curiosity» de la NASA en Marte",
@@ -17,7 +27,7 @@
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
    "site": "NASASpaceflight",
-   "summary": "Tras una semana repleta de lanzamientos, el programa de lanzamientos a nivel mundial prevé…\nLa entrada «Avance de lanzamientos: el Ariane 6 lanzará satélites de Amazon y el Falcon 9, misiones gubernamentales» se publicó por primera vez en NASASpaceFlight.com.",
+   "summary": "Tras una semana repleta de lanzamientos, el programa mundial de lanzamientos prevé…\nLa entrada «Avance de lanzamientos: el Ariane 6 lanzará satélites de Amazon y el Falcon 9, misiones gubernamentales» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-16T21:57:02Z",
    "eu": true
   },
@@ -230,16 +240,6 @@
    "summary": "Está previsto que el Vulcan, el actual vehículo de lanzamiento insignia de United Launch Alliance, vuelva a volar tras…\nLa entrada «El Vulcan de la ULA se prepara para volver a volar con la primera carga útil de Amazon Leo» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-12T17:44:44Z",
    "eu": false
-  },
-  {
-   "id": 40819,
-   "title": "La ESA explica el retraso en la firma del contrato del concurso «MaiaSpace Launcher Challenge»",
-   "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Explains-Delay-in-Signing-MaiaSpace-Launcher-Challenge-Contract.webp",
-   "site": "European Spaceflight",
-   "summary": "La Agencia Espacial Europea (ESA) ha revelado que la decisión de MaiaSpace de optar por un modelo de financiación diferente al de sus competidores ha complicado las negociaciones sobre su contrato del «European Launcher Challenge». En una rueda de prensa de la ESA celebrada el 22 de octubre, la directora de Transporte Espacial de la ESA, Géraldine Naja, explicó que MaiaSpace era la única de las cuatro empresas […]\nLa entrada «La ESA explica el retraso en la firma del contrato del “Launcher Challenge” con MaiaSpace» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-12T10:36:32Z",
-   "eu": true
   }
  ]
 }
