@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795001560522,
+ "updatedAt": 1795030309583,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -33,6 +33,14 @@
    "lat": 5.256319,
    "lon": -52.786838,
    "webcasts": [
+    {
+     "url": "https://www.youtube.com/watch?v=k2adMyxSoJE",
+     "title": "Flight VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
+    },
+    {
+     "url": "https://www.youtube.com/watch?v=w9Wokj3rBH4",
+     "title": "Vol VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
+    },
     {
      "url": "https://www.youtube.com/watch?v=F4xjWb4OEs4",
      "title": "Lancement Ariane 6 pour la constellation Amazon LEO (VA271)"

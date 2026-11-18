@@ -1,6 +1,36 @@
 {
- "updatedAt": 1795001562522,
+ "updatedAt": 1795030311550,
  "news": [
+  {
+   "id": 40895,
+   "title": "La NASA anuncia un concurso de cohetes eléctricos de potencia media para empresas estadounidenses",
+   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg",
+   "site": "NASA",
+   "summary": "La NASA ha lanzado un nuevo concurso en el que invita a las empresas estadounidenses a fabricar prototipos de propulsores de efecto Hall de potencia media, un tipo de sistema de propulsión eléctrica que se considera fundamental para las futuras operaciones y la exploración espacial. Los propulsores de efecto Hall utilizan un campo eléctrico para acelerar un gas propulsor, lo que genera un empuje eficiente para misiones de larga duración. Se utilizan para propulsar satélites y en […]",
+   "publishedAt": "2026-11-18T18:12:32Z",
+   "eu": false
+  },
+  {
+   "id": 40891,
+   "title": "¿Qué es la base lunar?",
+   "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+   "site": "NASA",
+   "summary": "Este artículo está dirigido a los estudiantes. La NASA va a enviar de nuevo a los astronautas a la Luna, y esta vez pasarán más tiempo en la superficie lunar. La Base Lunar es el primer puesto avanzado de la humanidad en la Luna. Será un lugar donde los astronautas vivirán, trabajarán y explorarán. ______________________________________________________________________ Términos que hay que conocer: puesto avanzado: una estación o base situada en […]",
+   "publishedAt": "2026-11-18T17:36:03Z",
+   "eu": true
+  },
+  {
+   "id": 40889,
+   "title": "El fallo del Vulcan se debió a un suministro insuficiente de combustible a los motores, según ULA",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934.jpg",
+   "site": "Arstechnica",
+   "summary": "«ULA es un socio muy valioso, y esperamos con interés el regreso de Vulcan a los cielos».",
+   "publishedAt": "2026-11-18T16:58:32Z",
+   "eu": false
+  },
   {
    "id": 40887,
    "title": "Un inversor de PLD Space elige el MIURA 5 para lanzar una misión de demostración",
@@ -189,66 +219,6 @@
    "site": "SpacePolicyOnline.com",
    "summary": "La 15.ª prueba de vuelo integrada (IFT-15) de la Starship de SpaceX ha regresado hoy a la Tierra y ha sido «recogida» de nuevo en la torre de lanzamiento tras dar 14 vueltas a la Tierra. Se trata de un hito para la […]",
    "publishedAt": "2026-11-14T21:53:18Z",
-   "eu": false
-  },
-  {
-   "id": 40846,
-   "title": "El próximo lanzamiento del Vega C se acerca cada vez más al día de Navidad debido al retraso en la llegada de los satélites",
-   "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Next-Vega-C-Launch-Edges-Closer-to-Christmas-Day-as-Satellites-Arrive-Late.webp",
-   "site": "European Spaceflight",
-   "summary": "El fabricante italiano de cohetes Avio ha revelado que los retrasos en la entrega de los satélites de sus clientes han hecho que el tercer lanzamiento del Vega C de 2026 se retrase hasta cerca de Navidad, varias semanas más tarde de lo previsto inicialmente. Durante la presentación de resultados del tercer trimestre de la empresa, celebrada el 11 de noviembre, el director ejecutivo de Avio, Giulio Ranzo, explicó que la misión, que transportará seis satélites, […]\nLa entrada «El próximo lanzamiento del Vega C se acerca al día de Navidad debido al retraso en la llegada de los satélites» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-14T06:00:41Z",
-   "eu": true
-  },
-  {
-   "id": 40845,
-   "title": "El vuelo 15 de la nave espacial se pone en órbita, lo que abre la posibilidad de una captura el sábado",
-   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg",
-   "site": "Arstechnica",
-   "summary": "De una forma u otra, la empresa obtendrá más datos el sábado.",
-   "publishedAt": "2026-11-14T00:49:13Z",
-   "eu": false
-  },
-  {
-   "id": 40844,
-   "title": "La nave espacial IFT-15 está en órbita: ¿la «atraparán» cuando regrese a la Tierra?",
-   "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "SpaceX ha lanzado esta tarde la 15.ª prueba de vuelo integrada de la Starship (IFT-15) desde Starbase, en Texas. Está previsto que el propulsor de la primera etapa regrese a la torre de lanzamiento para su «recogida» […]",
-   "publishedAt": "2026-11-13T23:54:54Z",
-   "eu": false
-  },
-  {
-   "id": 40843,
-   "title": "Cobertura en directo: el vuelo 15 de Starship intenta recuperar el vehículo completo mediante una captura en doble plataforma de lanzamiento",
-   "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El despegue del vehículo integrado Starship desde Starbase, en Texas, está previsto durante una ventana de lanzamiento de 75 minutos que comienza a las 16:45 h CST (17:45 h EST / 22:45 UTC) del viernes 13 de noviembre.",
-   "publishedAt": "2026-11-13T19:15:11Z",
-   "eu": false
-  },
-  {
-   "id": 40839,
-   "title": "El cohete Vulcan de ULA tiene previsto reanudar sus vuelos con el lanzamiento de 40 satélites Leo para Amazon",
-   "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El despegue desde el Complejo de Lanzamiento Espacial 41 de la Estación de la Fuerza Espacial de Cabo Cañaveral está previsto para las 12:54 h EST (17:54 UTC), al inicio de una ventana de lanzamiento de 29 minutos.",
-   "publishedAt": "2026-11-13T12:25:06Z",
-   "eu": false
-  },
-  {
-   "id": 40838,
-   "title": "Informe Rocket: La Starship se prepara para un vuelo de prueba histórico; un siglo de Electron",
-   "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
-   "site": "Arstechnica",
-   "summary": "«Se puede simplificar diciendo que es como un gran depósito que alimenta a los motores».",
-   "publishedAt": "2026-11-13T12:00:40Z",
    "eu": false
   }
  ]
