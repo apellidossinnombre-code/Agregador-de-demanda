@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794971283533,
+ "updatedAt": 1795001560522,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -32,8 +32,18 @@
    },
    "lat": 5.256319,
    "lon": -52.786838,
-   "webcasts": [],
-   "links": [],
+   "webcasts": [
+    {
+     "url": "https://www.youtube.com/watch?v=F4xjWb4OEs4",
+     "title": "Lancement Ariane 6 pour la constellation Amazon LEO (VA271)"
+    }
+   ],
+   "links": [
+    {
+     "url": "https://www.arianespace.com/folders/flight-va271-amazon-leo-le-04/",
+     "title": "Flight VA271 - Amazon Leo LE-04"
+    }
+   ],
    "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
    "vehEU": true,
    "payEU": false,

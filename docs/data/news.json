@@ -1,13 +1,33 @@
 {
- "updatedAt": 1794971285356,
+ "updatedAt": 1795001562522,
  "news": [
+  {
+   "id": 40887,
+   "title": "Un inversor de PLD Space elige el MIURA 5 para lanzar una misión de demostración",
+   "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp",
+   "site": "European Spaceflight",
+   "summary": "El fabricante japonés de satélites Mitsubishi Electric ha firmado un contrato con el fabricante español de cohetes PLD Space para lanzar un pequeño satélite a bordo del segundo vuelo de prueba del MIURA 5 de la empresa. PLD Space anunció que había firmado el contrato de lanzamiento el 18 de noviembre y describió el acuerdo como «una nueva etapa en la relación entre ambas empresas». […]\r\nLa entrada «Un inversor de PLD Space elige el MIURA 5 para lanzar una misión de demostración» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-18T07:25:17Z",
+   "eu": true
+  },
+  {
+   "id": 40884,
+   "title": "La ULA investiga el bajo rendimiento del propulsor en el fallo del lanzamiento del Vulcan",
+   "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "United Launch Alliance ha declarado hoy que se sospecha que el bajo rendimiento de la primera etapa de su cohete fue la causa del fallo del Vulcan Leo 1 el domingo. Fue el primer […]",
+   "publishedAt": "2026-11-18T03:52:35Z",
+   "eu": false
+  },
   {
    "id": 40881,
    "title": "El Electron de Rocket Lab completa su misión número 100, mientras que el Neutron avanza hacia su misión inaugural",
    "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
    "site": "NASASpaceflight",
-   "summary": "El pasado fin de semana, el cohete Electron, el caballo de batalla de Rocket Lab, completó oficialmente su misión número 100, convirtiéndose en el más rápido…\nLa entrada «El Electron de Rocket Lab completa su misión número 100, mientras que el Neutron avanza hacia su misión inaugural» apareció primero en NASASpaceFlight.com.",
+   "summary": "El pasado fin de semana, el cohete Electron, el caballo de batalla de Rocket Lab, completó oficialmente su misión número 100, convirtiéndose en el más rápido…\nLa entrada «El Electron de Rocket Lab completa su misión número 100; el Neutron avanza hacia su misión inaugural» apareció primero en NASASpaceFlight.com.",
    "publishedAt": "2026-11-17T22:24:58Z",
    "eu": false
   },
@@ -230,16 +250,6 @@
    "summary": "«Se puede simplificar diciendo que es como un gran depósito que alimenta a los motores».",
    "publishedAt": "2026-11-13T12:00:40Z",
    "eu": false
-  },
-  {
-   "id": 40837,
-   "title": "La ESA confirma que las últimas pruebas de Prometheus no guardan relación con los preparativos para el salto de Themis",
-   "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
-   "site": "European Spaceflight",
-   "summary": "La Agencia Espacial Europea (ESA) y ArianeGroup han confirmado que las pruebas del motor Prometheus realizadas en Lampoldshausen en octubre se llevaron a cabo independientemente de los preparativos para el vuelo inaugural, tan retrasado, del demostrador de cohete reutilizable Themis. En un comunicado de prensa del 6 de noviembre, ArianeGroup anunció que había completado una serie de pruebas de encendido del último […]\nLa entrada «La ESA confirma que las últimas pruebas del Prometheus no están relacionadas con los preparativos del vuelo de prueba del Themis» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-13T07:57:07Z",
-   "eu": true
   }
  ]
 }
