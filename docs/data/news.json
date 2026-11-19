@@ -1,6 +1,16 @@
 {
- "updatedAt": 1795051558484,
+ "updatedAt": 1795079793260,
  "news": [
+  {
+   "id": 40904,
+   "title": "La Voyager 1 alcanza un nuevo hito: a un día-luz de la Tierra",
+   "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/pale-blue-dot-300x161.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "La sonda Voyager 1 de la NASA ha alcanzado esta mañana otro hito. Lanzada en 1977, se convirtió en agosto de 2012 en el primer objeto fabricado por el hombre en adentrarse en el espacio interestelar y, hasta la fecha, […]",
+   "publishedAt": "2026-11-19T03:05:00Z",
+   "eu": false
+  },
   {
    "id": 40902,
    "title": "La NASA establece la cobertura del lanzamiento del CRS-25 de Northrop Grumman y las actividades previas al lanzamiento",
@@ -189,26 +199,6 @@
    "site": "NASA",
    "summary": "Descripción: Esta imagen conceptual muestra el satélite Sentinel-6B, que se convertirá en el satélite de referencia para otras misiones dedicadas al estudio de la altura de la superficie del mar.",
    "publishedAt": "2026-11-16T18:52:32Z",
-   "eu": true
-  },
-  {
-   "id": 40857,
-   "title": "De contratista a funcionario: la NASA da la bienvenida a Jim Mirandy",
-   "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg",
-   "site": "NASA",
-   "summary": "El rugido de un motor de cohete podría considerarse la banda sonora de la vida de Jim Mirandy. Mirandy ha crecido con la NASA como una presencia constante, y su trayectoria hasta convertirse en funcionario del Centro Espacial Stennis de la NASA, cerca de Bay St. Louis (Misisipi), se ha forjado a lo largo de décadas. Contratado en virtud de la directiva de personal de la agencia […]",
-   "publishedAt": "2026-11-16T15:22:09Z",
-   "eu": false
-  },
-  {
-   "id": 40856,
-   "title": "Análisis: El fracaso de Vulcan refleja el caos que reina en el sector",
-   "url": "https://www.spacescout.info/2026/11/analysis-vulcan-failure-reflects-an-industry-in-disarray/",
-   "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/11/VULCAN1-scaled.jpg",
-   "site": "Space Scout",
-   "summary": "El sector necesita urgentemente nuevas opciones de lanzamiento fiables para mantener el acceso al espacio de Estados Unidos.",
-   "publishedAt": "2026-11-16T15:01:11Z",
    "eu": true
   }
  ]
