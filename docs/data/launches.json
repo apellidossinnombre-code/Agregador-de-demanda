@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795079791233,
+ "updatedAt": 1795112646263,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -177,7 +177,7 @@
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
    "name": "Ariane 62 | Metop-SG B1",
-   "date": "2026-12-31T00:00:00Z",
+   "date": "2026-12-17T00:00:00Z",
    "status": "TBD",
    "vehicle": "Ariane 62",
    "provider": "Arianespace",
@@ -190,7 +190,7 @@
    "location": "Guiana Space Centre, French Guiana",
    "webcastLive": false,
    "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
+   "windowEnd": "2026-12-17T00:00:00Z",
    "timeline": [],
    "rocket": {
     "family": "Ariane",

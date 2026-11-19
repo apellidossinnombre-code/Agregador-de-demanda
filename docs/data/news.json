@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795079793260,
+ "updatedAt": 1795112646484,
  "news": [
   {
    "id": 40904,
@@ -169,36 +169,6 @@
    "site": "NASA",
    "summary": "Descripción: Este collage muestra los 49 agujeros de perforación captados por el rover Curiosity de la NASA en Marte hasta noviembre de 2026. Cada agujero corresponde a una muestra extraída de las rocas de la superficie marciana; el taladro del Curiosity, situado en el extremo de su brazo robótico, deposita las muestras de roca pulverizadas en los instrumentos situados en su parte inferior, que analizan su composición. Estas imágenes fueron […]",
    "publishedAt": "2026-11-16T22:05:23Z",
-   "eu": true
-  },
-  {
-   "id": 40864,
-   "title": "Avance del lanzamiento: el Ariane 6 lanzará satélites de Amazon, mientras que el Falcon 9 se encargará de misiones gubernamentales",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "Tras una semana repleta de lanzamientos, el programa mundial de lanzamientos prevé…\nLa entrada «Avance de lanzamientos: el Ariane 6 lanzará satélites de Amazon y el Falcon 9, misiones gubernamentales» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-16T21:57:02Z",
-   "eu": true
-  },
-  {
-   "id": 40860,
-   "title": "¿Cuándo volarán realmente los seres humanos en la Starship?",
-   "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg",
-   "site": "Arstechnica",
-   "summary": "Todas las estimaciones sobre los vuelos espaciales tripulados a bordo de la Starship deben tomarse con muchísima cautela.",
-   "publishedAt": "2026-11-16T19:46:08Z",
-   "eu": false
-  },
-  {
-   "id": 40861,
-   "title": "El Sentinel-6B en órbita alrededor de la Tierra",
-   "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg",
-   "site": "NASA",
-   "summary": "Descripción: Esta imagen conceptual muestra el satélite Sentinel-6B, que se convertirá en el satélite de referencia para otras misiones dedicadas al estudio de la altura de la superficie del mar.",
-   "publishedAt": "2026-11-16T18:52:32Z",
    "eu": true
   }
  ]
