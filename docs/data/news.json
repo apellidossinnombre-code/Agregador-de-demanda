@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795191970546,
+ "updatedAt": 1795214784172,
  "news": [
   {
    "id": 40922,
@@ -179,26 +179,6 @@
    "site": "NASA",
    "summary": "El Programa de Biología Espacial de la NASA, perteneciente a la División de Ciencias Biológicas y Físicas (BPS), investiga cómo responden los sistemas vivos en todo el espectro de la organización biológica para avanzar en la comprensión de cómo estos sistemas responden a los factores de estrés específicos de la exploración espacial, entre los que se incluyen la microgravedad, la radiación ionizante, los campos magnéticos débiles y los niveles elevados de CO₂. Mientras la NASA se prepara para misiones de larga duración en el espacio profundo […]",
    "publishedAt": "2026-11-17T20:39:38Z",
-   "eu": false
-  },
-  {
-   "id": 40876,
-   "title": "Los datos son muy preliminares, pero es posible que el fallo del Vulcan no se deba a los motores BE-4",
-   "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
-   "site": "Arstechnica",
-   "summary": "ULA y Blue Origin mantienen en secreto la información sobre el fallo del Vulcan.",
-   "publishedAt": "2026-11-17T18:00:51Z",
-   "eu": false
-  },
-  {
-   "id": 40875,
-   "title": "Fuentes: La investigación sobre la anomalía en el lanzamiento del Vulcan es compleja",
-   "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
-   "site": "Arstechnica",
-   "summary": "ULA y Blue Origin mantienen en secreto la información sobre el fallo del Vulcan.",
-   "publishedAt": "2026-11-17T18:00:51Z",
    "eu": false
   }
  ]
