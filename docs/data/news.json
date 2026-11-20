@@ -1,6 +1,16 @@
 {
- "updatedAt": 1795161023806,
+ "updatedAt": 1795191970546,
  "news": [
+  {
+   "id": 40922,
+   "title": "El rover «Curiosity» de la NASA recoge muestras en Marte",
+   "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+   "site": "NASA",
+   "summary": "Este collage del 16 de noviembre muestra los 49 agujeros de perforación captados por el rover Curiosity de la NASA en Marte hasta noviembre de 2026. Cada agujero corresponde a una muestra extraída de las rocas de la superficie marciana; el taladro del Curiosity, situado en el extremo de su brazo robótico, deposita las muestras de roca pulverizadas en los instrumentos situados en su parte inferior, que analizan su composición. Más información […]",
+   "publishedAt": "2026-11-20T15:53:24Z",
+   "eu": true
+  },
   {
    "id": 40919,
    "title": "El tormentoso Pacífico Suroeste",
@@ -17,7 +27,7 @@
    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
    "site": "Spaceflight Now",
-   "summary": "Esta misión es la última de la serie de misiones «R» encargadas por la Fuerza Espacial de EE. UU. El despegue desde la plataforma 4 Este está previsto para las 20:32 h PST (23:32 h EST / 432 UTC). ",
+   "summary": "Esta misión es la última de la serie de misiones «R» encargadas por la Fuerza Espacial de EE. UU. El despegue desde la plataforma 4 Este está previsto para las 20:32 h PST (23:32 h EST / 432 UTC).",
    "publishedAt": "2026-11-19T23:51:47Z",
    "eu": false
   },
@@ -77,7 +87,7 @@
    "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261118-Vulcan-Wide.jpg",
    "site": "Spaceflight Now",
-   "summary": "United Launch Alliance afirmó el miércoles que un análisis preliminar de los datos de vuelo apunta a un suministro insuficiente de combustible a los motores fabricados por Blue Origin de su cohete Vulcan, y no a un problema con los propios motores, como causa de que el lanzamiento del domingo no alcanzara la órbita con 40 satélites de Internet de Amazon Leo a bordo. ",
+   "summary": "United Launch Alliance afirmó el miércoles que un análisis preliminar de los datos de vuelo apunta a un suministro insuficiente de combustible a los motores fabricados por Blue Origin de su cohete Vulcan, y no a un problema con los propios motores, como causa de que el lanzamiento del domingo no alcanzara la órbita con 40 satélites de Internet de Amazon Leo a bordo.",
    "publishedAt": "2026-11-18T21:11:37Z",
    "eu": false
   },
