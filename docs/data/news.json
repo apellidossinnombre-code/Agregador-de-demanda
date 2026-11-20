@@ -1,6 +1,16 @@
 {
- "updatedAt": 1795135479106,
+ "updatedAt": 1795161023806,
  "news": [
+  {
+   "id": 40919,
+   "title": "El tormentoso Pacífico Suroeste",
+   "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg",
+   "site": "NASA",
+   "summary": "El ciclón tropical Xavier inauguró la temporada de tormentas de la cuenca por todo lo alto.",
+   "publishedAt": "2026-11-20T05:01:00Z",
+   "eu": false
+  },
   {
    "id": 40918,
    "title": "Retransmisión en directo: SpaceX lanzará una carga útil clasificada para la Fuerza Espacial de EE. UU.",
@@ -180,16 +190,6 @@
    "summary": "ULA y Blue Origin mantienen en secreto la información sobre el fallo del Vulcan.",
    "publishedAt": "2026-11-17T18:00:51Z",
    "eu": false
-  },
-  {
-   "id": 40870,
-   "title": "ICEYE lanza una oferta pública de adquisición por valor de 2.05B € sobre el fabricante italiano de cohetes Avio",
-   "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp",
-   "site": "European Spaceflight",
-   "summary": "El fabricante y operador finlandés de satélites ICEYE ha lanzado una oferta pública de adquisición por valor de 2.05 mil millones de euros sobre Avio, con el objetivo de crear un «auténtico líder europeo en el sector espacial y de defensa». La empresa también ha esbozado planes para invertir 1.000 millones de euros adicionales en Italia si la adquisición sale adelante. El 17 de noviembre, la filial italiana de ICEYE, de la que es propietaria indirecta al 100 % […]\nLa entrada «ICEYE lanza una oferta pública de adquisición de 2.050 millones de euros por el fabricante italiano de cohetes Avio» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-17T08:08:40Z",
-   "eu": true
   }
  ]
 }
