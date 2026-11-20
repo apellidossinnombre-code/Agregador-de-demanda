@@ -1,6 +1,36 @@
 {
- "updatedAt": 1795112646484,
+ "updatedAt": 1795135479106,
  "news": [
+  {
+   "id": 40918,
+   "title": "Retransmisión en directo: SpaceX lanzará una carga útil clasificada para la Fuerza Espacial de EE. UU.",
+   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Esta misión es la última de la serie de misiones «R» encargadas por la Fuerza Espacial de EE. UU. El despegue desde la plataforma 4 Este está previsto para las 20:32 h PST (23:32 h EST / 432 UTC). ",
+   "publishedAt": "2026-11-19T23:51:47Z",
+   "eu": false
+  },
+  {
+   "id": 40917,
+   "title": "Relativity prueba la segunda etapa del Terran R y completa las pruebas de calificación estructural antes del lanzamiento inaugural",
+   "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "Relativity Space está desarrollando el hardware de vuelo uno y la infraestructura terrestre del Terran R en las instalaciones de la NASA en Stennis…\nLa entrada «Relativity prueba la segunda etapa del Terran R y completa las pruebas de calificación estructural antes del lanzamiento inaugural» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-19T22:08:32Z",
+   "eu": false
+  },
+  {
+   "id": 40916,
+   "title": "Google recurre a Blue Origin para conseguir un cohete, pero su problema a largo plazo sigue sin resolverse",
+   "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3.jpg",
+   "site": "Arstechnica",
+   "summary": "«El Proyecto Suncatcher es un proyecto ambicioso a largo plazo».",
+   "publishedAt": "2026-11-19T19:52:54Z",
+   "eu": false
+  },
   {
    "id": 40904,
    "title": "La Voyager 1 alcanza un nuevo hito: a un día-luz de la Tierra",
@@ -159,16 +189,6 @@
    "site": "European Spaceflight",
    "summary": "El fabricante y operador finlandés de satélites ICEYE ha lanzado una oferta pública de adquisición por valor de 2.05 mil millones de euros sobre Avio, con el objetivo de crear un «auténtico líder europeo en el sector espacial y de defensa». La empresa también ha esbozado planes para invertir 1.000 millones de euros adicionales en Italia si la adquisición sale adelante. El 17 de noviembre, la filial italiana de ICEYE, de la que es propietaria indirecta al 100 % […]\nLa entrada «ICEYE lanza una oferta pública de adquisición de 2.050 millones de euros por el fabricante italiano de cohetes Avio» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-17T08:08:40Z",
-   "eu": true
-  },
-  {
-   "id": 40865,
-   "title": "Un collage en el que se muestran los 49 agujeros de perforación realizados por el rover «Curiosity» de la NASA en Marte",
-   "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg",
-   "site": "NASA",
-   "summary": "Descripción: Este collage muestra los 49 agujeros de perforación captados por el rover Curiosity de la NASA en Marte hasta noviembre de 2026. Cada agujero corresponde a una muestra extraída de las rocas de la superficie marciana; el taladro del Curiosity, situado en el extremo de su brazo robótico, deposita las muestras de roca pulverizadas en los instrumentos situados en su parte inferior, que analizan su composición. Estas imágenes fueron […]",
-   "publishedAt": "2026-11-16T22:05:23Z",
    "eu": true
   }
  ]
