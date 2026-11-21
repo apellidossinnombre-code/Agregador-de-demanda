@@ -1,6 +1,16 @@
 {
- "updatedAt": 1795261257500,
+ "updatedAt": 1795284806433,
  "news": [
+  {
+   "id": 40930,
+   "title": "Cobertura en directo: SpaceX lanzará satélites de recopilación de información para la Oficina Nacional de Reconocimiento",
+   "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+   "site": "Spaceflight Now",
+   "summary": "La misión NROL-136 será el cuarto lanzamiento del año destinado a reforzar la constelación de satélites de arquitectura proliferada de la agencia en órbita terrestre baja. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto durante una ventana de lanzamiento que se abre a las 4:16 a. m. PST (7:16 a. m. EST / 12:16 UTC). ",
+   "publishedAt": "2026-11-21T16:50:51Z",
+   "eu": false
+  },
   {
    "id": 40922,
    "title": "El rover «Curiosity» de la NASA recoge muestras en Marte",
@@ -169,16 +179,6 @@
    "site": "NASA",
    "summary": "El concurso para estudiantes «Power to Explore» de la NASA se puso en marcha el martes 17 de noviembre. Este concurso de ciencia, ingeniería, tecnología y matemáticas (STEM) invita a los alumnos de Estados Unidos, desde infantil hasta el 12.º curso, a conocer los sistemas de energía nuclear espacial y a ilustrar cómo estas «baterías» nucleares podrían contribuir a hacer realidad su visión de la exploración lunar. También se invita a los alumnos a escribir […]",
    "publishedAt": "2026-11-17T22:02:48Z",
-   "eu": false
-  },
-  {
-   "id": 40878,
-   "title": "Desafío AVATAR de BPS Digital",
-   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
-   "image": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
-   "site": "NASA",
-   "summary": "El Programa de Biología Espacial de la NASA, perteneciente a la División de Ciencias Biológicas y Físicas (BPS), investiga cómo responden los sistemas vivos en todo el espectro de la organización biológica para avanzar en la comprensión de cómo estos sistemas responden a los factores de estrés específicos de la exploración espacial, entre los que se incluyen la microgravedad, la radiación ionizante, los campos magnéticos débiles y los niveles elevados de CO₂. Mientras la NASA se prepara para misiones de larga duración en el espacio profundo […]",
-   "publishedAt": "2026-11-17T20:39:38Z",
    "eu": false
   }
  ]
