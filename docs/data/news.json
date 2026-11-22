@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795372720092,
+ "updatedAt": 1795391325563,
  "news": [
   {
    "id": 40930,
@@ -150,36 +150,6 @@
    "summary": "El fabricante japonés de satélites Mitsubishi Electric ha firmado un contrato con el fabricante español de cohetes PLD Space para lanzar un pequeño satélite a bordo del segundo vuelo de prueba del MIURA 5 de la empresa. PLD Space anunció que había firmado el contrato de lanzamiento el 18 de noviembre y describió el acuerdo como «una nueva etapa en la relación entre ambas empresas». […]\r\nLa entrada «Un inversor de PLD Space elige el MIURA 5 para lanzar una misión de demostración» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-18T07:25:17Z",
    "eu": true
-  },
-  {
-   "id": 40884,
-   "title": "La ULA investiga el bajo rendimiento del propulsor en el fallo del lanzamiento del Vulcan",
-   "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "United Launch Alliance ha declarado hoy que se sospecha que el bajo rendimiento de la primera etapa de su cohete fue la causa del fallo del Vulcan Leo 1 el domingo. Fue el primer […]",
-   "publishedAt": "2026-11-18T03:52:35Z",
-   "eu": false
-  },
-  {
-   "id": 40881,
-   "title": "El Electron de Rocket Lab completa su misión número 100, mientras que el Neutron avanza hacia su misión inaugural",
-   "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "El pasado fin de semana, el cohete Electron, el caballo de batalla de Rocket Lab, completó oficialmente su misión número 100, convirtiéndose en el más rápido…\nLa entrada «El Electron de Rocket Lab completa su misión número 100; el Neutron avanza hacia su misión inaugural» apareció primero en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-17T22:24:58Z",
-   "eu": false
-  },
-  {
-   "id": 40882,
-   "title": "La NASA lanza un concurso para estudiantes sobre sistemas de energía nuclear",
-   "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg",
-   "site": "NASA",
-   "summary": "El concurso para estudiantes «Power to Explore» de la NASA se puso en marcha el martes 17 de noviembre. Este concurso de ciencia, ingeniería, tecnología y matemáticas (STEM) invita a los alumnos de Estados Unidos, desde infantil hasta el 12.º curso, a conocer los sistemas de energía nuclear espacial y a ilustrar cómo estas «baterías» nucleares podrían contribuir a hacer realidad su visión de la exploración lunar. También se invita a los alumnos a escribir […]",
-   "publishedAt": "2026-11-17T22:02:48Z",
-   "eu": false
   }
  ]
 }
