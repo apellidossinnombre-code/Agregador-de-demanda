@@ -240,5 +240,41 @@
    "https://en.wikipedia.org/wiki/Maiden_flight"
   ],
   "at": 1794017154696
+ },
+ "0b85fcca-5252-48d7-9ccb-c10b1da9d183": {
+  "key": "b03749062f33",
+  "text": "Ariane 62, de Arianespace, lleva Galileo L15 (FOC FM28 & FM31) a Medium Earth Orbit desde Guiana Space Centre, French Guiana. La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo. Esta es una lista de los satélites actuales y anteriores del sistema de navegación Galileo.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://es.wikipedia.org/wiki/Ariane_6",
+   "https://en.wikipedia.org/wiki/List_of_Galileo_satellites"
+  ],
+  "at": 1795555880653
+ },
+ "526b4a0f-f0c9-4a20-9066-e9fc8c79307b": {
+  "key": "fe746c05f08c",
+  "text": "Ariane 62 Block 2, de Arianespace, lleva PLATO a Sun-Earth L2 desde Guiana Space Centre, French Guiana. Plato, acrónimo de «PLAnetary Transits and Oscillations of stars» (Tránsitos planetarios y oscilaciones estelares), es una misión de la Agencia Espacial Europea (ESA) que cuenta con 26 cámaras para estudiar exoplanetas terrestres en órbitas que llegan hasta la zona habitable de estrellas similares al Sol.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi",
+   "https://en.wikipedia.org/wiki/Ariane_6",
+   "https://es.wikipedia.org/wiki/Plato"
+  ],
+  "at": 1795555881731
+ },
+ "c73425e7-d668-4b80-b123-39cff09b31d7": {
+  "key": "5a1c859e25d6",
+  "text": "Ariane 62, de Arianespace, lleva Galileo L16 (FOC FM29 & FM30) a Medium Earth Orbit desde Guiana Space Centre, French Guiana. La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1795555881933
+ },
+ "91f5f940-da5a-44de-a10a-b44c59066285": {
+  "key": "164421d3f878",
+  "text": "Vega-C, de Avio S.p.A, lleva KOMPSAT-6 & PLATiNO 1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. El satélite polivalente coreano 6 (KOMPSAT-6) es el sexto satélite de observación de la Tierra de Corea del Sur de la serie KOMPSAT.",
+  "fuentes": [
+   "https://thespacedevs.com/llapi"
+  ],
+  "at": 1795555882594
  }
 }

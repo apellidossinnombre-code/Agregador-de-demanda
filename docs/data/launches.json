@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795520476794,
+ "updatedAt": 1795555882595,
  "launches": [
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -90,8 +90,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 648,
-    "ok": 647,
+    "total": 649,
+    "ok": 648,
     "fail": 1
    },
    "lat": 34.632,
@@ -359,748 +359,6 @@
    ]
   },
   {
-   "id": "dfd444f9-ddda-4b35-8f51-cda7cd801809",
-   "name": "Falcon 9 Block 5 | Rivada 1",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 1",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 1 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Networks es una empresa de tecnología de las comunicaciones con sede en Estados Unidos y oficinas en Estados Unidos e Irlanda.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
-    "https://en.wikipedia.org/wiki/Rivada_Networks"
-   ]
-  },
-  {
-   "id": "511a3ef8-799e-4723-9293-b954d9d2eb83",
-   "name": "Falcon 9 Block 5 | Rivada 10",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 10",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 10 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Networks es una empresa de tecnología de las comunicaciones con sede en Estados Unidos y oficinas en Estados Unidos e Irlanda.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
-    "https://en.wikipedia.org/wiki/Rivada_Networks"
-   ]
-  },
-  {
-   "id": "d08d8b46-353b-4eee-ab5e-e1385b329008",
-   "name": "Falcon 9 Block 5 | Rivada 11",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 11",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 11 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. El Falcon 9 Block 5 es un vehículo de lanzamiento de dos etapas, de empuje medio y parcialmente reutilizable, diseñado y fabricado en Estados Unidos por SpaceX.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Falcon_9_Block_5"
-   ]
-  },
-  {
-   "id": "bf5c6fa2-3add-49ff-aad6-c6450148cd89",
-   "name": "Falcon 9 Block 5 | Rivada 12",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 12",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 12 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "20fa8dc4-8cab-41cf-b452-98a2620f7e86",
-   "name": "Falcon 9 Block 5 | Rivada 2",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 2",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 2 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "ab932c60-d808-4825-ab71-b6fe0a745f15",
-   "name": "Falcon 9 Block 5 | Rivada 3",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 3",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 3 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "2f31a7f0-968a-448d-b447-333bf0341078",
-   "name": "Falcon 9 Block 5 | Rivada 4",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 4",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 4 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Networks es una empresa de tecnología de las comunicaciones con sede en Estados Unidos y oficinas en Estados Unidos e Irlanda.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
-    "https://en.wikipedia.org/wiki/Rivada_Networks"
-   ]
-  },
-  {
-   "id": "fa895702-687b-4ba3-95fb-9462a2c9844b",
-   "name": "Falcon 9 Block 5 | Rivada 5",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 5",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 5 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. Rivada Port Graham Solutions, también conocida como RPGS, es una pequeña empresa certificada por la SBA.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Falcon_9_Block_5",
-    "https://en.wikipedia.org/wiki/Rivada_Port_Graham_Solutions"
-   ]
-  },
-  {
-   "id": "46d6822b-82aa-452c-aa34-80b6f052de84",
-   "name": "Falcon 9 Block 5 | Rivada 6",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 6",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 6 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada. El Falcon 9 Block 5 es un vehículo de lanzamiento de dos etapas, de empuje medio y parcialmente reutilizable, diseñado y fabricado en Estados Unidos por SpaceX.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi",
-    "https://es.wikipedia.org/wiki/Falcon_9_Block_5"
-   ]
-  },
-  {
-   "id": "1fa3741c-3339-4954-a026-2cd9d36161c0",
-   "name": "Falcon 9 Block 5 | Rivada 7",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 7",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 7 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "7d77bd89-af23-4a5a-b632-de0034003a64",
-   "name": "Falcon 9 Block 5 | Rivada 8",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 8",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 8 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "5ce7e9b6-b471-4a88-891f-2a6f21cb369f",
-   "name": "Falcon 9 Block 5 | Rivada 9",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 9",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ],
-   "resumen": "Falcon 9 Block 5, de SpaceX, lleva Rivada 9 a Polar Orbit desde Vandenberg SFB, CA, USA. 24 satélites para la constelación de Internet de Rivada.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
    "id": "b565ab64-1642-4cef-a13f-f3dad53518e7",
    "name": "Spectrum | Cassini",
    "date": "2026-12-31T00:00:00Z",
@@ -1141,51 +399,6 @@
     "carga: ISISPACE"
    ],
    "resumen": "Spectrum, de Isar Aerospace, lleva Cassini a Low Earth Orbit desde Andøya Spaceport. Tres pequeños satélites que transportan cargas útiles para empresas de toda Europa, en el marco de los programas IOD (demostración en órbita) e IOV (verificación en órbita) de la ESA y la Unión Europea.",
-   "resumenAuto": true,
-   "resumenFuentes": [
-    "https://thespacedevs.com/llapi"
-   ]
-  },
-  {
-   "id": "2e37a196-f5f8-4496-96ae-63f4b6b27912",
-   "name": "Terran R | Intelsat-1",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Terran R",
-   "provider": "Relativity Space",
-   "providerCountry": "USA",
-   "payload": "Intelsat-1",
-   "missionType": "Communications",
-   "orbit": "Unknown",
-   "description": "Esta es la primera misión que forma parte de un acuerdo plurianual y de múltiples lanzamientos firmado entre Intelsat y Relativity Space en 2023.",
-   "pad": "Launch Complex 16",
-   "location": "Cape Canaveral SFS, FL, USA",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Terran",
-    "length": 66,
-    "diameter": 5.5,
-    "reusable": true,
-    "leo": 20000,
-    "stages": "2",
-    "total": 0,
-    "ok": 0,
-    "fail": 0
-   },
-   "lat": 28.501626,
-   "lon": -80.5518,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran_r_image_20220912002151.png",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Intelsat"
-   ],
-   "resumen": "Terran R, de Relativity Space, lleva Intelsat-1 a Unknown desde Cape Canaveral SFS, FL, USA. Esta es la primera misión que forma parte de un acuerdo plurianual y de múltiples lanzamientos firmado entre Intelsat y Relativity Space en 2023.",
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi"
@@ -1237,6 +450,194 @@
     "https://thespacedevs.com/llapi",
     "https://es.wikipedia.org/wiki/Zephyr",
     "https://en.wikipedia.org/wiki/Maiden_flight"
+   ]
+  },
+  {
+   "id": "0b85fcca-5252-48d7-9ccb-c10b1da9d183",
+   "name": "Ariane 62 | Galileo L15 (FOC FM28 & FM31)",
+   "date": "2027-02-28T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Ariane 62",
+   "provider": "Arianespace",
+   "providerCountry": "FRA",
+   "payload": "Galileo L15 (FOC FM28 & FM31)",
+   "missionType": "Navigation",
+   "orbit": "Medium Earth Orbit",
+   "description": "La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo.",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-02-28T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Ariane",
+    "length": 63,
+    "diameter": 5.4,
+    "reusable": false,
+    "leo": 10900,
+    "stages": "2",
+    "total": 6,
+    "ok": 6,
+    "fail": 0
+   },
+   "lat": 5.256319,
+   "lon": -52.786838,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Arianespace",
+    "carga: European Space Agency"
+   ],
+   "resumen": "Ariane 62, de Arianespace, lleva Galileo L15 (FOC FM28 & FM31) a Medium Earth Orbit desde Guiana Space Centre, French Guiana. La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo. Esta es una lista de los satélites actuales y anteriores del sistema de navegación Galileo.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Ariane_6",
+    "https://en.wikipedia.org/wiki/List_of_Galileo_satellites"
+   ]
+  },
+  {
+   "id": "526b4a0f-f0c9-4a20-9066-e9fc8c79307b",
+   "name": "Ariane 62 Block 2 | PLATO",
+   "date": "2027-03-31T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Ariane 62 Block 2",
+   "provider": "Arianespace",
+   "providerCountry": "FRA",
+   "payload": "PLATO",
+   "missionType": "Astrophysics",
+   "orbit": "Sun-Earth L2",
+   "description": "Plato, acrónimo de «PLAnetary Transits and Oscillations of stars» (Tránsitos planetarios y oscilaciones estelares), es una misión de la Agencia Espacial Europea (ESA) que cuenta con 26 cámaras para estudiar exoplanetas terrestres en órbitas que llegan hasta la zona habitable de estrellas similares al Sol. Su objetivo es medir el tamaño de los exoplanetas y descubrir exolunas y anillos a su alrededor, así como caracterizar las estrellas anfitrionas de los planetas mediante el estudio de las minúsculas variaciones en la luz estelar que recibe.",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-03-31T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Ariane",
+    "length": null,
+    "diameter": null,
+    "reusable": false,
+    "leo": null,
+    "stages": null,
+    "total": 0,
+    "ok": 0,
+    "fail": 0
+   },
+   "lat": 5.256319,
+   "lon": -52.786838,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Arianespace",
+    "carga: European Space Agency"
+   ],
+   "resumen": "Ariane 62 Block 2, de Arianespace, lleva PLATO a Sun-Earth L2 desde Guiana Space Centre, French Guiana. Plato, acrónimo de «PLAnetary Transits and Oscillations of stars» (Tránsitos planetarios y oscilaciones estelares), es una misión de la Agencia Espacial Europea (ESA) que cuenta con 26 cámaras para estudiar exoplanetas terrestres en órbitas que llegan hasta la zona habitable de estrellas similares al Sol.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://en.wikipedia.org/wiki/Ariane_6",
+    "https://es.wikipedia.org/wiki/Plato"
+   ]
+  },
+  {
+   "id": "c73425e7-d668-4b80-b123-39cff09b31d7",
+   "name": "Ariane 62 | Galileo L16 (FOC FM29 & FM30)",
+   "date": "2027-03-31T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Ariane 62",
+   "provider": "Arianespace",
+   "providerCountry": "FRA",
+   "payload": "Galileo L16 (FOC FM29 & FM30)",
+   "missionType": "Navigation",
+   "orbit": "Medium Earth Orbit",
+   "description": "La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo.",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-03-31T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Ariane",
+    "length": 63,
+    "diameter": 5.4,
+    "reusable": false,
+    "leo": 10900,
+    "stages": "2",
+    "total": 6,
+    "ok": 6,
+    "fail": 0
+   },
+   "lat": 5.256319,
+   "lon": -52.786838,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Arianespace",
+    "carga: European Space Agency"
+   ],
+   "resumen": "Ariane 62, de Arianespace, lleva Galileo L16 (FOC FM29 & FM30) a Medium Earth Orbit desde Guiana Space Centre, French Guiana. La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
+   ]
+  },
+  {
+   "id": "91f5f940-da5a-44de-a10a-b44c59066285",
+   "name": "Vega-C | KOMPSAT-6 & PLATiNO 1",
+   "date": "2027-04-30T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Vega-C",
+   "provider": "Avio S.p.A",
+   "providerCountry": "ITA",
+   "payload": "KOMPSAT-6 & PLATiNO 1",
+   "missionType": "Earth Science",
+   "orbit": "Sun-Synchronous Orbit",
+   "description": "El satélite polivalente coreano 6 (KOMPSAT-6) es el sexto satélite de observación de la Tierra de Corea del Sur de la serie KOMPSAT. Está equipado con un radar de apertura sintética con una resolución en superficie de entre 0,5 y 20 metros.\r\n\r\nPLATiNO 1 es un proyecto experimental de satélite de observación de la Tierra con radar de apertura sintética (SAR) en banda X de la Agencia Espacial Italiana (ASI), con una carga útil de radar de Thales Alenia Space Italia. El radar de apertura sintética (SAR) de banda X funcionará primero en modo pasivo a una altitud de 619 km y, posteriormente, en modo activo una vez que el satélite se haya desplazado a una órbita más baja, a 410 km.",
+   "pad": "Ariane Launch Area 1 (ELV)",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-04-30T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Vega",
+    "length": 34.8,
+    "diameter": 3,
+    "reusable": false,
+    "leo": 3300,
+    "stages": "4",
+    "total": 8,
+    "ok": 7,
+    "fail": 1
+   },
+   "lat": 5.236,
+   "lon": -52.775,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Avio S.p.A",
+    "carga: Italian Space Agency"
+   ],
+   "resumen": "Vega-C, de Avio S.p.A, lleva KOMPSAT-6 & PLATiNO 1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. El satélite polivalente coreano 6 (KOMPSAT-6) es el sexto satélite de observación de la Tierra de Corea del Sur de la serie KOMPSAT.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi"
    ]
   }
  ]

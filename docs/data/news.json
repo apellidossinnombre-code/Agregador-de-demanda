@@ -1,6 +1,66 @@
 {
- "updatedAt": 1795520478500,
+ "updatedAt": 1795555883896,
  "news": [
+  {
+   "id": 40965,
+   "title": "Los equipos definen la arquitectura de la misión del SR-1 Freedom de la NASA",
+   "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-freedom-11-6-2026.png",
+   "site": "NASA",
+   "summary": "La NASA ha completado una revisión exhaustiva del «Space Reactor-1 (SR-1) Freedom» y ha definido los elementos clave de la nave espacial, cuyo lanzamiento está previsto para 2028 y que demostrará por primera vez la propulsión eléctrica nuclear en el espacio profundo.   Expertos de toda la agencia, del Departamento de Energía de EE. UU. (DOE) y del sector se reunieron en el Centro de Investigación Glenn de la NASA […]",
+   "publishedAt": "2026-11-24T21:04:32Z",
+   "eu": false
+  },
+  {
+   "id": 40963,
+   "title": "Arianespace completa el décimo vuelo del Ariane 6; el próximo está previsto para el 17 de diciembre",
+   "url": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Arianespace-Completes-10th-Ariane-6-Flight-With-Next-Expected-on-17-December.webp",
+   "site": "European Spaceflight",
+   "summary": "Arianespace ha completado con éxito el décimo vuelo de su cohete Ariane 6, poniendo en órbita otros 36 satélites Amazon Leo. Actualmente se prevé que el sexto y probablemente último vuelo del cohete en 2026 tenga lugar el 17 de diciembre. El cohete Ariane 6 despegó del Centro Espacial de Guayana a las 11:14 UTC del 24 de noviembre. […]\nLa entrada «Arianespace completa el décimo vuelo del Ariane 6; el próximo está previsto para el 17 de diciembre» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-24T19:55:08Z",
+   "eu": true
+  },
+  {
+   "id": 40960,
+   "title": "Resumen de la misión CRS-25 de Northrop Grumman de la NASA",
+   "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png",
+   "site": "NASA",
+   "summary": "La misión «Northrop Grumman Commercial Resupply Services 25» de la NASA, también conocida como Northrop Grumman CRS-25, transportará unas 11 000 libras de material científico y suministros a la Estación Espacial Internacional. La misión será el tercer vuelo del Cygnus XL de la empresa, la versión más grande y con mayor capacidad de carga de su nave espacial alimentada con energía solar. El Cygnus XL se lanzará a bordo de un […]",
+   "publishedAt": "2026-11-24T19:09:16Z",
+   "eu": false
+  },
+  {
+   "id": 40962,
+   "title": "Programa de AGU Hyperwall",
+   "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+   "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+   "site": "NASA",
+   "summary": "Unión Geofísica Americana (AGU) 2026. Acércate a la NASA en la sala de exposiciones (stand n.º 525) para asistir a las sesiones de «Hyperwall Storytelling» a cargo de expertos de la NASA. A continuación se incluye el programa completo de Hyperwall. MARTES, 17 DE NOVIEMBRE 10:30 h Simulaciones hidrológicas de alta resolución e interfaces de superinteligencia agénica para cartografiar la disponibilidad de agua y los fenómenos extremos Sujay Kumar 11:00 h Métodos CFD con resolución a escala para predecir el «límite de la envolvente de vuelo» de las aeronaves Jared […]",
+   "publishedAt": "2026-11-24T18:55:42Z",
+   "eu": true
+  },
+  {
+   "id": 40957,
+   "title": "La estación espacial Tiangong recibirá a su primer visitante internacional",
+   "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Chang-Zheng-2FG-Y24-carrying-Shenzhou-24-spacecraft-arrives-at-the-launch-site-on-November-17-CMSA.webp",
+   "site": "NASASpaceflight",
+   "summary": "China se está preparando para lanzar la nave espacial tripulada Shenzhou-24 hacia la estación espacial Tiangong («palacio celestial»)…\nLa entrada «La estación espacial Tiangong dará la bienvenida a su primer visitante internacional» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-24T16:26:52Z",
+   "eu": false
+  },
+  {
+   "id": 40958,
+   "title": "El helicóptero «Dragonfly» de la NASA, destinado a Titán, ya tiene «ojos»",
+   "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/dragonfly/DragonCamInstall.jpg",
+   "site": "NASA",
+   "summary": "Los instrumentos científicos para el «Dragonfly» de la NASA están empezando a llegar al Laboratorio de Física Aplicada (APL) de la Universidad Johns Hopkins, en Laurel (Maryland), donde se está montando este helicóptero del tamaño de un coche para su misión de exploración de Titán, la luna más grande de Saturno. La primera en llegar ha sido la DragonCam, que consta de siete cámaras diseñadas para caracterizar la superficie de Titán a múltiples escalas durante […]",
+   "publishedAt": "2026-11-24T15:44:38Z",
+   "eu": true
+  },
   {
    "id": 40950,
    "title": "Northrop reserva un sexto Falcon 9 para el Cygnus mientras el Antares 330 sigue a la espera",
@@ -129,26 +189,6 @@
    "site": "NASASpaceflight",
    "summary": "Relativity Space está desarrollando el hardware de vuelo uno y la infraestructura terrestre del Terran R en las instalaciones de la NASA en Stennis…\nLa entrada «Relativity prueba la segunda etapa del Terran R y completa las pruebas de calificación estructural antes del lanzamiento inaugural» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-19T22:08:32Z",
-   "eu": false
-  },
-  {
-   "id": 40916,
-   "title": "Google recurre a Blue Origin para conseguir un cohete, pero su problema a largo plazo sigue sin resolverse",
-   "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3.jpg",
-   "site": "Arstechnica",
-   "summary": "«El Proyecto Suncatcher es un proyecto ambicioso a largo plazo».",
-   "publishedAt": "2026-11-19T19:52:54Z",
-   "eu": false
-  },
-  {
-   "id": 40904,
-   "title": "La Voyager 1 alcanza un nuevo hito: a un día-luz de la Tierra",
-   "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/pale-blue-dot-300x161.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "La sonda Voyager 1 de la NASA ha alcanzado esta mañana otro hito. Lanzada en 1977, se convirtió en agosto de 2012 en el primer objeto fabricado por el hombre en adentrarse en el espacio interestelar y, hasta la fecha, […]",
-   "publishedAt": "2026-11-19T03:05:00Z",
    "eu": false
   }
  ]
