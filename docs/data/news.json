@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795485021748,
+ "updatedAt": 1795520478500,
  "news": [
   {
    "id": 40950,
@@ -17,7 +17,7 @@
    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
    "site": "Spaceflight Now",
-   "summary": "La misión es la tercera de una serie de vuelos de la Fuerza Espacial de EE. UU. con la designación «TH» en los documentos públicos. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está programado para una ventana de lanzamiento que comienza a las 7:55 a. m. PST (10:55 a. m. EST / 15:55 UTC). ",
+   "summary": "La misión es la tercera de una serie de vuelos de la Fuerza Espacial de EE. UU. con la designación «TH» en los documentos públicos. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está programado para una ventana de lanzamiento que comienza a las 7:55 a. m. PST (10:55 a. m. EST / 15:55 UTC).",
    "publishedAt": "2026-11-23T22:21:32Z",
    "eu": false
   },
@@ -27,7 +27,7 @@
    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261122_LE-04_fairing.jpeg",
    "site": "Spaceflight Now",
-   "summary": "La misión Leo Europe 4 será el cuarto vuelo de los satélites Amazon Leo a bordo de un cohete Ariane 6 y el decimosexto lanzamiento de la constelación. El despegue desde el Puerto Espacial Europeo, en la Guayana Francesa, está previsto durante una ventana que se abre a las 8:09 h, hora de Kourou (6:09 h EST / 11:09 UTC). ",
+   "summary": "La misión Leo Europe 4 será el cuarto vuelo de los satélites Amazon Leo a bordo de un cohete Ariane 6 y el decimosexto lanzamiento de la constelación. El despegue desde el Puerto Espacial Europeo, en la Guayana Francesa, está previsto durante una ventana que se abre a las 8:09 h, hora de Kourou (6:09 h EST / 11:09 UTC).",
    "publishedAt": "2026-11-23T22:14:49Z",
    "eu": true
   },
@@ -37,7 +37,7 @@
    "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261109_Impulse_Space_Moon_Base.jpeg",
    "site": "Spaceflight Now",
-   "summary": "La NASA ha anunciado la adquisición de diversos medios de transporte para llegar a la superficie lunar y al espacio cis-lunar, con el fin de comprender mejor qué se necesita para llevar a cabo su programa de bases lunares. ",
+   "summary": "La NASA ha anunciado la adquisición de diversos medios de transporte para llegar a la superficie lunar y al espacio cis-lunar, con el fin de comprender mejor qué se necesita para llevar a cabo su programa de bases lunares.",
    "publishedAt": "2026-11-23T21:49:16Z",
    "eu": true
   },
@@ -67,7 +67,7 @@
    "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
    "image": "https://pbs.twimg.com/profile_images/1374417148483829765/nNF5rshy_400x400.jpg",
    "site": "Spaceflight Now",
-   "summary": "Cobertura en directo del lanzamiento y actualizaciones continuas a cargo del equipo de Spaceflight Now. Entre una retransmisión y otra, Launch Pad Live emite en directo las 24 horas del día, los 7 días de la semana, desde Cabo Cañaveral. ",
+   "summary": "Cobertura en directo del lanzamiento y actualizaciones continuas a cargo del equipo de Spaceflight Now. Entre una retransmisión y otra, Launch Pad Live emite en directo las 24 horas del día, los 7 días de la semana, desde Cabo Cañaveral.",
    "publishedAt": "2026-11-23T18:00:35Z",
    "eu": false
   },
@@ -149,26 +149,6 @@
    "site": "SpacePolicyOnline.com",
    "summary": "La sonda Voyager 1 de la NASA ha alcanzado esta mañana otro hito. Lanzada en 1977, se convirtió en agosto de 2012 en el primer objeto fabricado por el hombre en adentrarse en el espacio interestelar y, hasta la fecha, […]",
    "publishedAt": "2026-11-19T03:05:00Z",
-   "eu": false
-  },
-  {
-   "id": 40902,
-   "title": "La NASA establece la cobertura del lanzamiento del CRS-25 de Northrop Grumman y las actividades previas al lanzamiento",
-   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
-   "site": "NASA",
-   "summary": "La NASA, Northrop Grumman y SpaceX tienen previsto que el próximo lanzamiento, en el que se transportarán investigaciones científicas, suministros y equipamiento a la Estación Espacial Internacional, tenga lugar no antes de las 10:47 h EST del domingo 29 de noviembre. La agencia también celebrará una teleconferencia con los medios de comunicación previa al lanzamiento el lunes 23 de noviembre. Cargado con aproximadamente 11 000 libras de carga, el Northrop Grumman Cygnus […]",
-   "publishedAt": "2026-11-18T22:19:17Z",
-   "eu": false
-  },
-  {
-   "id": 40900,
-   "title": "La Voyager 1 alcanza un día luz casi 50 años después de su lanzamiento",
-   "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/voyager-scaled.jpg",
-   "site": "NASASpaceflight",
-   "summary": "A las 5:16:07 de la mañana, hora del Este (10:16 UTC) del 18 de noviembre, y a una distancia de 26…\nLa entrada «La Voyager 1 alcanza un día luz casi 50 años después de su lanzamiento» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-18T21:48:55Z",
    "eu": false
   }
  ]
