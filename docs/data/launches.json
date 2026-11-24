@@ -1,10 +1,10 @@
 {
- "updatedAt": 1795406738422,
+ "updatedAt": 1795485019878,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
    "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "date": "2026-11-23T11:09:00Z",
+   "date": "2026-11-24T10:45:00Z",
    "status": "Go",
    "vehicle": "Ariane 64 Block 2",
    "provider": "Arianespace",
@@ -17,7 +17,7 @@
    "location": "Guiana Space Centre, French Guiana",
    "webcastLive": false,
    "boosters": [],
-   "windowEnd": "2026-11-23T11:38:00Z",
+   "windowEnd": "2026-11-24T11:14:00Z",
    "timeline": [
     {
      "t": "-PT7S",
@@ -76,11 +76,11 @@
    "webcasts": [
     {
      "url": "https://www.youtube.com/watch?v=k2adMyxSoJE",
-     "title": "Flight VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
+     "title": "Postponed | Flight VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
     },
     {
      "url": "https://www.youtube.com/watch?v=w9Wokj3rBH4",
-     "title": "Vol VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
+     "title": "Reporté | Vol VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
     },
     {
      "url": "https://www.youtube.com/watch?v=F4xjWb4OEs4",

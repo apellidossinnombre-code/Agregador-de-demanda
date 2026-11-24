@@ -1,6 +1,86 @@
 {
- "updatedAt": 1795444250076,
+ "updatedAt": 1795485021748,
  "news": [
+  {
+   "id": 40950,
+   "title": "Northrop reserva un sexto Falcon 9 para el Cygnus mientras el Antares 330 sigue a la espera",
+   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Northrop Grumman ha contratado un sexto lanzamiento del Falcon 9 para su nave de reabastecimiento Cygnus, ampliando…\nLa entrada «Northrop contrata un sexto Falcon 9 para el Cygnus mientras el Antares 330 sigue a la espera» apareció primero en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-23T23:28:00Z",
+   "eu": false
+  },
+  {
+   "id": 40949,
+   "title": "Retransmisión en directo: SpaceX lanzará una carga útil clasificada para la Fuerza Espacial de EE. UU.",
+   "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
+   "site": "Spaceflight Now",
+   "summary": "La misión es la tercera de una serie de vuelos de la Fuerza Espacial de EE. UU. con la designación «TH» en los documentos públicos. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está programado para una ventana de lanzamiento que comienza a las 7:55 a. m. PST (10:55 a. m. EST / 15:55 UTC). ",
+   "publishedAt": "2026-11-23T22:21:32Z",
+   "eu": false
+  },
+  {
+   "id": 40948,
+   "title": "Cobertura en directo: Arianespace lanzará los satélites de Amazon Leo en plena escasez de cohetes",
+   "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261122_LE-04_fairing.jpeg",
+   "site": "Spaceflight Now",
+   "summary": "La misión Leo Europe 4 será el cuarto vuelo de los satélites Amazon Leo a bordo de un cohete Ariane 6 y el decimosexto lanzamiento de la constelación. El despegue desde el Puerto Espacial Europeo, en la Guayana Francesa, está previsto durante una ventana que se abre a las 8:09 h, hora de Kourou (6:09 h EST / 11:09 UTC). ",
+   "publishedAt": "2026-11-23T22:14:49Z",
+   "eu": true
+  },
+  {
+   "id": 40947,
+   "title": "La NASA pretende poner en marcha una «red de transporte intergaláctico» mediante la compra al por mayor de cohetes y vehículos de transferencia orbital por valor de 1.300 millones de dólares",
+   "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261109_Impulse_Space_Moon_Base.jpeg",
+   "site": "Spaceflight Now",
+   "summary": "La NASA ha anunciado la adquisición de diversos medios de transporte para llegar a la superficie lunar y al espacio cis-lunar, con el fin de comprender mejor qué se necesita para llevar a cabo su programa de bases lunares. ",
+   "publishedAt": "2026-11-23T21:49:16Z",
+   "eu": true
+  },
+  {
+   "id": 40946,
+   "title": "El Progress MS-36 tiene previsto despegar hacia la ISS desde Baikonur",
+   "url": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+   "site": "NASASpaceflight",
+   "summary": "La cuarta y última misión de reabastecimiento de la nave de carga Progress a la Estación Espacial Internacional de…\nLa entrada «La Progress MS-36 se prepara para su lanzamiento hacia la ISS desde Baikonur» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-23T21:32:11Z",
+   "eu": false
+  },
+  {
+   "id": 40944,
+   "title": "Rusia lanzará mañana una misión rutinaria de abastecimiento a la Estación Espacial Internacional; al parecer, es un gran secreto.",
+   "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k.jpg",
+   "site": "Arstechnica",
+   "summary": "«Te pediría que, por favor, te pusieras en contacto directamente con Roscosmos».",
+   "publishedAt": "2026-11-23T20:34:51Z",
+   "eu": false
+  },
+  {
+   "id": 40943,
+   "title": "Así sucedió: teleconferencia sobre las primicias de NG-25",
+   "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+   "image": "https://pbs.twimg.com/profile_images/1374417148483829765/nNF5rshy_400x400.jpg",
+   "site": "Spaceflight Now",
+   "summary": "Cobertura en directo del lanzamiento y actualizaciones continuas a cargo del equipo de Spaceflight Now. Entre una retransmisión y otra, Launch Pad Live emite en directo las 24 horas del día, los 7 días de la semana, desde Cabo Cañaveral. ",
+   "publishedAt": "2026-11-23T18:00:35Z",
+   "eu": false
+  },
+  {
+   "id": 40942,
+   "title": "La NASA busca socios para diseñar el primer reactor nuclear para la Luna",
+   "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
+   "site": "NASA",
+   "summary": "La NASA busca socios del sector industrial para desarrollar y probar el primer reactor nuclear diseñado para suministrar electricidad en la Luna, lo que supone un paso importante hacia el establecimiento de una presencia humana sostenida en la superficie lunar.  El Lunar Reactor-1 (LR-1) será un pequeño sistema de energía de fisión que generará 20 kilovatios de electricidad, suficientes para alimentar aproximadamente 16 […]",
+   "publishedAt": "2026-11-23T17:23:50Z",
+   "eu": true
+  },
   {
    "id": 40930,
    "title": "Cobertura en directo: SpaceX lanzará satélites de recopilación de información para la Oficina Nacional de Reconocimiento",
@@ -90,66 +170,6 @@
    "summary": "A las 5:16:07 de la mañana, hora del Este (10:16 UTC) del 18 de noviembre, y a una distancia de 26…\nLa entrada «La Voyager 1 alcanza un día luz casi 50 años después de su lanzamiento» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-18T21:48:55Z",
    "eu": false
-  },
-  {
-   "id": 40899,
-   "title": "La investigación sobre el fallo del «Vulcan» se centra en el «suministro insuficiente de combustible» a los motores auxiliares",
-   "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261118-Vulcan-Wide.jpg",
-   "site": "Spaceflight Now",
-   "summary": "United Launch Alliance afirmó el miércoles que un análisis preliminar de los datos de vuelo apunta a un suministro insuficiente de combustible a los motores fabricados por Blue Origin de su cohete Vulcan, y no a un problema con los propios motores, como causa de que el lanzamiento del domingo no alcanzara la órbita con 40 satélites de Internet de Amazon Leo a bordo.",
-   "publishedAt": "2026-11-18T21:11:37Z",
-   "eu": false
-  },
-  {
-   "id": 40897,
-   "title": "Es posible que un caudal insuficiente de combustible haya provocado el accidente del Vulcan",
-   "url": "https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/",
-   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Vulcan-schematic-300x161.jpg",
-   "site": "SpacePolicyOnline.com",
-   "summary": "United Launch Alliance ha declarado hoy que un caudal insuficiente de combustible desde el vehículo de lanzamiento hacia los motores BE-4 podría haber provocado el fallo del Vulcan Leo 1 el domingo. […]",
-   "publishedAt": "2026-11-18T19:27:13Z",
-   "eu": false
-  },
-  {
-   "id": 40895,
-   "title": "La NASA anuncia un concurso de cohetes eléctricos de potencia media para empresas estadounidenses",
-   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg",
-   "site": "NASA",
-   "summary": "La NASA ha lanzado un nuevo concurso en el que invita a las empresas estadounidenses a fabricar prototipos de propulsores de efecto Hall de potencia media, un tipo de sistema de propulsión eléctrica que se considera fundamental para las futuras operaciones y la exploración espacial. Los propulsores de efecto Hall utilizan un campo eléctrico para acelerar un gas propulsor, lo que genera un empuje eficiente para misiones de larga duración. Se utilizan para propulsar satélites y en […]",
-   "publishedAt": "2026-11-18T18:12:32Z",
-   "eu": false
-  },
-  {
-   "id": 40891,
-   "title": "¿Qué es la base lunar?",
-   "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
-   "site": "NASA",
-   "summary": "Este artículo está dirigido a los estudiantes. La NASA va a enviar de nuevo a los astronautas a la Luna, y esta vez pasarán más tiempo en la superficie lunar. La Base Lunar es el primer puesto avanzado de la humanidad en la Luna. Será un lugar donde los astronautas vivirán, trabajarán y explorarán. ______________________________________________________________________ Términos que hay que conocer: puesto avanzado: una estación o base situada en […]",
-   "publishedAt": "2026-11-18T17:36:03Z",
-   "eu": true
-  },
-  {
-   "id": 40889,
-   "title": "El fallo del Vulcan se debió a un suministro insuficiente de combustible a los motores, según ULA",
-   "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934.jpg",
-   "site": "Arstechnica",
-   "summary": "«ULA es un socio muy valioso, y esperamos con interés el regreso de Vulcan a los cielos».",
-   "publishedAt": "2026-11-18T16:58:32Z",
-   "eu": false
-  },
-  {
-   "id": 40887,
-   "title": "Un inversor de PLD Space elige el MIURA 5 para lanzar una misión de demostración",
-   "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp",
-   "site": "European Spaceflight",
-   "summary": "El fabricante japonés de satélites Mitsubishi Electric ha firmado un contrato con el fabricante español de cohetes PLD Space para lanzar un pequeño satélite a bordo del segundo vuelo de prueba del MIURA 5 de la empresa. PLD Space anunció que había firmado el contrato de lanzamiento el 18 de noviembre y describió el acuerdo como «una nueva etapa en la relación entre ambas empresas». […]\r\nLa entrada «Un inversor de PLD Space elige el MIURA 5 para lanzar una misión de demostración» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-18T07:25:17Z",
-   "eu": true
   }
  ]
 }
