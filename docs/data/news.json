@@ -1,13 +1,23 @@
 {
- "updatedAt": 1795618296153,
+ "updatedAt": 1795648980042,
  "news": [
+  {
+   "id": 40977,
+   "title": "MaiaSpace envía los modelos mecánicos de Maia al lugar de lanzamiento",
+   "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/MaiaSpace-Ships-Maia-Mechanical-Models-to-Launch-Site.webp",
+   "site": "European Spaceflight",
+   "summary": "MaiaSpace, filial de ArianeGroup, ha enviado a la Guayana Francesa modelos mecánicos a escala real de la primera y la segunda etapa de su cohete Maia. Las etapas se utilizarán para una serie de ensayos combinados en el Centro Espacial de Guayana durante el primer semestre de 2027. MaiaSpace anunció el 25 de noviembre que las dos etapas salieron de las instalaciones de la empresa […]\nLa entrada «MaiaSpace envía modelos mecánicos del Maia al lugar de lanzamiento» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-25T18:51:13Z",
+   "eu": true
+  },
   {
    "id": 40969,
    "title": "Avance del lanzamiento: cohetes rusos, chinos y de SpaceX lanzarán misiones a la estación espacial",
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
    "site": "NASASpaceflight",
-   "summary": "Está previsto el lanzamiento de diez cohetes durante la próxima semana, tres de los cuales visitarán dos…\nLa entrada «Avance de lanzamientos: cohetes rusos, chinos y de SpaceX para misiones a la estación espacial» se publicó por primera vez en NASASpaceFlight.com.",
+   "summary": "Está previsto el lanzamiento de diez cohetes durante la próxima semana, tres de los cuales visitarán dos…\nLa entrada «Avance de lanzamientos: cohetes rusos, chinos y de SpaceX para misiones a la estación espacial» apareció primero en NASASpaceFlight.com.",
    "publishedAt": "2026-11-25T01:06:02Z",
    "eu": false
   },
@@ -170,16 +180,6 @@
    "summary": "La misión NROL-136 será el cuarto lanzamiento del año destinado a reforzar la constelación de satélites de arquitectura proliferada de la agencia en órbita terrestre baja. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto durante una ventana de lanzamiento que se abre a las 4:16 a. m. PST (7:16 a. m. EST / 12:16 UTC).",
    "publishedAt": "2026-11-21T16:50:51Z",
    "eu": false
-  },
-  {
-   "id": 40922,
-   "title": "El rover «Curiosity» de la NASA recoge muestras en Marte",
-   "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
-   "site": "NASA",
-   "summary": "Este collage del 16 de noviembre muestra los 49 agujeros de perforación captados por el rover Curiosity de la NASA en Marte hasta noviembre de 2026. Cada agujero corresponde a una muestra extraída de las rocas de la superficie marciana; el taladro del Curiosity, situado en el extremo de su brazo robótico, deposita las muestras de roca pulverizadas en los instrumentos situados en su parte inferior, que analizan su composición. Más información […]",
-   "publishedAt": "2026-11-20T15:53:24Z",
-   "eu": true
   }
  ]
 }
