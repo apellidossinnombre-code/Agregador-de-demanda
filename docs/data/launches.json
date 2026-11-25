@@ -1,11 +1,11 @@
 {
- "updatedAt": 1795581104492,
+ "updatedAt": 1795618295647,
  "launches": [
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
    "name": "Ariane 62 | Metop-SG B1",
-   "date": "2026-12-17T00:00:00Z",
-   "status": "TBD",
+   "date": "2026-12-18T00:36:00Z",
+   "status": "Go",
    "vehicle": "Ariane 62",
    "provider": "Arianespace",
    "providerCountry": "FRA",
@@ -17,7 +17,7 @@
    "location": "Guiana Space Centre, French Guiana",
    "webcastLive": false,
    "boosters": [],
-   "windowEnd": "2026-12-17T00:00:00Z",
+   "windowEnd": "2026-12-18T00:36:00Z",
    "timeline": [],
    "rocket": {
     "family": "Ariane",
@@ -39,7 +39,7 @@
    "payEU": true,
    "euReason": [
     "lanzador: operador Arianespace",
-    "carga: coincidencia de texto (heurística)"
+    "carga: European Organisation for the Exploitation of Meteorological Satellites"
    ],
    "resumen": "Ariane 62, de Arianespace, lleva Metop-SG B1 a Sun-Synchronous Orbit desde Guiana Space Centre, French Guiana. Segundo satélite meteorológico de la segunda generación de la serie Metop de EUMETSAT. MetOp-SG es una serie de seis satélites meteorológicos desarrollados por la Agencia Espacial Europea y EUMETSAT, cuyo lanzamiento está previsto entre 2025 y 2039.",
    "resumenAuto": true,

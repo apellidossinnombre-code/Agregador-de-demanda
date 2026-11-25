@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795581106198,
+ "updatedAt": 1795618296153,
  "news": [
   {
    "id": 40969,
@@ -180,16 +180,6 @@
    "summary": "Este collage del 16 de noviembre muestra los 49 agujeros de perforación captados por el rover Curiosity de la NASA en Marte hasta noviembre de 2026. Cada agujero corresponde a una muestra extraída de las rocas de la superficie marciana; el taladro del Curiosity, situado en el extremo de su brazo robótico, deposita las muestras de roca pulverizadas en los instrumentos situados en su parte inferior, que analizan su composición. Más información […]",
    "publishedAt": "2026-11-20T15:53:24Z",
    "eu": true
-  },
-  {
-   "id": 40919,
-   "title": "El tormentoso Pacífico Suroeste",
-   "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg",
-   "site": "NASA",
-   "summary": "El ciclón tropical Xavier inauguró la temporada de tormentas de la cuenca por todo lo alto.",
-   "publishedAt": "2026-11-20T05:01:00Z",
-   "eu": false
   }
  ]
 }
