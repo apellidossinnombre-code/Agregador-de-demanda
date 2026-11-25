@@ -1,6 +1,26 @@
 {
- "updatedAt": 1795555883896,
+ "updatedAt": 1795581106198,
  "news": [
+  {
+   "id": 40969,
+   "title": "Avance del lanzamiento: cohetes rusos, chinos y de SpaceX lanzarán misiones a la estación espacial",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+   "site": "NASASpaceflight",
+   "summary": "Está previsto el lanzamiento de diez cohetes durante la próxima semana, tres de los cuales visitarán dos…\nLa entrada «Avance de lanzamientos: cohetes rusos, chinos y de SpaceX para misiones a la estación espacial» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-25T01:06:02Z",
+   "eu": false
+  },
+  {
+   "id": 40968,
+   "title": "El primer astronauta paquistaní se dirige a Tiangong",
+   "url": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/",
+   "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/shenzhou-24-liftoff-300x135.jpg",
+   "site": "SpacePolicyOnline.com",
+   "summary": "China ha enviado esta tarde, hora del Este de EE. UU., una nueva tripulación a la estación espacial Tiangong. Junto a dos taikonautas chinos se encuentra el primer astronauta de Pakistán, Muhammad Zeeshan Ali. Es la primera vez que China […]",
+   "publishedAt": "2026-11-25T00:58:29Z",
+   "eu": false
+  },
   {
    "id": 40965,
    "title": "Los equipos definen la arquitectura de la misión del SR-1 Freedom de la NASA",
@@ -169,26 +189,6 @@
    "site": "NASA",
    "summary": "El ciclón tropical Xavier inauguró la temporada de tormentas de la cuenca por todo lo alto.",
    "publishedAt": "2026-11-20T05:01:00Z",
-   "eu": false
-  },
-  {
-   "id": 40918,
-   "title": "Retransmisión en directo: SpaceX lanzará una carga útil clasificada para la Fuerza Espacial de EE. UU.",
-   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
-   "site": "Spaceflight Now",
-   "summary": "Esta misión es la última de la serie de misiones «R» encargadas por la Fuerza Espacial de EE. UU. El despegue desde la plataforma 4 Este está previsto para las 20:32 h PST (23:32 h EST / 432 UTC).",
-   "publishedAt": "2026-11-19T23:51:47Z",
-   "eu": false
-  },
-  {
-   "id": 40917,
-   "title": "Relativity prueba la segunda etapa del Terran R y completa las pruebas de calificación estructural antes del lanzamiento inaugural",
-   "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841.jpeg",
-   "site": "NASASpaceflight",
-   "summary": "Relativity Space está desarrollando el hardware de vuelo uno y la infraestructura terrestre del Terran R en las instalaciones de la NASA en Stennis…\nLa entrada «Relativity prueba la segunda etapa del Terran R y completa las pruebas de calificación estructural antes del lanzamiento inaugural» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-19T22:08:32Z",
    "eu": false
   }
  ]
