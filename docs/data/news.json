@@ -1,6 +1,26 @@
 {
- "updatedAt": 1795648980042,
+ "updatedAt": 1795670013733,
  "news": [
+  {
+   "id": 40980,
+   "title": "La FCC da luz verde al plan de SpaceX de lanzar un millón de satélites «Starmind» destinados a centros de datos",
+   "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261125_Starmind_rendering.jpeg",
+   "site": "Spaceflight Now",
+   "summary": "La autorización concedida por la Comisión Federal de Comunicaciones exige a SpaceX que ponga en órbita el primero de estos satélites antes del 25 de noviembre de 2033. Se exige que la constelación completa esté operativa a más tardar el 25 de noviembre de 2040. ",
+   "publishedAt": "2026-11-26T01:27:58Z",
+   "eu": false
+  },
+  {
+   "id": 40979,
+   "title": "La FCC aprueba el proyecto de Elon Musk de un millón de centros de datos orbitales",
+   "url": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/",
+   "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f1fa-1f1f8.png",
+   "site": "SpacePolicyOnline.com",
+   "summary": "El presidente de la FCC, Brendan Carr, ha anunciado hoy que la FCC ha aprobado la solicitud de Elon Musk de poner en órbita terrestre baja un millón de satélites que servirán como centros de datos en el espacio. […]",
+   "publishedAt": "2026-11-26T00:42:50Z",
+   "eu": false
+  },
   {
    "id": 40977,
    "title": "MaiaSpace envía los modelos mecánicos de Maia al lugar de lanzamiento",
