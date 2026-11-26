@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795670011654,
+ "updatedAt": 1795706365162,
  "launches": [
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -638,6 +638,54 @@
    "resumenAuto": true,
    "resumenFuentes": [
     "https://thespacedevs.com/llapi"
+   ]
+  },
+  {
+   "id": "3631c659-b638-45bc-9115-a2cb7373b9d0",
+   "name": "Spectrum | Tom & Jerry",
+   "date": "2027-06-30T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Spectrum",
+   "provider": "Isar Aerospace",
+   "providerCountry": "DEU",
+   "payload": "Tom & Jerry",
+   "missionType": "Technology",
+   "orbit": "Low Earth Orbit",
+   "description": "Dos satélites diseñados para demostrar las operaciones de encuentro y captura, esenciales para las capacidades de mantenimiento en órbita de Infinite Orbits.",
+   "pad": "Orbital Launch Pad",
+   "location": "Andøya Spaceport",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-06-30T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "",
+    "length": 28,
+    "diameter": 2,
+    "reusable": false,
+    "leo": 1000,
+    "stages": "2",
+    "total": 2,
+    "ok": 1,
+    "fail": 1
+   },
+   "lat": 69.1084,
+   "lon": 15.5895,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Isar Aerospace",
+    "carga: Infinite Orbits"
+   ],
+   "resumen": "Spectrum, de Isar Aerospace, lleva Tom & Jerry a Low Earth Orbit desde Andøya Spaceport. Dos satélites diseñados para demostrar las operaciones de encuentro y captura, fundamentales para las capacidades de mantenimiento en órbita de Infinite Orbits. Tom y Jerry son dos personajes de dibujos animados, un gato (Tom) y un ratón (Jerry), que protagonizaron un gran número de cortometrajes creados, escritos y dirigidos por William Hanna y Joseph Barberá.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://en.wikipedia.org/wiki/Spectrum",
+    "https://es.wikipedia.org/wiki/Tom_y_Jerry"
    ]
   }
  ]

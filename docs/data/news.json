@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795670013733,
+ "updatedAt": 1795706365634,
  "news": [
   {
    "id": 40980,
@@ -190,16 +190,6 @@
    "summary": "La NASA busca socios del sector industrial para desarrollar y probar el primer reactor nuclear diseñado para suministrar electricidad en la Luna, lo que supone un paso importante hacia el establecimiento de una presencia humana sostenida en la superficie lunar.  El Lunar Reactor-1 (LR-1) será un pequeño sistema de energía de fisión que generará 20 kilovatios de electricidad, suficientes para alimentar aproximadamente 16 […]",
    "publishedAt": "2026-11-23T17:23:50Z",
    "eu": true
-  },
-  {
-   "id": 40930,
-   "title": "Cobertura en directo: SpaceX lanzará satélites de recopilación de información para la Oficina Nacional de Reconocimiento",
-   "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-   "site": "Spaceflight Now",
-   "summary": "La misión NROL-136 será el cuarto lanzamiento del año destinado a reforzar la constelación de satélites de arquitectura proliferada de la agencia en órbita terrestre baja. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto durante una ventana de lanzamiento que se abre a las 4:16 a. m. PST (7:16 a. m. EST / 12:16 UTC).",
-   "publishedAt": "2026-11-21T16:50:51Z",
-   "eu": false
   }
  ]
 }
