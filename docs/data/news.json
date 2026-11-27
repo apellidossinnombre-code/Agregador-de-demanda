@@ -1,6 +1,46 @@
 {
- "updatedAt": 1795765059735,
+ "updatedAt": 1795801145691,
  "news": [
+  {
+   "id": 40991,
+   "title": "El astronauta de Artemis III, Andre Douglas, visita el VAB",
+   "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
+   "site": "NASA",
+   "summary": "El astronauta de la NASA Andre Douglas, especialista de la misión Artemis III, posa dentro de un prototipo de motor RS-25 durante una visita al Edificio de Ensamblaje de Vehículos del Centro Espacial Kennedy de la NASA, en Florida, el martes 17 de noviembre de 2026. Durante la misión Artemis III, cuatro motores RS-25 propulsarán la etapa central del cohete SLS (Sistema de Lanzamiento Espacial) para enviar la nave Orión […]",
+   "publishedAt": "2026-11-27T15:01:00Z",
+   "eu": false
+  },
+  {
+   "id": 40990,
+   "title": "El cohete Nova Pathfinder de Stoke Space llega a la plataforma SLC-14 antes de su estreno en 2027",
+   "url": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/23529451-6CE1-4D52-97E8-7B3632FF058C.jpeg",
+   "site": "NASASpaceflight",
+   "summary": "El Nova Pathfinder de Stoke Space avanza hacia su lanzamiento inaugural a principios de 2027 tras la llegada…\nLa entrada «El propulsor Nova Pathfinder de Stoke Space llega a la SLC-14 antes de su debut en 2027» se publicó por primera vez en NASASpaceFlight.com.",
+   "publishedAt": "2026-11-27T14:52:40Z",
+   "eu": false
+  },
+  {
+   "id": 40989,
+   "title": "Cientos de trabajadores de ArianeGroup se declaran en huelga en Bremen",
+   "url": "https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Hundreds-of-ArianeGroup-Workers-Strike-in-Bremen.webp",
+   "site": "European Spaceflight",
+   "summary": "Cerca de 650 empleados de la planta de ArianeGroup en Bremen (Alemania) participaron en una huelga de 24 horas el 24 de noviembre. La planta se encarga de la producción de las etapas superiores del Ariane 6. En un comunicado publicado el 24 de noviembre, el sindicato alemán IG Metall anunció que cerca de 39 000 empleados de 22 plantas repartidas por el norte de Alemania habían participado en […]\nLa entrada «Cientos de trabajadores de ArianeGroup se declaran en huelga en Bremen» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-27T14:32:07Z",
+   "eu": true
+  },
+  {
+   "id": 40988,
+   "title": "La misión NG-25 de la NASA pondrá en marcha una investigación pionera sobre cultivos espaciales",
+   "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+   "image": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg",
+   "site": "NASA",
+   "summary": "Los experimentos de la NASA, entre los que se incluye un sistema de cultivo espacial pionero en su género, viajarán a la Estación Espacial Internacional a bordo de la 25.ª misión de Servicios de Reabastecimiento Comercial de Northrop Grumman para la agencia. Los estudios de la División de Ciencias Biológicas y Físicas de la NASA impulsarán la investigación en beneficio de la vida en la Tierra y de la exploración futura, ampliando el conocimiento sobre los cultivos espaciales y la salud humana. Innovadores […]",
+   "publishedAt": "2026-11-27T14:22:00Z",
+   "eu": false
+  },
   {
    "id": 40980,
    "title": "La FCC da luz verde al plan de SpaceX de lanzar un millón de satélites «Starmind» destinados a centros de datos",
@@ -180,16 +220,6 @@
    "summary": "Cobertura en directo del lanzamiento y actualizaciones continuas a cargo del equipo de Spaceflight Now. Entre una retransmisión y otra, Launch Pad Live emite en directo las 24 horas del día, los 7 días de la semana, desde Cabo Cañaveral.",
    "publishedAt": "2026-11-23T18:00:35Z",
    "eu": false
-  },
-  {
-   "id": 40942,
-   "title": "La NASA busca socios para diseñar el primer reactor nuclear para la Luna",
-   "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
-   "site": "NASA",
-   "summary": "La NASA busca socios del sector industrial para desarrollar y probar el primer reactor nuclear diseñado para suministrar electricidad en la Luna, lo que supone un paso importante hacia el establecimiento de una presencia humana sostenida en la superficie lunar.  El Lunar Reactor-1 (LR-1) será un pequeño sistema de energía de fisión que generará 20 kilovatios de electricidad, suficientes para alimentar aproximadamente 16 […]",
-   "publishedAt": "2026-11-23T17:23:50Z",
-   "eu": true
   }
  ]
 }
