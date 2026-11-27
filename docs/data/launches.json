@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795737273287,
+ "updatedAt": 1795765059631,
  "launches": [
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -686,6 +686,53 @@
     "https://thespacedevs.com/llapi",
     "https://en.wikipedia.org/wiki/Spectrum",
     "https://es.wikipedia.org/wiki/Tom_y_Jerry"
+   ]
+  },
+  {
+   "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
+   "name": "SR75 | Flight 2",
+   "date": "2027-06-30T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "SR75",
+   "provider": "HyImpulse",
+   "providerCountry": "DEU",
+   "payload": "Flight 2",
+   "missionType": "Test Flight",
+   "orbit": "Suborbital",
+   "description": "Vuelo de prueba del cohete de sondeo SR75 de HyImpulse.",
+   "pad": "Unknown Pad",
+   "location": "SaxaVord Spaceport",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-06-30T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "",
+    "length": null,
+    "diameter": 0.64,
+    "reusable": false,
+    "leo": null,
+    "stages": "1",
+    "total": 1,
+    "ok": 1,
+    "fail": 0
+   },
+   "lat": 60.8184,
+   "lon": -0.7692,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sr-75_liftoff__image_20240503065630.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador HyImpulse",
+    "carga: HyImpulse"
+   ],
+   "resumen": "SR75, de HyImpulse, lleva Flight 2 a Suborbital desde SaxaVord Spaceport. Vuelo de prueba del cohete de sondeo SR75 de HyImpulse. Microsoft Flight Simulator comenzó como una serie de artículos sobre gráficos por ordenador, escritos por Bruce Artwick a lo largo de 1976, sobre el uso de la simulación de vuelo en gráficos 3D.",
+   "resumenAuto": true,
+   "resumenFuentes": [
+    "https://thespacedevs.com/llapi",
+    "https://es.wikipedia.org/wiki/Historia_de_Microsoft_Flight_Simulator"
    ]
   }
  ]
