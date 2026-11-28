@@ -1,6 +1,16 @@
 {
- "updatedAt": 1795854436684,
+ "updatedAt": 1795885623186,
  "news": [
+  {
+   "id": 40995,
+   "title": "Retransmisión en directo: SpaceX lanzará satélites para la red de datos de la Fuerza Espacial de EE. UU.",
+   "url": "https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network/",
+   "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+   "site": "Spaceflight Now",
+   "summary": "La misión USSF-380 será el séptimo vuelo destinado a esta constelación de satélites de la Fuerza Espacial de EE. UU. El despegue del cohete Falcon 9 desde la Base de la Fuerza Espacial de Vandenberg está previsto durante una ventana de lanzamiento que se abre a las 20:39 h PST / 23:39 h EST del 28 de noviembre (04:39 UTC del 29 de noviembre). ",
+   "publishedAt": "2026-11-28T14:05:09Z",
+   "eu": false
+  },
   {
    "id": 40994,
    "title": "HyImpulse completa la primera prueba de encendido con el sistema de control de vector de empuje SL1",
