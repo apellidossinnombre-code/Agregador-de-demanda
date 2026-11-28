@@ -1,6 +1,16 @@
 {
- "updatedAt": 1795826465086,
+ "updatedAt": 1795854436684,
  "news": [
+  {
+   "id": 40994,
+   "title": "HyImpulse completa la primera prueba de encendido con el sistema de control de vector de empuje SL1",
+   "url": "https://europeanspaceflight.com/hyimpulse-completes-first-hot-fire-test-with-sl1-thrust-vector-control-system/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/HyImpulse-Completes-First-Hot-Fire-Test-with-SL1-Thrust-Vector-Control-System.webp",
+   "site": "European Spaceflight",
+   "summary": "El fabricante alemán de cohetes HyImpulse ha completado la primera prueba de encendido en caliente de su motor híbrido HyPLOX-90, equipado con un sistema de control del vector de empuje, lo que supone un hito en el desarrollo de su vehículo de lanzamiento orbital SL1. HyImpulse anunció el éxito de la prueba en una nota de prensa del 27 de noviembre. En declaraciones a European Spaceflight, la empresa confirmó que la prueba […]\nLa entrada «HyImpulse completa la primera prueba de encendido con el sistema de control vectorial de empuje del SL1» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-28T06:00:22Z",
+   "eu": true
+  },
   {
    "id": 40991,
    "title": "El astronauta de Artemis III, Andre Douglas, visita el VAB",
@@ -199,26 +209,6 @@
    "site": "NASASpaceflight",
    "summary": "La cuarta y última misión de reabastecimiento de la nave de carga Progress a la Estación Espacial Internacional de…\nLa entrada «La Progress MS-36 se prepara para su lanzamiento hacia la ISS desde Baikonur» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-11-23T21:32:11Z",
-   "eu": false
-  },
-  {
-   "id": 40944,
-   "title": "Rusia lanzará mañana una misión rutinaria de abastecimiento a la Estación Espacial Internacional; al parecer, es un gran secreto.",
-   "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k.jpg",
-   "site": "Arstechnica",
-   "summary": "«Te pediría que, por favor, te pusieras en contacto directamente con Roscosmos».",
-   "publishedAt": "2026-11-23T20:34:51Z",
-   "eu": false
-  },
-  {
-   "id": 40943,
-   "title": "Así sucedió: teleconferencia sobre las primicias de NG-25",
-   "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-   "image": "https://pbs.twimg.com/profile_images/1374417148483829765/nNF5rshy_400x400.jpg",
-   "site": "Spaceflight Now",
-   "summary": "Cobertura en directo del lanzamiento y actualizaciones continuas a cargo del equipo de Spaceflight Now. Entre una retransmisión y otra, Launch Pad Live emite en directo las 24 horas del día, los 7 días de la semana, desde Cabo Cañaveral.",
-   "publishedAt": "2026-11-23T18:00:35Z",
    "eu": false
   }
  ]
